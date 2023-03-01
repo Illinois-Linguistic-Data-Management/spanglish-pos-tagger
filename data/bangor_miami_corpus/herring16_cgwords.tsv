@@ -1,0 +1,2999 @@
+word_id	utterance_id	location	surface	auto	fix	eng	com	speaker	langid	filename	clause	clauseno
+1	1	1	ya	already.ADV				ABE	spa	herring16		
+2	1	2	saliste	exit.V.2S.PAST				ABE	spa	herring16		
+3	1	3	?					ABE	999	herring16		
+4	2	1	.					ABE	999	herring16		
+5	3	1	no	not.ADV				ABE	spa	herring16		
+6	3	2	pero	but.CONJ				ABE	spa	herring16		
+7	3	3	todavía	yet.ADV				ABE	spa	herring16		
+8	3	4	no	not.ADV				ABE	spa	herring16		
+9	3	5	cada	every.ADJ.MF.SG				ABE	spa	herring16		
+10	3	6	palabra	word.N.F.SG				ABE	spa	herring16		
+11	3	7	hace	do.V.3S.PRES				ABE	spa	herring16		
+12	3	8	and	and.CONJ				ABE	eng	herring16		
+13	3	9	and	and.CONJ				ABE	eng	herring16		
+14	3	10	.					ABE	999	herring16		
+15	4	1	ay	oh.IM				IAN	spa	herring16		
+16	4	2	Dios	God.N.M.SG				IAN	spa	herring16		
+17	4	3	mío	of_mine.ADJ.POSS.MF.1S.M.SG				IAN	spa	herring16		
+18	4	4	.					IAN	999	herring16		
+19	5	1	.					ABE	999	herring16		
+20	6	1	hace	do.V.3S.PRES				ABE	spa	herring16		
+21	6	2	.					ABE	999	herring16		
+22	7	1	oh	oh.IM				ABE	eng	herring16		
+23	7	2	my	my.ADJ.POSS.1S				ABE	eng	herring16		
+24	7	3	God	name				ABE	eng	herring16		
+25	7	4	.					ABE	999	herring16		
+26	8	1	.					ABE	999	herring16		
+27	9	1	.					ABE	999	herring16		
+28	10	1	.					ABE	999	herring16		
+29	11	1	um	um.IM				ABE	eng	herring16		
+30	11	2	.					ABE	999	herring16		
+31	12	1	mira	look.V.2S.IMPER				ABE	spa	herring16		
+32	12	2	y	and.CONJ				ABE	spa	herring16		
+33	12	3	qué	what.INT				ABE	spa	herring16		
+34	12	4	haces	do.V.2S.PRES				ABE	spa	herring16		
+35	12	5	?					ABE	999	herring16		
+36	13	1	mira	look.V.2S.IMPER				ABE	spa	herring16		
+37	13	2	cuando	when.CONJ				ABE	spa	herring16		
+38	13	3	los	the.DET.DEF.M.PL				ABE	spa	herring16		
+39	13	4	otros	others.PRON.M.PL				ABE	spa	herring16		
+40	13	5	van	go.V.3P.PRES				ABE	spa	herring16		
+41	13	6	para	for.PREP				ABE	spa	herring16		
+42	13	7	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+43	13	8	carnival	carnival.N.SG				ABE	eng	herring16		
+44	13	9	center	cent.N.SG+COMP.AG.[or].center.N.SG				ABE	eng	herring16		
+45	13	10	a	to.PREP				ABE	spa	herring16		
+46	13	11	las	the.DET.DEF.F.PL				ABE	spa	herring16		
+47	13	12	tres	three.NUM				ABE	spa	herring16		
+48	13	13	.					ABE	999	herring16		
+49	14	1	mmhm	mmhm.IM				IAN	eng	herring16		
+50	14	2	.					IAN	999	herring16		
+51	15	1	y	and.CONJ				ABE	spa	herring16		
+52	15	2	a	to.PREP				ABE	spa	herring16		
+53	15	3	las	the.DET.DEF.F.PL				ABE	spa	herring16		
+54	15	4	y	and.CONJ				ABE	spa	herring16		
+55	15	5	a	to.PREP				ABE	spa	herring16		
+56	15	6	las	the.DET.DEF.F.PL				ABE	spa	herring16		
+57	15	7	y	and.CONJ				ABE	spa	herring16		
+58	15	8	a	to.PREP				ABE	spa	herring16		
+59	15	9	las	the.DET.DEF.F.PL				ABE	spa	herring16		
+60	15	10	cinco	five.NUM				ABE	spa	herring16		
+61	15	11	vamos	go.V.1P.PRES				ABE	spa	herring16		
+62	15	12	para	for.PREP				ABE	spa	herring16		
+63	15	13	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+64	15	14	Miami	name				ABE	eng	herring16		
+65	15	15	Fair	name				ABE	eng	herring16		
+66	15	16	.					ABE	999	herring16		
+67	16	1	hello	hello.N.SG				ABE	eng	herring16		
+68	16	2	.					ABE	999	herring16		
+69	17	1	on	on.PREP				ABE	eng	herring16		
+70	17	2	my	my.ADJ.POSS.1S				ABE	eng	herring16		
+71	17	3	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+72	17	4	carnival	carnival.N.SG				ABE	eng	herring16		
+73	17	5	center	cent.N.SG+COMP.AG.[or].center.N.SG				ABE	eng	herring16		
+74	17	6	?					ABE	999	herring16		
+75	18	1	que	that.CONJ				ABE	spa	herring16		
+76	18	2	hay	there_is.V.3S.PRES				ABE	spa	herring16		
+77	18	3	un	one.DET.INDEF.M.SG				ABE	spa	herring16		
+78	18	4	como	like.CONJ				ABE	spa	herring16		
+79	18	5	una	a.DET.INDEF.F.SG				ABE	spa	herring16		
+80	18	6	cosa	thing.N.F.SG				ABE	spa	herring16		
+81	18	7	en	in.PREP				ABE	spa	herring16		
+82	18	8	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+83	18	9	carnival	carnival.N.SG				ABE	eng	herring16		
+84	18	10	center	cent.N.SG+COMP.AG.[or].center.N.SG				ABE	eng	herring16		
+85	18	11	.					ABE	999	herring16		
+86	19	1	ahí	there.ADV				ABE	spa	herring16		
+87	19	2	al	to_the.PREP+DET.DEF.M.SG				ABE	spa	herring16		
+88	19	3	lado	side.N.M.SG				ABE	spa	herring16		
+89	19	4	de	of.PREP				ABE	spa	herring16		
+90	19	5	la	the.DET.DEF.F.SG				ABE	spa	herring16		
+91	19	6	escuela	school.N.F.SG				ABE	spa	herring16		
+92	19	7	en	in.PREP				ABE	spa	herring16		
+93	19	8	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+94	19	9	carnival	carnival.N.SG				ABE	eng	herring16		
+95	19	10	center	cent.N.SG+COMP.AG.[or].center.N.SG				ABE	eng	herring16		
+96	19	11	.					ABE	999	herring16		
+97	20	1	hay	there_is.V.3S.PRES				ABE	spa	herring16		
+98	20	2	alguna	some.ADJ.F.SG				ABE	spa	herring16		
+99	20	3	actividad	activity.N.F.SG				ABE	spa	herring16		
+100	20	4	de	of.PREP				ABE	spa	herring16		
+101	20	5	tres	three.NUM				ABE	spa	herring16		
+102	20	6	a	to.PREP				ABE	spa	herring16		
+103	20	7	cinco	five.NUM				ABE	spa	herring16		
+104	20	8	como	like.CONJ				ABE	spa	herring16		
+105	20	9	live	live.V.INFIN				ABE	eng	herring16		
+106	20	10	music	music.N.SG				ABE	eng	herring16		
+107	20	11	y	and.CONJ				ABE	spa	herring16		
+108	20	12	todas	all.ADJ.F.PL				ABE	spa	herring16		
+109	20	13	estas	this.ADJ.DEM.F.PL				ABE	spa	herring16		
+110	20	14	cosas	thing.N.F.PL				ABE	spa	herring16		
+111	20	15	.					ABE	999	herring16		
+112	21	1	y	and.CONJ				ABE	spa	herring16		
+113	21	2	luego	next.ADV				ABE	spa	herring16		
+114	21	3	vamos	go.V.1P.PRES				ABE	spa	herring16		
+115	21	4	para	for.PREP				ABE	spa	herring16		
+116	21	5	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+117	21	6	Miami	name				ABE	eng	herring16		
+118	21	7	fair	fair.ADJ				ABE	eng	herring16		
+119	21	8	donde	where.REL				ABE	spa	herring16		
+120	21	9	están	be.V.3P.PRES				ABE	spa	herring16		
+121	21	10	los	lo.IM+PV				ABE	eng	herring16		
+122	21	11	roller_coasters	unk				ABE	eng	herring16		
+123	21	12	a	to.PREP				ABE	spa	herring16		
+124	21	13	las	the.DET.DEF.F.PL				ABE	spa	herring16		
+125	21	14	cinco	five.NUM				ABE	spa	herring16		
+126	21	15	.					ABE	999	herring16		
+127	22	1	pero	but.CONJ				ABE	spa	herring16		
+128	22	2	tú	you.PRON.SUB.MF.2S				ABE	spa	herring16		
+129	22	3	tienes	have.V.2S.PRES				ABE	spa	herring16		
+130	22	4	la	the.DET.DEF.F.SG				ABE	spa	herring16		
+131	22	5	boda	wedding.N.F.SG				ABE	spa	herring16		
+132	22	6	hoy	today.ADV				ABE	spa	herring16		
+133	22	7	verdad	truth.N.F.SG				ABE	spa	herring16		
+134	22	8	?					ABE	999	herring16		
+135	23	1	bueno	well.E				ABE	spa	herring16		
+136	23	2	pues	then.CONJ				ABE	spa	herring16		
+137	23	3	.					ABE	999	herring16		
+138	24	1	si	if.CONJ				ABE	spa	herring16		
+139	24	2	si	if.CONJ				ABE	spa	herring16		
+140	24	3	no	not.ADV				ABE	spa	herring16		
+141	24	4	estás	be.V.2S.PRES				ABE	spa	herring16		
+142	24	5	haciendo	do.V.PRESPART				ABE	spa	herring16		
+143	24	6	nada	nothing.PRON				ABE	spa	herring16		
+144	24	7	me	me.PRON.OBL.MF.1S				ABE	spa	herring16		
+145	24	8	llamas	llama.N.F.PL.[or].call.V.2S.PRES				ABE	spa	herring16		
+146	24	9	.					ABE	999	herring16		
+147	25	1	ok	unk				ABE	eng&spa	herring16		
+148	25	2	.					ABE	999	herring16		
+149	26	1	un	one.DET.INDEF.M.SG				ABE	spa	herring16		
+150	26	2	besote	kiss.N.M.SG.AUG				ABE	spa	herring16		
+151	26	3	.					ABE	999	herring16		
+152	27	1	ay	oh.IM				ABE	spa	herring16		
+153	27	2	mija	my_dear.E				ABE	spa	herring16		
+154	27	3	salí	exit.V.1S.PAST				ABE	spa	herring16		
+155	27	4	a	to.PREP				ABE	spa	herring16		
+156	27	5	las	the.DET.DEF.F.PL				ABE	spa	herring16		
+157	27	6	once	eleven.NUM				ABE	spa	herring16		
+158	27	7	de	of.PREP				ABE	spa	herring16		
+159	27	8	la	the.DET.DEF.F.SG				ABE	spa	herring16		
+160	27	9	noche	night.N.F.SG				ABE	spa	herring16		
+161	27	10	de	of.PREP				ABE	spa	herring16		
+162	27	11	allá	there.ADV				ABE	spa	herring16		
+163	27	12	.					ABE	999	herring16		
+164	28	1	cállate	shut_up.V.2S.IMPER.PRECLITIC+TE[PRON.MF.2S]				ABE	spa	herring16		
+165	28	2	.					ABE	999	herring16		
+166	29	1	cállate	shut_up.V.2S.IMPER.PRECLITIC+TE[PRON.MF.2S]				ABE	spa	herring16		
+167	29	2	que	that.CONJ				ABE	spa	herring16		
+168	29	3	me	me.PRON.OBL.MF.1S				ABE	spa	herring16		
+169	29	4	quiero	want.V.1S.PRES				ABE	spa	herring16		
+170	29	5	morir	die.V.INFIN				ABE	spa	herring16		
+171	29	6	.					ABE	999	herring16		
+172	30	1	ah	ah.IM				ABE	eng&spa	herring16		
+173	30	2	?					ABE	999	herring16		
+174	31	1	ay	oh.IM				ABE	spa	herring16		
+175	31	2	sí	yes.ADV				ABE	spa	herring16		
+176	31	3	.					ABE	999	herring16		
+177	32	1	pero	but.CONJ				ABE	spa	herring16		
+178	32	2	como	like.CONJ				ABE	spa	herring16		
+179	32	3	quieran	want.V.3P.SUBJ.PRES				ABE	spa	herring16		
+180	32	4	no	not.ADV				ABE	spa	herring16		
+181	32	5	me	me.PRON.OBL.MF.1S				ABE	spa	herring16		
+182	32	6	lo	him.PRON.OBJ.M.3S				ABE	spa	herring16		
+183	32	7	han	have.V.3P.PRES				ABE	spa	herring16		
+184	32	8	pagado	pay.V.PASTPART				ABE	spa	herring16		
+185	32	9	.					ABE	999	herring16		
+186	33	1	con	with.PREP				ABE	spa	herring16		
+187	33	2	cheque	cheque.N.M.SG				ABE	spa	herring16		
+188	33	3	.					ABE	999	herring16		
+189	34	1	claro	of_course.E				ABE	spa	herring16		
+190	34	2	que	that.CONJ				ABE	spa	herring16		
+191	34	3	no	not.ADV				ABE	spa	herring16		
+192	34	4	.					ABE	999	herring16		
+193	35	1	a	to.PREP				ABE	spa	herring16		
+194	35	2	nadie	no-one.PRON				ABE	spa	herring16		
+195	35	3	.					ABE	999	herring16		
+196	36	1	let's	let.V.IMPER+US.PRON.SUB.1P				ABE	eng	herring16		
+197	36	2	see	see.SV.INFIN				ABE	eng	herring16		
+198	36	3	.					ABE	999	herring16		
+199	37	1	si	if.CONJ				ABE	spa	herring16		
+200	37	2	no	not.ADV				ABE	spa	herring16		
+201	37	3	.					ABE	999	herring16		
+202	38	1	ok	unk				ABE	eng&spa	herring16		
+203	38	2	un	one.DET.INDEF.M.SG				ABE	spa	herring16		
+204	38	3	beso	kiss.N.M.SG				ABE	spa	herring16		
+205	38	4	a	to.PREP				ABE	spa	herring16		
+206	38	5	ella	she.PRON.OBJ.F.3S				ABE	spa	herring16		
+207	38	6	también	too.ADV				ABE	spa	herring16		
+208	38	7	bye	bye.N.SG				ABE	eng	herring16		
+209	38	8	bye	bye.N.SG				ABE	eng	herring16		
+210	38	9	.					ABE	999	herring16		
+211	39	1	yo	I.PRON.SUB.MF.1S				ABE	spa	herring16		
+212	39	2	sé	know.V.1S.PRES				ABE	spa	herring16		
+213	39	3	que	that.CONJ				ABE	spa	herring16		
+214	39	4	ella	she.PRON.SUB.F.3S				ABE	spa	herring16		
+215	39	5	no	not.ADV				ABE	spa	herring16		
+216	39	6	va	go.V.3S.PRES				ABE	spa	herring16		
+217	39	7	a	to.PREP				ABE	spa	herring16		
+218	39	8	salir	exit.V.INFIN				ABE	spa	herring16		
+219	39	9	con	with.PREP				ABE	spa	herring16		
+220	39	10	nosotros	we.PRON.SUB.M.1P				ABE	spa	herring16		
+221	39	11	hoy	today.ADV				ABE	spa	herring16		
+222	39	12	a	to.PREP				ABE	spa	herring16		
+223	39	13	beber	drink.V.INFIN				ABE	spa	herring16		
+224	39	14	porque	because.CONJ				ABE	spa	herring16		
+225	39	15	hoy	today.ADV				ABE	spa	herring16		
+226	39	16	es	be.V.3S.PRES				ABE	spa	herring16		
+227	39	17	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+228	39	18	día	day.N.M.SG				ABE	spa	herring16		
+229	39	19	que	that.PRON.REL				ABE	spa	herring16		
+230	39	20	ella	she.PRON.SUB.F.3S				ABE	spa	herring16		
+231	39	21	sale	exit.V.3S.PRES				ABE	spa	herring16		
+232	39	22	con	with.PREP				ABE	spa	herring16		
+233	39	23	Ronald	name				ABE	eng&spa	herring16		
+234	39	24	.					ABE	999	herring16		
+235	40	1	pero	but.CONJ				ABE	spa	herring16		
+236	40	2	como	eat.V.1S.PRES				ABE	spa	herring16		
+237	40	3	me	me.PRON.OBL.MF.1S				ABE	spa	herring16		
+238	40	4	da	give.V.3S.PRES				ABE	spa	herring16		
+239	40	5	.					ABE	999	herring16		
+240	41	1	no	no.ADV				IAN	eng	herring16		
+241	41	2	no	no.ADV				IAN	eng	herring16		
+242	41	3	no	no.ADV				IAN	eng	herring16		
+243	41	4	no	no.ADV				IAN	eng	herring16		
+244	41	5	that's	that.DEM.FAR+BE.V.3S.PRES				IAN	eng	herring16		
+245	41	6	nice	nice.ADJ				IAN	eng	herring16		
+246	41	7	.					IAN	999	herring16		
+247	42	1	that's	that.DEM.FAR+BE.V.3S.PRES				IAN	eng	herring16		
+248	42	2	nice	nice.ADJ				IAN	eng	herring16		
+249	42	3	.					IAN	999	herring16		
+250	43	1	mira	look.V.2S.IMPER				IAN	spa	herring16		
+251	43	2	ven	see.V.3P.PRES				IAN	spa	herring16		
+252	43	3	a	to.PREP				IAN	spa	herring16		
+253	43	4	ver	see.V.INFIN				IAN	spa	herring16		
+254	43	5	la	the.DET.DEF.F.SG				IAN	spa	herring16		
+255	43	6	foto	photo.N.F.SG				IAN	spa	herring16		
+256	43	7	de	of.PREP				IAN	spa	herring16		
+257	43	8	la	the.DET.DEF.F.SG				IAN	spa	herring16		
+258	43	9	nueva	new.ADJ.F.SG				IAN	spa	herring16		
+259	43	10	Miss	name				IAN	eng	herring16		
+260	43	11	er	er.IM				IAN	eng&spa	herring16		
+261	43	12	Miss	name				IAN	eng	herring16		
+262	43	13	U_S_A	name				IAN	eng	herring16		
+263	43	14	.					IAN	999	herring16		
+264	44	1	cómo	how.INT				ABE	spa	herring16		
+265	44	2	es	be.V.3S.PRES				ABE	spa	herring16		
+266	44	3	?					ABE	999	herring16		
+267	45	1	oh	oh.IM				ABE	eng&spa	herring16		
+268	45	2	.					ABE	999	herring16		
+269	46	1	se	self.PRON.REFL.MF.3SP				ABE	spa	herring16		
+270	46	2	parece	seem.V.3S.PRES				ABE	spa	herring16		
+271	46	3	a	to.PREP				ABE	spa	herring16		
+272	46	4	Tyra	name				ABE	eng&spa	herring16		
+273	46	5	Banks	name				ABE	eng&spa	herring16		
+274	46	6	.					ABE	999	herring16		
+275	47	1	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+276	47	2	think	think.V.2SP.PRES				IAN	eng	herring16		
+277	47	3	?					IAN	999	herring16		
+278	48	1	yeah	yeah.ADV				ABE	eng	herring16		
+279	48	2	.					ABE	999	herring16		
+280	49	1	she	she.PRON.SUB.F.3S				IAN	eng	herring16		
+281	49	2	is	is.V.3S.PRES				IAN	eng	herring16		
+282	49	3	pretty	pretty.ADJ				IAN	eng	herring16		
+283	49	4	.					IAN	999	herring16		
+284	50	1	is	is.V.3S.PRES				IAN	eng	herring16		
+285	50	2	really	real.ADJ+ADV				IAN	eng	herring16		
+286	50	3	pretty	pretty.ADJ				IAN	eng	herring16		
+287	50	4	.					IAN	999	herring16		
+288	51	1	Miss	name				ABE	eng	herring16		
+289	51	2	U_S_A	name				ABE	eng	herring16		
+290	51	3	.					ABE	999	herring16		
+291	52	1	Miss	name				ABE	eng	herring16		
+292	52	2	U_S	name				ABE	eng	herring16		
+293	52	3	of	of.PREP				ABE	eng	herring16		
+294	52	4	A	name				ABE	eng	herring16		
+295	52	5	.					ABE	999	herring16		
+296	53	1	y	and.CONJ				ABE	spa	herring16		
+297	53	2	entonces	then.ADV				ABE	spa	herring16		
+298	53	3	.					ABE	999	herring16		
+299	54	1	.					IAN	999	herring16		
+300	55	1	.					ABE	999	herring16		
+301	56	1	tienes	have.V.2S.PRES				ABE	spa	herring16		
+302	56	2	que	that.CONJ				ABE	spa	herring16		
+303	56	3	poner	put.V.INFIN				ABE	spa	herring16		
+304	56	4	conversación	conversation.N.F.SG				ABE	spa	herring16		
+305	56	5	tal	such.ADJ.MF.SG				ABE	spa	herring16		
+306	56	6	vez	time.N.F.SG				ABE	spa	herring16		
+307	56	7	porque	because.CONJ				ABE	spa	herring16		
+308	56	8	hello	hello.N.SG				ABE	eng	herring16		
+309	56	9	.					ABE	999	herring16		
+310	57	1	I	I.PRON.SUB.1S				IAN	eng	herring16		
+311	57	2	think	think.V.1S.PRES				IAN	eng	herring16		
+312	57	3	it's	it.PRON.SUB.3S+BE.V.3S.PRES				IAN	eng	herring16		
+313	57	4	supposed	suppose.V.PASTPART				IAN	eng	herring16		
+314	57	5	to	to.PREP				IAN	eng	herring16		
+315	57	6	be	be.V.INFIN				IAN	eng	herring16		
+316	57	7	natural	natural.ADJ				IAN	eng	herring16		
+317	57	8	.					IAN	999	herring16		
+318	58	1	ok	unk				ABE	eng&spa	herring16		
+319	58	2	ok	unk				ABE	eng&spa	herring16		
+320	58	3	.					ABE	999	herring16		
+321	59	1	tu	your.ADJ.POSS.MF.2S.SG				IAN	spa	herring16		
+322	59	2	invento	invention.N.M.SG				IAN	spa	herring16		
+323	59	3	no	not.ADV				IAN	spa	herring16		
+324	59	4	quema	burn.V.3S.PRES				IAN	spa	herring16		
+325	59	5	ni	nor.CONJ				IAN	spa	herring16		
+326	59	6	nada	nothing.PRON				IAN	spa	herring16		
+327	59	7	de	of.PREP				IAN	spa	herring16		
+328	59	8	eso	that.PRON.DEM.NT.SG				IAN	spa	herring16		
+329	59	9	no	not.ADV				IAN	spa	herring16		
+330	59	10	?					IAN	999	herring16		
+331	60	1	bueno	well.E				ABE	spa	herring16		
+332	60	2	pero	but.CONJ				ABE	spa	herring16		
+333	60	3	tenemos	have.V.1P.PRES				ABE	spa	herring16		
+334	60	4	que	that.CONJ				ABE	spa	herring16		
+335	60	5	.					ABE	999	herring16		
+336	61	1	ay	oh.IM				IAN	spa	herring16		
+337	61	2	pues	then.CONJ				IAN	spa	herring16		
+338	61	3	sí	yes.ADV				IAN	spa	herring16		
+339	61	4	.					IAN	999	herring16		
+340	62	1	oye	hear.V.2S.IMPER				IAN	spa	herring16		
+341	62	2	Majo	name				IAN	spa	herring16		
+342	62	3	.					IAN	999	herring16		
+343	63	1	sure	sure.ADJ				ABE	eng	herring16		
+344	63	2	.					ABE	999	herring16		
+345	64	1	le	him.PRON.OBL.MF.23S				IAN	spa	herring16		
+346	64	2	hablo	talk.V.1S.PRES				IAN	spa	herring16		
+347	64	3	.					IAN	999	herring16		
+348	65	1	no	not.ADV				ABE	spa	herring16		
+349	65	2	pero	but.CONJ				ABE	spa	herring16		
+350	65	3	es	be.V.3S.PRES				ABE	spa	herring16		
+351	65	4	muy	very.ADV				ABE	spa	herring16		
+352	65	5	temprano	early.ADV				ABE	spa	herring16		
+353	65	6	todavía	yet.ADV				ABE	spa	herring16		
+354	65	7	está	be.V.3S.PRES				ABE	spa	herring16		
+355	65	8	durmiendo	sleep.V.PRESPART				ABE	spa	herring16		
+356	65	9	.					ABE	999	herring16		
+357	66	1	um	um.IM				IAN	eng	herring16		
+358	66	2	qué	what.INT				IAN	spa	herring16		
+359	66	3	pena	sorrow.N.F.SG				IAN	spa	herring16		
+360	66	4	.					IAN	999	herring16		
+361	67	1	.					ABE	999	herring16		
+362	68	1	um	um.IM				ABE	eng	herring16		
+363	68	2	dile	tell.V.2S.IMPER+LE[PRON.MF.3S]				ABE	spa	herring16		
+364	68	3	a	to.PREP				ABE	spa	herring16		
+365	68	4	mami	Mummy.N.F.SG				ABE	spa	herring16		
+366	68	5	que	that.PRON.REL				ABE	spa	herring16		
+367	68	6	si	if.CONJ				ABE	spa	herring16		
+368	68	7	viene	come.V.3S.PRES				ABE	spa	herring16		
+369	68	8	no	not.ADV				ABE	spa	herring16		
+370	68	9	podemos	be_able.V.1P.PRES				ABE	spa	herring16		
+371	68	10	invitar	invite.V.INFIN				ABE	spa	herring16		
+372	68	11	a	to.PREP				ABE	spa	herring16		
+373	68	12	más	more.ADV				ABE	spa	herring16		
+374	68	13	nadie	no-one.PRON				ABE	spa	herring16		
+375	68	14	.					ABE	999	herring16		
+376	69	1	mmhm	mmhm.IM				IAN	eng	herring16		
+377	69	2	.					IAN	999	herring16		
+378	70	1	no	not.ADV				ABE	spa	herring16		
+379	70	2	cabemos	fit.V.1P.PRES				ABE	spa	herring16		
+380	70	3	.					ABE	999	herring16		
+381	71	1	va	go.V.3S.PRES				IAN	spa	herring16		
+382	71	2	a	to.PREP				IAN	spa	herring16		
+383	71	3	ir	go.V.INFIN				IAN	spa	herring16		
+384	71	4	va	go.V.3S.PRES				IAN	spa	herring16		
+385	71	5	a	to.PREP				IAN	spa	herring16		
+386	71	6	ir	go.V.INFIN				IAN	spa	herring16		
+387	71	7	este	this.PRON.DEM.M.SG				IAN	spa	herring16		
+388	71	8	.					IAN	999	herring16		
+389	72	1	bueno	well.E				IAN	spa	herring16		
+390	72	2	creo	believe.V.1S.PRES				IAN	spa	herring16		
+391	72	3	que	that.CONJ				IAN	spa	herring16		
+392	72	4	ella	she.PRON.SUB.F.3S				IAN	spa	herring16		
+393	72	5	pero	but.CONJ				IAN	spa	herring16		
+394	72	6	no	not.ADV				IAN	spa	herring16		
+395	72	7	Kathy	name				IAN	eng&spa	herring16		
+396	72	8	.					IAN	999	herring16		
+397	73	1	mmhm	mmhm.IM				ABE	eng	herring16		
+398	73	2	.					ABE	999	herring16		
+399	74	1	oh	oh.IM				IAN	eng&spa	herring16		
+400	74	2	tengo	have.V.1S.PRES				IAN	spa	herring16		
+401	74	3	los	the.DET.DEF.M.PL				IAN	spa	herring16		
+402	74	4	volunteer	volunteer.N.SG				IAN	eng	herring16		
+403	74	5	forms	form.N.PL				IAN	eng	herring16		
+404	74	6	para	for.PREP				IAN	spa	herring16		
+405	74	7	lo	the.DET.DEF.NT.SG				IAN	spa	herring16		
+406	74	8	de	of.PREP				IAN	spa	herring16		
+407	74	9	el	the.DET.DEF.M.SG				IAN	spa	herring16		
+408	74	10	Aids	name				IAN	eng	herring16		
+409	74	11	Walk	name				IAN	eng	herring16		
+410	74	12	.					IAN	999	herring16		
+411	75	1	oh	oh.IM				ABE	eng&spa	herring16		
+412	75	2	vamos	go.V.1P.PRES				ABE	spa	herring16		
+413	75	3	a	to.PREP				ABE	spa	herring16		
+414	75	4	llenar	fill.V.INFIN				ABE	spa	herring16		
+415	75	5	eso	that.PRON.DEM.NT.SG				ABE	spa	herring16		
+416	75	6	.					ABE	999	herring16		
+417	76	1	a	to.PREP				IAN	spa	herring16		
+418	76	2	ver	see.V.INFIN				IAN	spa	herring16		
+419	76	3	eh	eh.IM				IAN	eng&spa	herring16		
+420	76	4	bueno	well.E				IAN	spa	herring16		
+421	76	5	.					IAN	999	herring16		
+422	77	1	oh	oh.IM				ABE	eng&spa	herring16		
+423	77	2	ok	unk				ABE	eng&spa	herring16		
+424	77	3	my	my.ADJ.POSS.1S				ABE	eng	herring16		
+425	77	4	microphone	microphone.N.SG				ABE	eng	herring16		
+426	77	5	.					ABE	999	herring16		
+427	78	1	.					ABE	999	herring16		
+428	79	1	when	when.CONJ				ABE	eng	herring16		
+429	79	2	we	we.PRON.SUB.1P				ABE	eng	herring16		
+430	79	3	volunteer	volunteer.N.SG				ABE	eng	herring16		
+431	79	4	vas	go.V.2S.PRES				ABE	spa	herring16		
+432	79	5	a	to.PREP				ABE	spa	herring16		
+433	79	6	tener	have.V.INFIN				ABE	spa	herring16		
+434	79	7	también	too.ADV				ABE	spa	herring16		
+435	79	8	Pam	name				ABE	eng&spa	herring16		
+436	79	9	y	and.CONJ				ABE	spa	herring16		
+437	79	10	la	the.DET.DEF.F.SG				ABE	spa	herring16		
+438	79	11	hermana	sister.N.F.SG				ABE	spa	herring16		
+439	79	12	del	of_the.PREP+DET.DEF.M.SG				ABE	spa	herring16		
+440	79	13	Majo	name				ABE	spa	herring16		
+441	79	14	.					ABE	999	herring16		
+442	80	1	so	so.ADV				IAN	eng	herring16		
+443	80	2	.					IAN	999	herring16		
+444	81	1	no	no.ADV				IAN	eng	herring16		
+445	81	2	I'm	I.PRON.SUB.1S+BE.V.PRES				IAN	eng	herring16		
+446	81	3	telling	tell.V.PRESPART				IAN	eng	herring16		
+447	81	4	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+448	81	5	so	so.ADV				IAN	eng	herring16		
+449	81	6	that	that.CONJ				IAN	eng	herring16		
+450	81	7	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+451	81	8	know	know.V.2SP.PRES				IAN	eng	herring16		
+452	81	9	.					IAN	999	herring16		
+453	82	1	pero	but.CONJ				ABE	spa	herring16		
+454	82	2	van	go.V.3P.PRES				ABE	spa	herring16		
+455	82	3	a	to.PREP				ABE	spa	herring16		
+456	82	4	poner	put.V.INFIN				ABE	spa	herring16		
+457	82	5	a	to.PREP				ABE	spa	herring16		
+458	82	6	cuatro	four.NUM				ABE	spa	herring16		
+459	82	7	a	to.PREP				ABE	spa	herring16		
+460	82	8	los	the.DET.DEF.M.PL				ABE	spa	herring16		
+461	82	9	cinco	five.NUM				ABE	spa	herring16		
+462	82	10	juntos	together.ADJ.M.PL				ABE	spa	herring16		
+463	82	11	?					ABE	999	herring16		
+464	83	1	uhuh	uhuh.IM				IAN	eng&spa	herring16		
+465	83	2	.					IAN	999	herring16		
+466	84	1	o	or.CONJ				IAN	spa	herring16		
+467	84	2	tú	you.PRON.SUB.MF.2S				IAN	spa	herring16		
+468	84	3	y	and.CONJ				IAN	spa	herring16		
+469	84	4	Lucía	name				IAN	eng&spa	herring16		
+470	84	5	juntos	together.ADJ.M.PL				IAN	spa	herring16		
+471	84	6	y	and.CONJ				IAN	spa	herring16		
+472	84	7	luego	next.ADV				IAN	spa	herring16		
+473	84	8	Pam	name				IAN	eng&spa	herring16		
+474	84	9	y	and.CONJ				IAN	spa	herring16		
+475	84	10	yo	I.PRON.SUB.MF.1S				IAN	spa	herring16		
+476	84	11	juntos	together.ADJ.M.PL				IAN	spa	herring16		
+477	84	12	.					IAN	999	herring16		
+478	85	1	uhuh	uhuh.IM				ABE	eng&spa	herring16		
+479	85	2	.					ABE	999	herring16		
+480	86	1	por	for.PREP				ABE	spa	herring16		
+481	86	2	qué	what.INT				ABE	spa	herring16		
+482	86	3	yo	I.PRON.SUB.MF.1S				ABE	spa	herring16		
+483	86	4	con	with.PREP				ABE	spa	herring16		
+484	86	5	Lucía	name				ABE	eng&spa	herring16		
+485	86	6	?					ABE	999	herring16		
+486	87	1	because	because.CONJ				IAN	eng	herring16		
+487	87	2	she	she.PRON.SUB.F.3S				IAN	eng	herring16		
+488	87	3	likes	like.V.3S.PRES				IAN	eng	herring16		
+489	87	4	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+490	87	5	.					IAN	999	herring16		
+491	88	1	ah	ah.IM				ABE	eng&spa	herring16		
+492	88	2	right	right.ADJ				ABE	eng	herring16		
+493	88	3	.					ABE	999	herring16		
+494	89	1	a	to.PREP				IAN	spa	herring16		
+495	89	2	ver	see.V.INFIN				IAN	spa	herring16		
+496	89	3	.					IAN	999	herring16		
+497	90	1	she	she.PRON.SUB.F.3S				ABE	eng	herring16		
+498	90	2	likes	like.V.3S.PRES				ABE	eng	herring16		
+499	90	3	Pam	name				ABE	eng&spa	herring16		
+500	90	4	too	too.ADV				ABE	eng	herring16		
+501	90	5	.					ABE	999	herring16		
+502	91	1	huh	huh.IM				IAN	eng	herring16		
+503	91	2	?					IAN	999	herring16		
+504	92	1	she's	she.PRON.SUB.F.3S+BE.V.3S.PRES				IAN	eng	herring16		
+505	92	2	only	only.ADJ.[or].on.PREP+ADV				IAN	eng	herring16		
+506	92	3	seen	seen.AV.PAST				IAN	eng	herring16		
+507	92	4	her	her.ADJ.POSS.F.3S.[or].her.PRON.OBJ.F.3S				IAN	eng	herring16		
+508	92	5	that	that.CONJ.[or].that.DEM.FAR				IAN	eng	herring16		
+509	92	6	one	one.PRON.SG				IAN	eng	herring16		
+510	92	7	time	time.N.SG				IAN	eng	herring16		
+511	92	8	.					IAN	999	herring16		
+512	93	1	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+513	93	2	got	got.V.PAST				IAN	eng	herring16		
+514	93	3	a	a.DET.INDEF				IAN	eng	herring16		
+515	93	4	pen	pen.N.SG				IAN	eng	herring16		
+516	93	5	?					IAN	999	herring16		
+517	94	1	whatever	whatever.REL				ABE	eng	herring16		
+518	94	2	.					ABE	999	herring16		
+519	95	1	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+520	95	2	have	have.V.2SP.PRES				IAN	eng	herring16		
+521	95	3	a	a.DET.INDEF				IAN	eng	herring16		
+522	95	4	pen	pen.N.SG				IAN	eng	herring16		
+523	95	5	?					IAN	999	herring16		
+524	96	1	okey	unk				IAN	eng	herring16		
+525	96	2	dokey	unk				IAN	eng	herring16		
+526	96	3	.					IAN	999	herring16		
+527	97	1	ok	unk				ABE	eng&spa	herring16		
+528	97	2	.					ABE	999	herring16		
+529	98	1	a	to.PREP				IAN	spa	herring16		
+530	98	2	ver	see.V.INFIN				IAN	spa	herring16		
+531	98	3	a	to.PREP				IAN	spa	herring16		
+532	98	4	ver	see.V.INFIN				IAN	spa	herring16		
+533	98	5	.					IAN	999	herring16		
+534	99	1	a	to.PREP				ABE	spa	herring16		
+535	99	2	ti	you.PRON.PREP.MF.2S				ABE	spa	herring16		
+536	99	3	te	you.PRON.OBL.MF.2S				ABE	spa	herring16		
+537	99	4	encanta	bewitch.V.3S.PRES				ABE	spa	herring16		
+538	99	5	ponerme	put.V.INFIN+ME[PRON.MF.1S]				ABE	spa	herring16		
+539	99	6	de	of.PREP				ABE	spa	herring16		
+540	99	7	mal	poorly.N.M.SG				ABE	spa	herring16		
+541	99	8	humor	mood.N.M.SG				ABE	spa	herring16		
+542	99	9	because	because.CONJ				ABE	eng	herring16		
+543	99	10	I	I.PRON.SUB.1S				ABE	eng	herring16		
+544	99	11	know	know.V.1S.PRES				ABE	eng	herring16		
+545	99	12	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+546	99	13	like	like.V.2SP.PRES				ABE	eng	herring16		
+547	99	14	te	you.PRON.OBL.MF.2S				ABE	spa	herring16		
+548	99	15	encanta	bewitch.V.3S.PRES				ABE	spa	herring16		
+549	99	16	.					ABE	999	herring16		
+550	100	1	.					IAN	999	herring16		
+551	101	1	a	to.PREP				IAN	spa	herring16		
+552	101	2	ver	see.V.INFIN				IAN	spa	herring16		
+553	101	3	.					IAN	999	herring16		
+554	102	1	ay	gay.ADJ+SM.[or].ay.SV.INFIN				ABE	eng&spa	herring16		
+555	102	2	bueno	well.E				ABE	spa	herring16		
+556	102	3	whatever	whatever.REL				ABE	eng	herring16		
+557	102	4	maybe	maybe.ADV				ABE	eng	herring16		
+558	102	5	I	I.PRON.SUB.1S				ABE	eng	herring16		
+559	102	6	won't	will.V.1S.FUT+NEG				ABE	eng	herring16		
+560	102	7	do	do.SV.INFIN				ABE	eng	herring16		
+561	102	8	it	it.PRON.OBJ.3S				ABE	eng	herring16		
+562	102	9	.					ABE	999	herring16		
+563	103	1	fine	fine.N.SG				IAN	eng	herring16		
+564	103	2	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+565	103	3	don't	do.V.2SP.PRES+NEG				IAN	eng	herring16		
+566	103	4	want	want.V.INFIN				IAN	eng	herring16		
+567	103	5	me	me.PRON.OBJ.1S				IAN	eng	herring16		
+568	103	6	to	to.PREP				IAN	eng	herring16		
+569	103	7	do	do.V.INFIN				IAN	eng	herring16		
+570	103	8	yours	your.ADJ.POSS.2SP+PV.[or].yours.PRON.POSS.2SP				IAN	eng	herring16		
+571	103	9	ok	unk				IAN	eng&spa	herring16		
+572	103	10	.					IAN	999	herring16		
+573	104	1	because	because.CONJ				IAN	eng	herring16		
+574	104	2	I	I.PRON.SUB.1S				IAN	eng	herring16		
+575	104	3	need	need.V.1S.PRES				IAN	eng	herring16		
+576	104	4	to	to.PREP				IAN	eng	herring16		
+577	104	5	submit	submit.V.INFIN				IAN	eng	herring16		
+578	104	6	it	it.PRON.OBJ.3S				IAN	eng	herring16		
+579	104	7	online	unk				IAN	eng	herring16		
+580	104	8	by	by.PREP				IAN	eng	herring16		
+581	104	9	by	by.PREP				IAN	eng	herring16		
+582	104	10	Monday	name				IAN	eng	herring16		
+583	104	11	.					IAN	999	herring16		
+584	105	1	are	are.V.123P.PRES				IAN	eng	herring16		
+585	105	2	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+586	105	3	sure	sure.ADJ				IAN	eng	herring16		
+587	105	4	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+588	105	5	don't	do.V.2SP.PRES+NEG				IAN	eng	herring16		
+589	105	6	want	want.V.INFIN				IAN	eng	herring16		
+590	105	7	me	me.PRON.OBJ.1S				IAN	eng	herring16		
+591	105	8	to	to.PREP				IAN	eng	herring16		
+592	105	9	do	do.V.INFIN				IAN	eng	herring16		
+593	105	10	it	it.PRON.OBJ.3S				IAN	eng	herring16		
+594	105	11	then	then.ADV				IAN	eng	herring16		
+595	105	12	?					IAN	999	herring16		
+596	106	1	no	no.ADV				ABE	eng&spa	herring16		
+597	106	2	.					ABE	999	herring16		
+598	107	1	ok	unk				IAN	eng&spa	herring16		
+599	107	2	.					IAN	999	herring16		
+600	108	1	I'm	I.PRON.SUB.1S+BE.V.PRES				IAN	eng	herring16		
+601	108	2	joking	joke.N.SG+ASV				IAN	eng	herring16		
+602	108	3	.					IAN	999	herring16		
+603	109	1	all	all.ADJ				IAN	eng	herring16		
+604	109	2	together	together.ADV				IAN	eng	herring16		
+605	109	3	.					IAN	999	herring16		
+606	110	1	a	to.PREP				IAN	spa	herring16		
+607	110	2	ver	see.V.INFIN				IAN	spa	herring16		
+608	110	3	.					IAN	999	herring16		
+609	111	1	cuáles	which.PRON.INT.MF.PL				ABE	spa	herring16		
+610	111	2	son	be.V.3P.PRES				ABE	spa	herring16		
+611	111	3	las	the.DET.DEF.F.PL				ABE	spa	herring16		
+612	111	4	preguntas	question.N.F.PL				ABE	spa	herring16		
+613	111	5	?					ABE	999	herring16		
+614	112	1	él	he.PRON.SUB.M.3S				ABE	spa	herring16		
+615	112	2	debe	owe.V.2S.IMPER.[or].owe.V.3S.PRES				ABE	spa	herring16		
+616	112	3	tener	have.V.INFIN				ABE	spa	herring16		
+617	112	4	mil	thousand.NUM				ABE	spa	herring16		
+618	112	5	preguntas	question.N.F.PL.[or].ask.V.2S.PRES				ABE	spa	herring16		
+619	112	6	.					ABE	999	herring16		
+620	113	1	um	um.IM				IAN	eng	herring16		
+621	113	2	ok	unk				IAN	eng&spa	herring16		
+622	113	3	.					IAN	999	herring16		
+623	114	1	ok	unk				IAN	eng&spa	herring16		
+624	114	2	what's	what.REL+GB				IAN	eng	herring16		
+625	114	3	your	your.ADJ.POSS.2SP				IAN	eng	herring16		
+626	114	4	phone	phone.N.SG				IAN	eng	herring16		
+627	114	5	number	numb.ADJ.COMP.[or].number.N.SG				IAN	eng	herring16		
+628	114	6	?					IAN	999	herring16		
+629	115	1	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+630	115	2	don't	do.V.2SP.PRES+NEG				ABE	eng	herring16		
+631	115	3	know	know.V.INFIN				ABE	eng	herring16		
+632	115	4	my	my.ADJ.POSS.1S				ABE	eng	herring16		
+633	115	5	phone	phone.N.SG				ABE	eng	herring16		
+634	115	6	number	numb.ADJ.COMP.[or].number.N.SG				ABE	eng	herring16		
+635	115	7	?					ABE	999	herring16		
+636	116	1	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+637	116	2	know	know.V.2SP.PRES				IAN	eng	herring16		
+638	116	3	I	I.PRON.SUB.1S				IAN	eng	herring16		
+639	116	4	don't	do.V.1S.PRES+NEG				IAN	eng	herring16		
+640	116	5	.					IAN	999	herring16		
+641	117	1	five	five.NUM				ABE	eng	herring16		
+642	117	2	eight	eight.NUM				ABE	eng	herring16		
+643	117	3	seven	seven.NUM				ABE	eng	herring16		
+644	117	4	six	six.NUM				ABE	eng	herring16		
+645	117	5	two	two.NUM				ABE	eng	herring16		
+646	117	6	.					ABE	999	herring16		
+647	118	1	five	five.NUM				IAN	eng	herring16		
+648	118	2	eight	eight.NUM				IAN	eng	herring16		
+649	118	3	seven	seven.NUM				IAN	eng	herring16		
+650	118	4	.					IAN	999	herring16		
+651	119	1	six	six.NUM				ABE	eng	herring16		
+652	119	2	two	two.NUM				ABE	eng	herring16		
+653	119	3	.					ABE	999	herring16		
+654	120	1	ok	unk				IAN	eng&spa	herring16		
+655	120	2	four	four.NUM				IAN	eng	herring16		
+656	120	3	five	five.NUM				IAN	eng	herring16		
+657	120	4	five	five.NUM				IAN	eng	herring16		
+658	120	5	.					IAN	999	herring16		
+659	121	1	north	north.N.SG				ABE	eng	herring16		
+660	121	2	street	street.N.SG				ABE	eng	herring16		
+661	121	3	unit	unit.N.SG				ABE	eng	herring16		
+662	121	4	Miami	name				ABE	eng	herring16		
+663	121	5	Florida	name				ABE	eng	herring16		
+664	121	6	three	three.NUM				ABE	eng	herring16		
+665	121	7	three	three.NUM				ABE	eng	herring16		
+666	121	8	one	one.NUM				ABE	eng	herring16		
+667	121	9	three	three.NUM				ABE	eng	herring16		
+668	121	10	seven	seven.NUM				ABE	eng	herring16		
+669	121	11	.					ABE	999	herring16		
+670	122	1	three	three.NUM				IAN	eng	herring16		
+671	122	2	three	three.NUM				IAN	eng	herring16		
+672	122	3	seven	seven.NUM				IAN	eng	herring16		
+673	122	4	right	right.ADJ				IAN	eng	herring16		
+674	122	5	.					IAN	999	herring16		
+675	123	1	three	three.NUM				ABE	eng	herring16		
+676	123	2	three	three.NUM				ABE	eng	herring16		
+677	123	3	one	one.NUM				ABE	eng	herring16		
+678	123	4	three	three.NUM				ABE	eng	herring16		
+679	123	5	seven	seven.NUM				ABE	eng	herring16		
+680	123	6	.					ABE	999	herring16		
+681	124	1	hey	hey.IM				IAN	eng	herring16		
+682	124	2	what's	what.REL+GB				IAN	eng	herring16		
+683	124	3	your	your.ADJ.POSS.2SP				IAN	eng	herring16		
+684	124	4	email	unk				IAN	eng	herring16		
+685	124	5	address	address.N.SG				IAN	eng	herring16		
+686	124	6	?					IAN	999	herring16		
+687	125	1	W_W_W	name				ABE	spa	herring16		
+688	125	2	L_A_L	name				ABE	spa	herring16		
+689	125	3	uno	one.PRON.M.SG				ABE	spa	herring16		
+690	125	4	a	to.PREP				ABE	spa	herring16		
+691	125	5	.					ABE	999	herring16		
+692	126	1	we	we.PRON.SUB.1P				IAN	eng	herring16		
+693	126	2	are	are.V.1P.PRES				IAN	eng	herring16		
+694	126	3	actually	actual.ADJ+ADV				IAN	eng	herring16		
+695	126	4	gonna	go.V.PRESPART+TO.PREP				IAN	eng	herring16		
+696	126	5	be	be.V.INFIN				IAN	eng	herring16		
+697	126	6	working	work.V.PRESPART				IAN	eng	herring16		
+698	126	7	on	on.PREP				IAN	eng	herring16		
+699	126	8	a	a.DET.INDEF				IAN	eng	herring16		
+700	126	9	project	project.N.SG				IAN	eng	herring16		
+701	126	10	for	for.PREP				IAN	eng	herring16		
+702	126	11	um	um.IM				IAN	eng	herring16		
+703	126	12	set	set.SV.INFIN				IAN	eng	herring16		
+704	126	13	up	up.ADV				IAN	eng	herring16		
+705	126	14	at	at.PREP				IAN	eng	herring16		
+706	126	15	at	at.PREP				IAN	eng	herring16		
+707	126	16	the	the.DET.DEF				IAN	eng	herring16		
+708	126	17	botanical	botanical.ADJ				IAN	eng	herring16		
+709	126	18	gardens	garden.N.PL				IAN	eng	herring16		
+710	126	19	.					IAN	999	herring16		
+711	127	1	we	we.PRON.SUB.1P				IAN	eng	herring16		
+712	127	2	have	have.V.1P.PRES				IAN	eng	herring16		
+713	127	3	to	to.PREP				IAN	eng	herring16		
+714	127	4	be	be.V.INFIN				IAN	eng	herring16		
+715	127	5	there	there.ADV				IAN	eng	herring16		
+716	127	6	at	at.PREP				IAN	eng	herring16		
+717	127	7	six	six.NUM				IAN	eng	herring16		
+718	127	8	thirty	thirty.NUM				IAN	eng	herring16		
+719	127	9	in	in.PREP				IAN	eng	herring16		
+720	127	10	the	the.DET.DEF				IAN	eng	herring16		
+721	127	11	morning	morning.N.SG				IAN	eng	herring16		
+722	127	12	.					IAN	999	herring16		
+723	128	1	hmm	hmm.IM				ABE	eng&spa	herring16		
+724	128	2	?					ABE	999	herring16		
+725	129	1	and	and.CONJ				IAN	eng	herring16		
+726	129	2	it's	it.PRON.SUB.3S+BE.V.3S.PRES				IAN	eng	herring16		
+727	129	3	from	from.PREP				IAN	eng	herring16		
+728	129	4	six	six.NUM				IAN	eng	herring16		
+729	129	5	thirty	thirty.NUM				IAN	eng	herring16		
+730	129	6	to	to.PREP				IAN	eng	herring16		
+731	129	7	eleven	eleven.NUM				IAN	eng	herring16		
+732	129	8	.					IAN	999	herring16		
+733	130	1	ok	unk				IAN	eng&spa	herring16		
+734	130	2	.					IAN	999	herring16		
+735	131	1	hmm	hmm.IM				ABE	eng&spa	herring16		
+736	131	2	?					ABE	999	herring16		
+737	132	1	are	are.V.123P.PRES				ABE	eng	herring16		
+738	132	2	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+739	132	3	serious	serious.ADJ				ABE	eng	herring16		
+740	132	4	?					ABE	999	herring16		
+741	133	1	yeah	yeah.ADV				IAN	eng	herring16		
+742	133	2	.					IAN	999	herring16		
+743	134	1	on	on.PREP				ABE	eng	herring16		
+744	134	2	Saturday	name				ABE	eng	herring16		
+745	134	3	?					ABE	999	herring16		
+746	135	1	no	no.ADV				IAN	eng	herring16		
+747	135	2	it's	it.PRON.SUB.3S+BE.V.3S.PRES				IAN	eng	herring16		
+748	135	3	actually	actual.ADJ+ADV				IAN	eng	herring16		
+749	135	4	Sunday	name				IAN	eng	herring16		
+750	135	5	Sunday	name				IAN	eng	herring16		
+751	135	6	the	the.DET.DEF				IAN	eng	herring16		
+752	135	7	twentieth	twentieth.ORD				IAN	eng	herring16		
+753	135	8	.					IAN	999	herring16		
+754	136	1	y	and.CONJ				ABE	spa	herring16		
+755	136	2	cuando	when.CONJ				ABE	spa	herring16		
+756	136	3	es	be.V.3S.PRES				ABE	spa	herring16		
+757	136	4	que	that.CONJ				ABE	spa	herring16		
+758	136	5	viene	come.V.3S.PRES				ABE	spa	herring16		
+759	136	6	tu	your.ADJ.POSS.MF.2S.SG				ABE	spa	herring16		
+760	136	7	amiga	friend.N.F.SG				ABE	spa	herring16		
+761	136	8	?					ABE	999	herring16		
+762	137	1	no	not.ADV				ABE	spa	herring16		
+763	137	2	era	be.V.13S.IMPERF				ABE	spa	herring16		
+764	137	3	hoy	today.ADV				ABE	spa	herring16		
+765	137	4	que	that.CONJ				ABE	spa	herring16		
+766	137	5	llegaba	get.V.13S.IMPERF				ABE	spa	herring16		
+767	137	6	?					ABE	999	herring16		
+768	138	1	she	she.PRON.SUB.F.3S				IAN	eng	herring16		
+769	138	2	comes	comes.N.SG.[or].come.V.3S.PRES				IAN	eng	herring16		
+770	138	3	that	that.CONJ				IAN	eng	herring16		
+771	138	4	that	that.DEM.FAR				IAN	eng	herring16		
+772	138	5	weekend	weekend.N.SG				IAN	eng	herring16		
+773	138	6	.					IAN	999	herring16		
+774	139	1	but	but.CONJ				IAN	eng	herring16		
+775	139	2	I	I.PRON.SUB.1S				IAN	eng	herring16		
+776	139	3	think	think.V.1S.PRES				IAN	eng	herring16		
+777	139	4	I'm	I.PRON.SUB.1S+BE.V.PRES				IAN	eng	herring16		
+778	139	5	gonna	go.V.PRESPART+TO.PREP				IAN	eng	herring16		
+779	139	6	hang	hang.V.INFIN				IAN	eng	herring16		
+780	139	7	out	out.ADV				IAN	eng	herring16		
+781	139	8	with	with.PREP				IAN	eng	herring16		
+782	139	9	her	her.ADJ.POSS.F.3S.[or].her.PRON.OBJ.F.3S				IAN	eng	herring16		
+783	139	10	on	on.PREP				IAN	eng	herring16		
+784	139	11	Saturday	name				IAN	eng	herring16		
+785	139	12	.					IAN	999	herring16		
+786	140	1	mmhm	mmhm.IM				ABE	eng	herring16		
+787	140	2	.					ABE	999	herring16		
+788	141	1	imagínate	imagine.V.2S.IMPER.PRECLITIC+TE[PRON.MF.2S]				IAN	spa	herring16		
+789	141	2	.					IAN	999	herring16		
+790	142	1	I	I.PRON.SUB.1S				IAN	eng	herring16		
+791	142	2	don't	do.V.1S.PRES+NEG				IAN	eng	herring16		
+792	142	3	know	know.V.INFIN				IAN	eng	herring16		
+793	142	4	where	where.REL				IAN	eng	herring16		
+794	142	5	she	she.PRON.SUB.F.3S				IAN	eng	herring16		
+795	142	6	gets	get.V.3S.PRES				IAN	eng	herring16		
+796	142	7	in	in.PREP				IAN	eng	herring16		
+797	142	8	I	I.PRON.SUB.1S				IAN	eng	herring16		
+798	142	9	I	I.PRON.SUB.1S				IAN	eng	herring16		
+799	142	10	I	I.PRON.SUB.1S				IAN	eng	herring16		
+800	142	11	if	if.CONJ				IAN	eng	herring16		
+801	142	12	she	she.PRON.SUB.F.3S				IAN	eng	herring16		
+802	142	13	gets	get.V.3S.PRES				IAN	eng	herring16		
+803	142	14	in	in.PREP				IAN	eng	herring16		
+804	142	15	on	on.PREP				IAN	eng	herring16		
+805	142	16	Friday	name				IAN	eng	herring16		
+806	142	17	.					IAN	999	herring16		
+807	143	1	and	and.CONJ				IAN	eng	herring16		
+808	143	2	then	then.ADV				IAN	eng	herring16		
+809	143	3	we	we.PRON.SUB.1P				IAN	eng	herring16		
+810	143	4	have	have.V.1P.PRES				IAN	eng	herring16		
+811	143	5	that	that.DEM.FAR				IAN	eng	herring16		
+812	143	6	stupid	stupid.ADJ				IAN	eng	herring16		
+813	143	7	concert	concert.N.SG				IAN	eng	herring16		
+814	143	8	thing	thing.N.SG				IAN	eng	herring16		
+815	143	9	right	right.ADJ				IAN	eng	herring16		
+816	143	10	?					IAN	999	herring16		
+817	144	1	on	on.PREP				IAN	eng	herring16		
+818	144	2	the	the.DET.DEF				IAN	eng	herring16		
+819	144	3	nineteenth	nineteenth.ORD				IAN	eng	herring16		
+820	144	4	.					IAN	999	herring16		
+821	145	1	what	what.REL				ABE	eng	herring16		
+822	145	2	concert	concert.N.SG				ABE	eng	herring16		
+823	145	3	?					ABE	999	herring16		
+824	146	1	the	the.DET.DEF				IAN	eng	herring16		
+825	146	2	Bacardi_Live	name				IAN	eng&spa	herring16		
+826	146	3	.					IAN	999	herring16		
+827	147	1	concert	concert.N.SG				IAN	eng	herring16		
+828	147	2	.					IAN	999	herring16		
+829	148	1	if	if.CONJ				IAN	eng	herring16		
+830	148	2	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+831	148	3	want	want.V.2SP.PRES				IAN	eng	herring16		
+832	148	4	to	to.PREP				IAN	eng	herring16		
+833	148	5	if	if.CONJ				IAN	eng	herring16		
+834	148	6	I	I.PRON.SUB.1S				IAN	eng	herring16		
+835	148	7	can't	can.V.1S.PRES+NEG				IAN	eng	herring16		
+836	148	8	go	go.V.INFIN				IAN	eng	herring16		
+837	148	9	do	do.SV.INFIN				IAN	eng	herring16		
+838	148	10	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+839	148	11	wanna	want.V.2SP.PRES+TO.PREP				IAN	eng	herring16		
+840	148	12	go	go.V.INFIN				IAN	eng	herring16		
+841	148	13	with	with.PREP				IAN	eng	herring16		
+842	148	14	somebody	somebody.PRON				IAN	eng	herring16		
+843	148	15	else	else.ADJ				IAN	eng	herring16		
+844	148	16	?					IAN	999	herring16		
+845	149	1	no	no.ADV				ABE	eng	herring16		
+846	149	2	the	the.DET.DEF				ABE	eng	herring16		
+847	149	3	Bacardi	name				ABE	eng&spa	herring16		
+848	149	4	concert	concert.N.SG				ABE	eng	herring16		
+849	149	5	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+850	149	6	would	be.V.2SP.COND				ABE	eng	herring16		
+851	149	7	love	love.SV.INFIN				ABE	eng	herring16		
+852	149	8	it	it.PRON.OBJ.3S				ABE	eng	herring16		
+853	149	9	.					ABE	999	herring16		
+854	150	1	I'm	I.PRON.SUB.1S+BE.V.PRES				IAN	eng	herring16		
+855	150	2	ok	unk				IAN	eng&spa	herring16		
+856	150	3	seriously	serious.ADJ+ADV.[or].seriously.ADV				IAN	eng	herring16		
+857	150	4	.					IAN	999	herring16		
+858	151	1	I	I.PRON.SUB.1S				ABE	eng	herring16		
+859	151	2	mean	mean.V.1S.PRES				ABE	eng	herring16		
+860	151	3	we	we.PRON.SUB.1P				ABE	eng	herring16		
+861	151	4	haven't	have.V.1P.PRES+NEG				ABE	eng	herring16		
+862	151	5	been	been.V.PASTPART				ABE	eng	herring16		
+863	151	6	to	to.PREP				ABE	eng	herring16		
+864	151	7	a	a.DET.INDEF				ABE	eng	herring16		
+865	151	8	concert	concert.N.SG				ABE	eng	herring16		
+866	151	9	ever	ever.ADV				ABE	eng	herring16		
+867	151	10	.					ABE	999	herring16		
+868	152	1	but	but.CONJ				ABE	eng	herring16		
+869	152	2	I	I.PRON.SUB.1S				ABE	eng	herring16		
+870	152	3	mean	mean.V.1S.PRES				ABE	eng	herring16		
+871	152	4	if	if.CONJ				ABE	eng	herring16		
+872	152	5	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+873	152	6	have	have.V.2SP.PRES				ABE	eng	herring16		
+874	152	7	to	to.PREP				ABE	eng	herring16		
+875	152	8	hang	hang.V.INFIN				ABE	eng	herring16		
+876	152	9	out	out.ADV				ABE	eng	herring16		
+877	152	10	with	with.PREP				ABE	eng	herring16		
+878	152	11	her	her.ADJ.POSS.F.3S.[or].her.PRON.OBJ.F.3S				ABE	eng	herring16		
+879	152	12	on	on.PREP				ABE	eng	herring16		
+880	152	13	Friday	name				ABE	eng	herring16		
+881	152	14	instead	instead.ADV				ABE	eng	herring16		
+882	152	15	of	of.PREP				ABE	eng	herring16		
+883	152	16	Saturday	name				ABE	eng	herring16		
+884	152	17	that's	that.DEM.FAR+BE.V.3S.PRES				ABE	eng	herring16		
+885	152	18	fine	fine.N.SG				ABE	eng	herring16		
+886	152	19	.					ABE	999	herring16		
+887	153	1	but	but.CONJ				ABE	eng	herring16		
+888	153	2	if	if.CONJ				ABE	eng	herring16		
+889	153	3	not	not.ADV				ABE	eng	herring16		
+890	153	4	we	we.PRON.SUB.1P				ABE	eng	herring16		
+891	153	5	just	just.ADV				ABE	eng	herring16		
+892	153	6	go	go.V.INFIN				ABE	eng	herring16		
+893	153	7	to	to.PREP				ABE	eng	herring16		
+894	153	8	the	the.DET.DEF				ABE	eng	herring16		
+895	153	9	concert	concert.N.SG				ABE	eng	herring16		
+896	153	10	.					ABE	999	herring16		
+897	154	1	ok	unk				ABE	eng&spa	herring16		
+898	154	2	?					ABE	999	herring16		
+899	155	1	ok	unk				IAN	eng&spa	herring16		
+900	155	2	come	come.SV.INFIN				IAN	eng	herring16		
+901	155	3	and	and.CONJ				IAN	eng	herring16		
+902	155	4	sign	sign.N.SG				IAN	eng	herring16		
+903	155	5	this	this.DEM.NEAR.SG				IAN	eng	herring16		
+904	155	6	.					IAN	999	herring16		
+905	156	1	this	this.DEM.NEAR.SG				IAN	eng	herring16		
+906	156	2	is	is.V.3S.PRES				IAN	eng	herring16		
+907	156	3	the	the.DET.DEF				IAN	eng	herring16		
+908	156	4	consent	consent.N.SG				IAN	eng	herring16		
+909	156	5	form	form.N.SG				IAN	eng	herring16		
+910	156	6	.					IAN	999	herring16		
+911	157	1	and	and.CONJ				IAN	eng	herring16		
+912	157	2	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+913	157	3	gotta	get.V.2SP.PRES+TO.PREP				IAN	eng	herring16		
+914	157	4	sign	sign.N.SG				IAN	eng	herring16		
+915	157	5	both	both.ADJ				IAN	eng	herring16		
+916	157	6	right	right.ADJ				IAN	eng	herring16		
+917	157	7	there	there.ADV				IAN	eng	herring16		
+918	157	8	and	and.CONJ				IAN	eng	herring16		
+919	157	9	date	date.N.SG				IAN	eng	herring16		
+920	157	10	it	it.PRON.OBJ.3S				IAN	eng	herring16		
+921	157	11	.					IAN	999	herring16		
+922	158	1	.					ABE	999	herring16		
+923	159	1	mmhm	mmhm.IM				IAN	eng	herring16		
+924	159	2	.					IAN	999	herring16		
+925	160	1	and	and.CONJ				IAN	eng	herring16		
+926	160	2	then	then.ADV				IAN	eng	herring16		
+927	160	3	print	print.SV.INFIN				IAN	eng	herring16		
+928	160	4	your	your.ADJ.POSS.2SP				IAN	eng	herring16		
+929	160	5	name	name.N.SG				IAN	eng	herring16		
+930	160	6	sign	sign.N.SG				IAN	eng	herring16		
+931	160	7	and	and.CONJ				IAN	eng	herring16		
+932	160	8	date	date.N.SG				IAN	eng	herring16		
+933	160	9	this	this.DEM.NEAR.SG				IAN	eng	herring16		
+934	160	10	one	one.PRON.SG				IAN	eng	herring16		
+935	160	11	.					IAN	999	herring16		
+936	161	1	what's	what.REL+GB				ABE	eng	herring16		
+937	161	2	today's	today.N.SG+=POSS				ABE	eng	herring16		
+938	161	3	date	date.N.SG				ABE	eng	herring16		
+939	161	4	?					ABE	999	herring16		
+940	162	1	just	just.ADV				IAN	eng	herring16		
+941	162	2	put	put.V.INFIN				IAN	eng	herring16		
+942	162	3	the	the.DET.DEF				IAN	eng	herring16		
+943	162	4	twelve	twelve.NUM				IAN	eng	herring16		
+944	162	5	.					IAN	999	herring16		
+945	163	1	July	name				ABE	eng	herring16		
+946	163	2	four	four.NUM				ABE	eng	herring16		
+947	163	3	twelve	twelve.NUM				ABE	eng	herring16		
+948	163	4	right	right.ADJ				ABE	eng	herring16		
+949	163	5	?					ABE	999	herring16		
+950	164	1	here	here.ADV				ABE	eng	herring16		
+951	164	2	.					ABE	999	herring16		
+952	165	1	thank	thank.V.INFIN				IAN	eng	herring16		
+953	165	2	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+954	165	3	sir	sir.N.SG				IAN	eng	herring16		
+955	165	4	.					IAN	999	herring16		
+956	166	1	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+957	166	2	got	got.V.PAST				ABE	eng	herring16		
+958	166	3	Majo's	name				ABE	eng	herring16		
+959	166	4	?					ABE	999	herring16		
+960	167	1	I	I.PRON.SUB.1S				IAN	eng	herring16		
+961	167	2	got	got.V.PAST				IAN	eng	herring16		
+962	167	3	Majo's	name				IAN	eng	herring16		
+963	167	4	Pam's	name				IAN	eng	herring16		
+964	167	5	and	and.CONJ				IAN	eng	herring16		
+965	167	6	Lucía's	name				IAN	eng	herring16		
+966	167	7	.					IAN	999	herring16		
+967	168	1	but	but.CONJ				IAN	eng	herring16		
+968	168	2	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+969	168	3	know	know.V.2SP.PRES				IAN	eng	herring16		
+970	168	4	what	what.REL				IAN	eng	herring16		
+971	168	5	let	let.SV.INFIN				IAN	eng	herring16		
+972	168	6	me	me.PRON.OBJ.1S				IAN	eng	herring16		
+973	168	7	go	go.SV.INFIN				IAN	eng	herring16		
+974	168	8	ahead	ahead.ADV				IAN	eng	herring16		
+975	168	9	.					IAN	999	herring16		
+976	169	1	I'm	I.PRON.SUB.1S+BE.V.PRES				IAN	eng	herring16		
+977	169	2	gonna	go.V.PRESPART+TO.PREP				IAN	eng	herring16		
+978	169	3	also	also.ADV				IAN	eng	herring16		
+979	169	4	email	unk				IAN	eng	herring16		
+980	169	5	Majo	name				IAN	eng&spa	herring16		
+981	169	6	and	and.CONJ				IAN	eng	herring16		
+982	169	7	Pam	name				IAN	eng&spa	herring16		
+983	169	8	their	their.ADJ.POSS.3P				IAN	eng	herring16		
+984	169	9	forms	form.N.PL				IAN	eng	herring16		
+985	169	10	.					IAN	999	herring16		
+986	170	1	so	so.ADV				IAN	eng	herring16		
+987	170	2	that	that.CONJ				IAN	eng	herring16		
+988	170	3	they	they.PRON.SUB.3P				IAN	eng	herring16		
+989	170	4	know	know.V.3P.PRES				IAN	eng	herring16		
+990	170	5	.					IAN	999	herring16		
+991	171	1	sí	yes.ADV				ABE	spa	herring16		
+992	171	2	por	for.PREP				ABE	spa	herring16		
+993	171	3	favor	favour.N.M.SG				ABE	spa	herring16		
+994	171	4	.					ABE	999	herring16		
+995	172	1	.					ABE	999	herring16		
+996	173	1	hmm	hmm.IM				IAN	eng&spa	herring16		
+997	173	2	hmm	hmm.IM				IAN	eng&spa	herring16		
+998	173	3	hmm	hmm.IM				IAN	eng&spa	herring16		
+999	173	4	.					IAN	999	herring16		
+1000	174	1	parece	seem.V.2S.IMPER				ABE	spa	herring16		
+1001	174	2	que	that.CONJ				ABE	spa	herring16		
+1002	174	3	se	self.PRON.REFL.MF.3SP				ABE	spa	herring16		
+1003	174	4	me	me.PRON.OBL.MF.1S				ABE	spa	herring16		
+1004	174	5	antoja	want.V.3S.PRES				ABE	spa	herring16		
+1005	174	6	un	one.DET.INDEF.M.SG				ABE	spa	herring16		
+1006	174	7	café	coffee.N.M.SG				ABE	spa	herring16		
+1007	174	8	de	of.PREP				ABE	spa	herring16		
+1008	174	9	Starbucks	name				ABE	eng&spa	herring16		
+1009	174	10	.					ABE	999	herring16		
+1010	175	1	ay	gay.ADJ+SM.[or].ay.SV.INFIN				IAN	eng&spa	herring16		
+1011	175	2	that	that.DEM.FAR				IAN	eng	herring16		
+1012	175	3	sounds	sound.N.PL				IAN	eng	herring16		
+1013	175	4	good	good.ADJ				IAN	eng	herring16		
+1014	175	5	.					IAN	999	herring16		
+1015	176	1	wasn't	was.V.3S.PAST+NEG				IAN	eng	herring16		
+1016	176	2	it	it.PRON.OBJ.3S				IAN	eng	herring16		
+1017	176	3	near	near.PREP				IAN	eng	herring16		
+1018	176	4	the	the.DET.DEF				IAN	eng	herring16		
+1019	176	5	Starbucks	name				IAN	eng&spa	herring16		
+1020	176	6	they	they.PRON.SUB.3P				IAN	eng	herring16		
+1021	176	7	opened	unk				IAN	eng	herring16		
+1022	176	8	that	that.CONJ.[or].that.DEM.FAR				IAN	eng	herring16		
+1023	176	9	one	one.PRON.SG				IAN	eng	herring16		
+1024	176	10	already	already.ADV				IAN	eng	herring16		
+1025	176	11	the	the.DET.DEF				IAN	eng	herring16		
+1026	176	12	one	one.PRON.SG				IAN	eng	herring16		
+1027	176	13	um	um.IM				IAN	eng	herring16		
+1028	176	14	the	the.DET.DEF				IAN	eng	herring16		
+1029	176	15	?					IAN	999	herring16		
+1030	177	1	the	the.DET.DEF				ABE	eng	herring16		
+1031	177	2	other	other.ADJ				ABE	eng	herring16		
+1032	177	3	one	one.PRON.SG				ABE	eng	herring16		
+1033	177	4	right	right.ADJ				ABE	eng	herring16		
+1034	177	5	there	there.ADV				ABE	eng	herring16		
+1035	177	6	in	in.PREP				ABE	eng	herring16		
+1036	177	7	front	front.N.SG				ABE	eng	herring16		
+1037	177	8	of	of.PREP				ABE	eng	herring16		
+1038	177	9	the	the.DET.DEF				ABE	eng	herring16		
+1039	177	10	Publix	name				ABE	eng&spa	herring16		
+1040	177	11	.					ABE	999	herring16		
+1041	178	1	.					IAN	999	herring16		
+1042	179	1	hmm	hmm.IM				ABE	eng&spa	herring16		
+1043	179	2	?					ABE	999	herring16		
+1044	180	1	we	we.PRON.SUB.1P				ABE	eng	herring16		
+1045	180	2	can	can.V.123SP.PRES				ABE	eng	herring16		
+1046	180	3	go	go.V.INFIN				ABE	eng	herring16		
+1047	180	4	to	to.PREP				ABE	eng	herring16		
+1048	180	5	that	that.CONJ.[or].that.DEM.FAR				ABE	eng	herring16		
+1049	180	6	one	one.PRON.SG				ABE	eng	herring16		
+1050	180	7	too	too.ADV				ABE	eng	herring16		
+1051	180	8	.					ABE	999	herring16		
+1052	181	1	.					ABE	999	herring16		
+1053	182	1	ok	unk				IAN	eng&spa	herring16		
+1054	182	2	let's	let.V.IMPER+US.PRON.SUB.1P				IAN	eng	herring16		
+1055	182	3	see	see.SV.INFIN				IAN	eng	herring16		
+1056	182	4	.					IAN	999	herring16		
+1057	183	1	attached	attach.V.INFIN+AV				IAN	eng	herring16		
+1058	183	2	.					IAN	999	herring16		
+1059	184	1	can	can.V.123SP.PRES				IAN	eng	herring16		
+1060	184	2	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+1061	184	3	?					IAN	999	herring16		
+1062	185	1	will	will.V.123SP.FUT				IAN	eng	herring16		
+1063	185	2	find	find.SV.INFIN				IAN	eng	herring16		
+1064	185	3	the	the.DET.DEF				IAN	eng	herring16		
+1065	185	4	consent	consent.N.SG				IAN	eng	herring16		
+1066	185	5	application	application.N.SG				IAN	eng	herring16		
+1067	185	6	form	form.N.SG				IAN	eng	herring16		
+1068	185	7	to	to.PREP				IAN	eng	herring16		
+1069	185	8	volunteer	volunteer.N.SG				IAN	eng	herring16		
+1070	185	9	.					IAN	999	herring16		
+1071	186	1	ok	unk				IAN	eng	herring16		
+1072	186	2	.					IAN	999	herring16		
+1073	187	1	we	we.PRON.SUB.1P				IAN	eng	herring16		
+1074	187	2	all	all.ADJ				IAN	eng	herring16		
+1075	187	3	have	have.SV.INFIN				IAN	eng	herring16		
+1076	187	4	been	been.V.PASTPART				IAN	eng	herring16		
+1077	187	5	assigned	assign.V.PASTPART				IAN	eng	herring16		
+1078	187	6	.					IAN	999	herring16		
+1079	188	1	tú	you.PRON.SUB.MF.2S				ABE	spa	herring16		
+1080	188	2	sabes	know.V.2S.PRES				ABE	spa	herring16		
+1081	188	3	.					ABE	999	herring16		
+1082	189	1	wait	wait.V.INFIN				IAN	eng	herring16		
+1083	189	2	a	a.DET.INDEF				IAN	eng	herring16		
+1084	189	3	second	second.ADJ				IAN	eng	herring16		
+1085	189	4	.					IAN	999	herring16		
+1086	190	1	for	for.PREP				IAN	eng	herring16		
+1087	190	2	the	the.DET.DEF				IAN	eng	herring16		
+1088	190	3	same	same.ADJ				IAN	eng	herring16		
+1089	190	4	project	project.N.SG				IAN	eng	herring16		
+1090	190	5	a	a.DET.INDEF				IAN	eng	herring16		
+1091	190	6	setup	setup.N.SG				IAN	eng	herring16		
+1092	190	7	of	of.PREP				IAN	eng	herring16		
+1093	190	8	the	the.DET.DEF				IAN	eng	herring16		
+1094	190	9	botanical	botanical.ADJ				IAN	eng	herring16		
+1095	190	10	gardens	garden.N.PL				IAN	eng	herring16		
+1096	190	11	.					IAN	999	herring16		
+1097	191	1	tú	you.PRON.SUB.MF.2S				ABE	spa	herring16		
+1098	191	2	sabes	know.V.2S.PRES				ABE	spa	herring16		
+1099	191	3	que	that.CONJ				ABE	spa	herring16		
+1100	191	4	nosotros	we.PRON.SUB.M.1P				ABE	spa	herring16		
+1101	191	5	no	not.ADV				ABE	spa	herring16		
+1102	191	6	no	not.ADV				ABE	spa	herring16		
+1103	191	7	hemos	have.V.1P.PRES				ABE	spa	herring16		
+1104	191	8	ido	go.V.PASTPART				ABE	spa	herring16		
+1105	191	9	a	to.PREP				ABE	spa	herring16		
+1106	191	10	tu	your.ADJ.POSS.MF.2S.SG				ABE	spa	herring16		
+1107	191	11	casa	house.N.F.SG				ABE	spa	herring16		
+1108	191	12	a	to.PREP				ABE	spa	herring16		
+1109	191	13	recoger	pick.V.INFIN				ABE	spa	herring16		
+1110	191	14	la	the.DET.DEF.F.SG				ABE	spa	herring16		
+1111	191	15	sheet	sheet.N.SG				ABE	eng	herring16		
+1112	191	16	.					ABE	999	herring16		
+1113	192	1	y	and.CONJ				ABE	spa	herring16		
+1114	192	2	hay	there_is.V.3S.PRES				ABE	spa	herring16		
+1115	192	3	que	that.CONJ				ABE	spa	herring16		
+1116	192	4	lavar	wash.V.INFIN				ABE	spa	herring16		
+1117	192	5	todo	all.ADJ.M.SG				ABE	spa	herring16		
+1118	192	6	eso	that.PRON.DEM.NT.SG				ABE	spa	herring16		
+1119	192	7	de	of.PREP				ABE	spa	herring16		
+1120	192	8	cuando	when.CONJ				ABE	spa	herring16		
+1121	192	9	Helena	name				ABE	eng&spa	herring16		
+1122	192	10	estaba	be.V.13S.IMPERF				ABE	spa	herring16		
+1123	192	11	allá	there.ADV				ABE	spa	herring16		
+1124	192	12	.					ABE	999	herring16		
+1125	193	1	sí	yes.ADV				IAN	spa	herring16		
+1126	193	2	ella	she.PRON.SUB.F.3S				IAN	spa	herring16		
+1127	193	3	lo	him.PRON.OBJ.M.3S				IAN	spa	herring16		
+1128	193	4	lavó	wash.V.3S.PAST				IAN	spa	herring16		
+1129	193	5	.					IAN	999	herring16		
+1130	194	1	y	and.CONJ				ABE	spa	herring16		
+1131	194	2	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+1132	194	3	cubrecamas	bedspread.N.M.PL				ABE	spa	herring16		
+1133	194	4	y	and.CONJ				ABE	spa	herring16		
+1134	194	5	todo	everything.PRON.M.SG				ABE	spa	herring16		
+1135	194	6	?					ABE	999	herring16		
+1136	195	1	sí	yes.ADV				IAN	spa	herring16		
+1137	195	2	.					IAN	999	herring16		
+1138	196	1	por	for.PREP				ABE	spa	herring16		
+1139	196	2	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+1140	196	3	perrito	puppy.N.M.SG.DIM				ABE	spa	herring16		
+1141	196	4	digo	tell.V.1S.PRES				ABE	spa	herring16		
+1142	196	5	.					ABE	999	herring16		
+1143	197	1	porque	because.CONJ				ABE	spa	herring16		
+1144	197	2	si	if.CONJ				ABE	spa	herring16		
+1145	197	3	yo	I.PRON.SUB.MF.1S				ABE	spa	herring16		
+1146	197	4	me	me.PRON.OBL.MF.1S				ABE	spa	herring16		
+1147	197	5	voy	go.V.1S.PRES				ABE	spa	herring16		
+1148	197	6	para	for.PREP				ABE	spa	herring16		
+1149	197	7	allá	there.ADV				ABE	spa	herring16		
+1150	197	8	luego	next.ADV				ABE	spa	herring16		
+1151	197	9	me	me.PRON.OBL.MF.1S				ABE	spa	herring16		
+1152	197	10	da	give.V.3S.PRES				ABE	spa	herring16		
+1153	197	11	alergia	allergy.N.F.SG				ABE	spa	herring16		
+1154	197	12	.					ABE	999	herring16		
+1155	198	1	hmm	hmm.IM				IAN	eng&spa	herring16		
+1156	198	2	no	not.ADV				IAN	spa	herring16		
+1157	198	3	.					IAN	999	herring16		
+1158	199	1	pues	then.CONJ				IAN	spa	herring16		
+1159	199	2	no	not.ADV				IAN	spa	herring16		
+1160	199	3	vayas	go.V.2S.SUBJ.PRES				IAN	spa	herring16		
+1161	199	4	.					IAN	999	herring16		
+1162	200	1	gracias	thanks.E				ABE	spa	herring16		
+1163	200	2	si	if.CONJ				ABE	spa	herring16		
+1164	200	3	quieres	want.V.2S.PRES				ABE	spa	herring16		
+1165	200	4	vete	go.V.2S.IMPER+TE[PRON.MF.2S].[or].see.V.2S.IMPER				ABE	spa	herring16		
+1166	200	5	tú	you.PRON.SUB.MF.2S				ABE	spa	herring16		
+1167	200	6	.					ABE	999	herring16		
+1168	201	1	te	you.PRON.OBL.MF.2S				ABE	spa	herring16		
+1169	201	2	quedas	stay.V.2S.PRES				ABE	spa	herring16		
+1170	201	3	por	for.PREP				ABE	spa	herring16		
+1171	201	4	allá	there.ADV				ABE	spa	herring16		
+1172	201	5	.					ABE	999	herring16		
+1173	202	1	y	and.CONJ				ABE	spa	herring16		
+1174	202	2	yo	I.PRON.SUB.MF.1S				ABE	spa	herring16		
+1175	202	3	quemo	burn.V.1S.PRES				ABE	spa	herring16		
+1176	202	4	todo	all.ADJ.M.SG.[or].everything.PRON.M.SG				ABE	spa	herring16		
+1177	202	5	aquí	here.ADV				ABE	spa	herring16		
+1178	202	6	.					ABE	999	herring16		
+1179	203	1	.					IAN	999	herring16		
+1180	204	1	ahora	now.ADV				ABE	spa	herring16		
+1181	204	2	la	the.DET.DEF.F.SG				ABE	spa	herring16		
+1182	204	3	tele	TV.N.F.SG				ABE	spa	herring16		
+1183	204	4	la	the.DET.DEF.F.SG				ABE	spa	herring16		
+1184	204	5	televisión	TV.N.F.SG				ABE	spa	herring16		
+1185	204	6	te	you.PRON.OBL.MF.2S				ABE	spa	herring16		
+1186	204	7	la	her.PRON.OBJ.F.3S				ABE	spa	herring16		
+1187	204	8	quemo	burn.V.1S.PRES				ABE	spa	herring16		
+1188	204	9	.					ABE	999	herring16		
+1189	205	1	huh	huh.IM				ABE	eng	herring16		
+1190	205	2	?					ABE	999	herring16		
+1191	206	1	.					IAN	999	herring16		
+1192	207	1	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+1193	207	2	ladrón	thief.N.M.SG				ABE	spa	herring16		
+1194	207	3	que	that.PRON.REL				ABE	spa	herring16		
+1195	207	4	roba	rob.V.3S.PRES				ABE	spa	herring16		
+1196	207	5	al	to_the.PREP+DET.DEF.M.SG				ABE	spa	herring16		
+1197	207	6	ladrón	thief.N.M.SG				ABE	spa	herring16		
+1198	207	7	tiene	have.V.3S.PRES				ABE	spa	herring16		
+1199	207	8	cien	hundred.NUM				ABE	spa	herring16		
+1200	207	9	años	year.N.M.PL				ABE	spa	herring16		
+1201	207	10	de	of.PREP				ABE	spa	herring16		
+1202	207	11	.					ABE	999	herring16		
+1203	208	1	mira	look.V.2S.IMPER				ABE	spa	herring16		
+1204	208	2	deberíamos	owe.V.1P.COND				ABE	spa	herring16		
+1205	208	3	de	of.PREP				ABE	spa	herring16		
+1206	208	4	hacer	do.V.INFIN				ABE	spa	herring16		
+1207	208	5	la	the.DET.DEF.F.SG				ABE	spa	herring16		
+1208	208	6	dieta	diet.N.F.SG				ABE	spa	herring16		
+1209	208	7	esta	this.ADJ.DEM.F.SG				ABE	spa	herring16		
+1210	208	8	semana	week.N.F.SG				ABE	spa	herring16		
+1211	208	9	otra	other.ADJ.F.SG				ABE	spa	herring16		
+1212	208	10	vez	time.N.F.SG				ABE	spa	herring16		
+1213	208	11	.					ABE	999	herring16		
+1214	209	1	ay	oh.IM				IAN	spa	herring16		
+1215	209	2	no	not.ADV				IAN	spa	herring16		
+1216	209	3	.					IAN	999	herring16		
+1217	210	1	oye	hear.V.2S.IMPER				IAN	spa	herring16		
+1218	210	2	dónde	where.INT				IAN	spa	herring16		
+1219	210	3	está	be.V.3S.PRES				IAN	spa	herring16		
+1220	210	4	la	the.DET.DEF.F.SG				IAN	spa	herring16		
+1221	210	5	la	the.DET.DEF.F.SG				IAN	spa	herring16		
+1222	210	6	hoja	leaf.N.F.SG				IAN	spa	herring16		
+1223	210	7	de	of.PREP				IAN	spa	herring16		
+1224	210	8	de	of.PREP				IAN	spa	herring16		
+1225	210	9	events	event.N.PL				IAN	eng	herring16		
+1226	210	10	and	and.CONJ				IAN	eng	herring16		
+1227	210	11	promotions	promotion.N.PL				IAN	eng	herring16		
+1228	210	12	porque	because.CONJ				IAN	spa	herring16		
+1229	210	13	.					IAN	999	herring16		
+1230	211	1	ah	ah.IM				ABE	eng&spa	herring16		
+1231	211	2	tú	you.PRON.SUB.MF.2S				ABE	spa	herring16		
+1232	211	3	la	her.PRON.OBJ.F.3S				ABE	spa	herring16		
+1233	211	4	tenías	have.V.2S.IMPERF				ABE	spa	herring16		
+1234	211	5	anoche	.ADV.[or].last_night.ADV				ABE	spa	herring16		
+1235	211	6	.					ABE	999	herring16		
+1236	212	1	tú	you.PRON.SUB.MF.2S				ABE	spa	herring16		
+1237	212	2	la	her.PRON.OBJ.F.3S				ABE	spa	herring16		
+1238	212	3	pusiste	put.V.2S.PAST				ABE	spa	herring16		
+1239	212	4	en	in.PREP				ABE	spa	herring16		
+1240	212	5	uno	one.PRON.M.SG				ABE	spa	herring16		
+1241	212	6	de	of.PREP				ABE	spa	herring16		
+1242	212	7	los	the.DET.DEF.M.PL				ABE	spa	herring16		
+1243	212	8	folders	folder.N.PL				ABE	eng	herring16		
+1244	212	9	.					ABE	999	herring16		
+1245	213	1	hoy	today.ADV				ABE	spa	herring16		
+1246	213	2	tenemos	have.V.1P.PRES				ABE	spa	herring16		
+1247	213	3	que	that.CONJ				ABE	spa	herring16		
+1248	213	4	faxearlo	fax.V.INFIN+LO[PRON.M.3S]				ABE	spa	herring16		
+1249	213	5	.					ABE	999	herring16		
+1250	214	1	pero	but.CONJ				IAN	spa	herring16		
+1251	214	2	lo	him.PRON.OBJ.M.3S				IAN	spa	herring16		
+1252	214	3	faxeo	fax.V.1S.PRES				IAN	spa	herring16		
+1253	214	4	el	the.DET.DEF.M.SG				IAN	spa	herring16		
+1254	214	5	lunes	Monday.N.M				IAN	spa	herring16		
+1255	214	6	igual	equal.ADJ.M.SG				IAN	spa	herring16		
+1256	214	7	.					IAN	999	herring16		
+1257	215	1	llega	get.V.2S.IMPER				ABE	spa	herring16		
+1258	215	2	la	the.DET.DEF.F.SG				ABE	spa	herring16		
+1259	215	3	fax	fax.N.M.SG				ABE	spa	herring16		
+1260	215	4	del	of_the.PREP+DET.DEF.M.SG				ABE	spa	herring16		
+1261	215	5	trabajo	work.N.M.SG.[or].work.V.1S.PRES				ABE	spa	herring16		
+1262	215	6	ahora	now.ADV				ABE	spa	herring16		
+1263	215	7	.					ABE	999	herring16		
+1264	216	1	qué	what.INT				IAN	spa	herring16		
+1265	216	2	?					IAN	999	herring16		
+1266	217	1	si	if.CONJ				ABE	spa	herring16		
+1267	217	2	llega	get.V.3S.PRES				ABE	spa	herring16		
+1268	217	3	la	the.DET.DEF.F.SG				ABE	spa	herring16		
+1269	217	4	fax	fax.N.M.SG				ABE	spa	herring16		
+1270	217	5	del	of_the.PREP+DET.DEF.M.SG				ABE	spa	herring16		
+1271	217	6	trabajo	work.N.M.SG.[or].work.V.1S.PRES				ABE	spa	herring16		
+1272	217	7	ahora	now.ADV				ABE	spa	herring16		
+1273	217	8	.					ABE	999	herring16		
+1274	218	1	a	to.PREP				IAN	spa	herring16		
+1275	218	2	qué	what.INT				IAN	spa	herring16		
+1276	218	3	horas	time.N.F.PL				IAN	spa	herring16		
+1277	218	4	trabajas	work.V.2S.PRES				IAN	spa	herring16		
+1278	218	5	?					IAN	999	herring16		
+1279	219	1	no	not.ADV				ABE	spa	herring16		
+1280	219	2	trabajo	work.V.1S.PRES				ABE	spa	herring16		
+1281	219	3	.					ABE	999	herring16		
+1282	220	1	dijo	tell.V.3S.PAST				ABE	spa	herring16		
+1283	220	2	que	that.CONJ				ABE	spa	herring16		
+1284	220	3	iba	go.V.13S.IMPERF				ABE	spa	herring16		
+1285	220	4	a	to.PREP				ABE	spa	herring16		
+1286	220	5	pasar	pass.V.INFIN				ABE	spa	herring16		
+1287	220	6	a	to.PREP				ABE	spa	herring16		
+1288	220	7	dejar	let.V.INFIN				ABE	spa	herring16		
+1289	220	8	la	the.DET.DEF.F.SG				ABE	spa	herring16		
+1290	220	9	película	movie.N.F.SG				ABE	spa	herring16		
+1291	220	10	.					ABE	999	herring16		
+1292	221	1	y	and.CONJ				ABE	spa	herring16		
+1293	221	2	pasar	pass.V.INFIN				ABE	spa	herring16		
+1294	221	3	por	for.PREP				ABE	spa	herring16		
+1295	221	4	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+1296	221	5	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+1297	221	6	trabajo	work.N.M.SG				ABE	spa	herring16		
+1298	221	7	un	one.DET.INDEF.M.SG				ABE	spa	herring16		
+1299	221	8	momento	momentum.N.M.SG				ABE	spa	herring16		
+1300	221	9	.					ABE	999	herring16		
+1301	222	1	.					IAN	999	herring16		
+1302	223	1	adelante	forward.ADV.[or].advance.V.13S.SUBJ.PRES				ABE	spa	herring16		
+1303	223	2	.					ABE	999	herring16		
+1304	224	1	pero	but.CONJ				ABE	spa	herring16		
+1305	224	2	tú	you.PRON.SUB.MF.2S				ABE	spa	herring16		
+1306	224	3	me	me.PRON.OBL.MF.1S				ABE	spa	herring16		
+1307	224	4	puedes	be_able.V.2S.PRES				ABE	spa	herring16		
+1308	224	5	acompañar	accompany.V.INFIN				ABE	spa	herring16		
+1309	224	6	unos	one.DET.INDEF.M.PL				ABE	spa	herring16		
+1310	224	7	cinco	five.NUM				ABE	spa	herring16		
+1311	224	8	minutos	minute.N.M.PL				ABE	spa	herring16		
+1312	224	9	.					ABE	999	herring16		
+1313	225	1	nos	us.PRON.OBL.MF.1P				ABE	spa	herring16		
+1314	225	2	vamos	go.V.1P.PRES				ABE	spa	herring16		
+1315	225	3	al	to_the.PREP+DET.DEF.M.SG				ABE	spa	herring16		
+1316	225	4	Starbucks	name				ABE	eng&spa	herring16		
+1317	225	5	.					ABE	999	herring16		
+1318	226	1	sabes	know.V.2S.PRES				ABE	spa	herring16		
+1319	226	2	lo	the.DET.DEF.NT.SG				ABE	spa	herring16		
+1320	226	3	que	that.PRON.REL				ABE	spa	herring16		
+1321	226	4	quiere	want.V.3S.PRES				ABE	spa	herring16		
+1322	226	5	hacer	do.V.INFIN				ABE	spa	herring16		
+1323	226	6	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+1324	226	7	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+1325	226	8	que	that.PRON.REL				ABE	spa	herring16		
+1326	226	9	estaba	be.V.13S.IMPERF				ABE	spa	herring16		
+1327	226	10	ahí	there.ADV				ABE	spa	herring16		
+1328	226	11	?					ABE	999	herring16		
+1329	227	1	él	he.PRON.SUB.M.3S				ABE	spa	herring16		
+1330	227	2	la	her.PRON.OBJ.F.3S				ABE	spa	herring16		
+1331	227	3	trabaja	work.V.2S.IMPER.[or].work.V.3S.PRES				ABE	spa	herring16		
+1332	227	4	para	for.PREP				ABE	spa	herring16		
+1333	227	5	.					ABE	999	herring16		
+1334	228	1	cuál	which.PRON.INT.MF.SG				IAN	spa	herring16		
+1335	228	2	el	the.DET.DEF.M.SG				IAN	spa	herring16		
+1336	228	3	flaquito	skinny.ADJ.M.SG.DIM				IAN	spa	herring16		
+1337	228	4	?					IAN	999	herring16		
+1338	229	1	ah	ah.IM				ABE	eng&spa	herring16		
+1339	229	2	no	not.ADV				ABE	spa	herring16		
+1340	229	3	no	not.ADV				ABE	spa	herring16		
+1341	229	4	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+1342	229	5	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+1343	229	6	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+1344	229	7	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+1345	229	8	moreno	brown.N.M.SG				ABE	spa	herring16		
+1346	229	9	.					ABE	999	herring16		
+1347	230	1	bajito	low.ADJ.M.SG.DIM				IAN	spa	herring16		
+1348	230	2	?					IAN	999	herring16		
+1349	231	1	mmhm	mmhm.IM				IAN	eng	herring16		
+1350	231	2	.					IAN	999	herring16		
+1351	232	1	compañía	company.N.F.SG				ABE	spa	herring16		
+1352	232	2	que	that.PRON.REL				ABE	spa	herring16		
+1353	232	3	sí	yes.ADV				ABE	spa	herring16		
+1354	232	4	.					ABE	999	herring16		
+1355	233	1	these	these.DEM.NEAR.PL				ABE	eng	herring16		
+1356	233	2	are	are.V.123P.PRES				ABE	eng	herring16		
+1357	233	3	your	your.ADJ.POSS.2SP				ABE	eng	herring16		
+1358	233	4	resources	unk				ABE	eng	herring16		
+1359	233	5	yo	I.PRON.SUB.MF.1S				ABE	spa	herring16		
+1360	233	6	creo	believe.V.1S.PRES.[or].create.V.1S.PRES				ABE	spa	herring16		
+1361	233	7	.					ABE	999	herring16		
+1362	234	1	ah	ah.IM				IAN	eng&spa	herring16		
+1363	234	2	dámelo	give.V.2P.IMPER.PRECLITIC.[or].give.V.2S.IMPER.PRECLITIC+ME[PRON.MF.1S] LO[PRON.M.3S]				IAN	spa	herring16		
+1364	234	3	déjame	let.V.2S.IMPER.PRECLITIC+ME[PRON.MF.1S]				IAN	spa	herring16		
+1365	234	4	verlo	see.V.INFIN+LO[PRON.M.3S]				IAN	spa	herring16		
+1366	234	5	.					IAN	999	herring16		
+1367	235	1	que	that.CONJ				IAN	spa	herring16		
+1368	235	2	se	self.PRON.REFL.MF.3SP				IAN	spa	herring16		
+1369	235	3	llama	call.V.3S.PRES				IAN	spa	herring16		
+1370	235	4	um	um.IM				IAN	eng	herring16		
+1371	235	5	marketing	market.N.SG+ASV				IAN	eng	herring16		
+1372	235	6	marketing	market.N.SG+ASV				IAN	eng	herring16		
+1373	235	7	works	works.N.PL.[or].work.N.PL				IAN	eng	herring16		
+1374	235	8	.					IAN	999	herring16		
+1375	236	1	mmhm	mmhm.IM				ABE	eng	herring16		
+1376	236	2	.					ABE	999	herring16		
+1377	237	1	and	and.CONJ				IAN	eng	herring16		
+1378	237	2	then	then.ADV				IAN	eng	herring16		
+1379	237	3	he	he.PRON.SUB.M.3S				IAN	eng	herring16		
+1380	237	4	said	said.V.PAST				IAN	eng	herring16		
+1381	237	5	that	that.CONJ				IAN	eng	herring16		
+1382	237	6	they	they.PRON.SUB.3P				IAN	eng	herring16		
+1383	237	7	are	are.V.3P.PRES				IAN	eng	herring16		
+1384	237	8	really	real.ADJ+ADV				IAN	eng	herring16		
+1385	237	9	good	good.ADJ				IAN	eng	herring16		
+1386	237	10	actually	actual.ADJ+ADV				IAN	eng	herring16		
+1387	237	11	to	to.PREP				IAN	eng	herring16		
+1388	237	12	work	work.V.INFIN				IAN	eng	herring16		
+1389	237	13	with	with.PREP				IAN	eng	herring16		
+1390	237	14	.					IAN	999	herring16		
+1391	238	1	sí	yes.ADV				ABE	spa	herring16		
+1392	238	2	precisamente	precisely.ADV				ABE	spa	herring16		
+1393	238	3	están	be.V.3P.PRES				ABE	spa	herring16		
+1394	238	4	a	to.PREP				ABE	spa	herring16		
+1395	238	5	mi	my.ADJ.POSS.MF.1S.SG				ABE	spa	herring16		
+1396	238	6	altura	height.N.F.SG				ABE	spa	herring16		
+1397	238	7	.					ABE	999	herring16		
+1398	239	1	mira	look.V.2S.IMPER				ABE	spa	herring16		
+1399	239	2	.					ABE	999	herring16		
+1400	240	1	one	one.PRON.SG				ABE	eng	herring16		
+1401	240	2	twenty	twenty.NUM				ABE	eng	herring16		
+1402	240	3	seven	seven.NUM				ABE	eng	herring16		
+1403	240	4	over	over.ADV.[or].over.PREP				ABE	eng	herring16		
+1404	240	5	eighty	eighty.NUM				ABE	eng	herring16		
+1405	240	6	nine	nine.NUM				ABE	eng	herring16		
+1406	240	7	es	be.V.3S.PRES				ABE	spa	herring16		
+1407	240	8	mi	my.ADJ.POSS.MF.1S.SG				ABE	spa	herring16		
+1408	240	9	blood	blood.N.SG				ABE	eng	herring16		
+1409	240	10	pressure	pressure.N.SG				ABE	eng	herring16		
+1410	240	11	.					ABE	999	herring16		
+1411	241	1	y	and.CONJ				ABE	spa	herring16		
+1412	241	2	debe	owe.V.3S.PRES				ABE	spa	herring16		
+1413	241	3	estar	be.V.INFIN				ABE	spa	herring16		
+1414	241	4	en	in.PREP				ABE	spa	herring16		
+1415	241	5	.					ABE	999	herring16		
+1416	242	1	en	in.PREP				ABE	spa	herring16		
+1417	242	2	one	one.PRON.SG				ABE	eng	herring16		
+1418	242	3	twenty	twenty.NUM				ABE	eng	herring16		
+1419	242	4	eighty	eighty.NUM				ABE	eng	herring16		
+1420	242	5	.					ABE	999	herring16		
+1421	243	1	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+1422	243	2	cholesterol	cholesterol.N.SG				ABE	eng	herring16		
+1423	243	3	tengo	have.V.1S.PRES				ABE	spa	herring16		
+1424	243	4	ciento	hundred.N.M.SG				ABE	spa	herring16		
+1425	243	5	veinte	twenty.NUM				ABE	spa	herring16		
+1426	243	6	gramos	gramme.N.M.PL				ABE	spa	herring16		
+1427	243	7	.					ABE	999	herring16		
+1428	244	1	and	and.CONJ				IAN	eng	herring16		
+1429	244	2	what	what.REL				IAN	eng	herring16		
+1430	244	3	what	what.REL				IAN	eng	herring16		
+1431	244	4	should	should.SV.INFIN				IAN	eng	herring16		
+1432	244	5	it	it.PRON.SUB.3S				IAN	eng	herring16		
+1433	244	6	be	be.V.3S.PRES				IAN	eng	herring16		
+1434	244	7	?					IAN	999	herring16		
+1435	245	1	less	less.ADV				ABE	eng	herring16		
+1436	245	2	than	than.CONJ				ABE	eng	herring16		
+1437	245	3	two	two.NUM				ABE	eng	herring16		
+1438	245	4	.					ABE	999	herring16		
+1439	246	1	less	less.ADV				ABE	eng	herring16		
+1440	246	2	than	than.CONJ				ABE	eng	herring16		
+1441	246	3	two	two.NUM				ABE	eng	herring16		
+1442	246	4	hundred	hundred.NUM				ABE	eng	herring16		
+1443	246	5	.					ABE	999	herring16		
+1444	247	1	and	and.CONJ				IAN	eng	herring16		
+1445	247	2	where	where.ADV				IAN	eng	herring16		
+1446	247	3	are	are.V.123P.PRES				IAN	eng	herring16		
+1447	247	4	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+1448	247	5	?					IAN	999	herring16		
+1449	248	1	ciento	hundred.N.M.SG				ABE	spa	herring16		
+1450	248	2	veinte	twenty.NUM				ABE	spa	herring16		
+1451	248	3	.					ABE	999	herring16		
+1452	249	1	that's	that.DEM.FAR+BE.V.3S.PRES				IAN	eng	herring16		
+1453	249	2	good	good.ADJ				IAN	eng	herring16		
+1454	249	3	.					IAN	999	herring16		
+1455	250	1	sí	yes.ADV				ABE	spa	herring16		
+1456	250	2	yo	I.PRON.SUB.MF.1S				ABE	spa	herring16		
+1457	250	3	no	not.ADV				ABE	spa	herring16		
+1458	250	4	tengo	have.V.1S.PRES				ABE	spa	herring16		
+1459	250	5	colesterol	cholesterol.N.M.SG				ABE	spa	herring16		
+1460	250	6	.					ABE	999	herring16		
+1461	251	1	blood	blood.N.SG				ABE	eng	herring16		
+1462	251	2	glucose	glucose.N.SG				ABE	eng	herring16		
+1463	251	3	.					ABE	999	herring16		
+1464	252	1	if	if.CONJ				ABE	eng	herring16		
+1465	252	2	one	one.PRON.SG				ABE	eng	herring16		
+1466	252	3	meal	meal.N.SG				ABE	eng	herring16		
+1467	252	4	last	last.ADJ				ABE	eng	herring16		
+1468	252	5	eight	eight.NUM				ABE	eng	herring16		
+1469	252	6	hours	hour.N.PL				ABE	eng	herring16		
+1470	252	7	.					ABE	999	herring16		
+1471	253	1	yo	I.PRON.SUB.MF.1S				ABE	spa	herring16		
+1472	253	2	no	not.ADV				ABE	spa	herring16		
+1473	253	3	había	have.V.13S.IMPERF				ABE	spa	herring16		
+1474	253	4	comido	eat.V.PASTPART				ABE	spa	herring16		
+1475	253	5	verdad	truth.N.F.SG				ABE	spa	herring16		
+1476	253	6	.					ABE	999	herring16		
+1477	254	1	eighty	eighty.NUM				ABE	eng	herring16		
+1478	254	2	seven	seven.NUM				ABE	eng	herring16		
+1479	254	3	.					ABE	999	herring16		
+1480	255	1	so	so.ADV				ABE	eng	herring16		
+1481	255	2	I'm	I.PRON.SUB.1S+BE.V.PRES				ABE	eng	herring16		
+1482	255	3	low	low.ADJ				ABE	eng	herring16		
+1483	255	4	in	in.PREP				ABE	eng	herring16		
+1484	255	5	glucose	glucose.N.SG				ABE	eng	herring16		
+1485	255	6	.					ABE	999	herring16		
+1486	256	1	body	body.N.SG				ABE	eng	herring16		
+1487	256	2	composition	composition.N.SG				ABE	eng	herring16		
+1488	256	3	.					ABE	999	herring16		
+1489	257	1	twenty	twenty.NUM				ABE	eng	herring16		
+1490	257	2	to	to.PREP				ABE	eng	herring16		
+1491	257	3	twenty	twenty.NUM				ABE	eng	herring16		
+1492	257	4	nine	nine.NUM				ABE	eng	herring16		
+1493	257	5	twenty	twenty.NUM				ABE	eng	herring16		
+1494	257	6	one	one.NUM				ABE	eng	herring16		
+1495	257	7	to	to.PREP				ABE	eng	herring16		
+1496	257	8	thirty	thirty.NUM				ABE	eng	herring16		
+1497	257	9	two	two.NUM				ABE	eng	herring16		
+1498	257	10	.					ABE	999	herring16		
+1499	258	1	I	I.PRON.SUB.1S				IAN	eng	herring16		
+1500	258	2	have	have.V.1S.PRES				IAN	eng	herring16		
+1501	258	3	twenty	twenty.NUM				IAN	eng	herring16		
+1502	258	4	five	five.NUM				IAN	eng	herring16		
+1503	258	5	percent	percent.N.SG				IAN	eng	herring16		
+1504	258	6	.					IAN	999	herring16		
+1505	259	1	the	the.DET.DEF				ABE	eng	herring16		
+1506	259	2	body	body.N.SG				ABE	eng	herring16		
+1507	259	3	mass	mass.N.SG				ABE	eng	herring16		
+1508	259	4	density	density.N.SG				ABE	eng	herring16		
+1509	259	5	.					ABE	999	herring16		
+1510	260	1	I	I.PRON.SUB.1S				IAN	eng	herring16		
+1511	260	2	think	think.V.1S.PRES				IAN	eng	herring16		
+1512	260	3	those	those.DEM.FAR.PL				IAN	eng	herring16		
+1513	260	4	people	people.N.SG				IAN	eng	herring16		
+1514	260	5	are	are.V.123P.PRES				IAN	eng	herring16		
+1515	260	6	still	still.ADJ				IAN	eng	herring16		
+1516	260	7	walking	walk.V.PRESPART				IAN	eng	herring16		
+1517	260	8	.					IAN	999	herring16		
+1518	261	1	I	I.PRON.SUB.1S				IAN	eng	herring16		
+1519	261	2	think	think.V.1S.PRES				IAN	eng	herring16		
+1520	261	3	it	it.PRON.SUB.3S				IAN	eng	herring16		
+1521	261	4	was	was.V.3S.PAST				IAN	eng	herring16		
+1522	261	5	twenty	twenty.NUM				IAN	eng	herring16		
+1523	261	6	four	four.NUM				IAN	eng	herring16		
+1524	261	7	hours	hour.N.PL				IAN	eng	herring16		
+1525	261	8	.					IAN	999	herring16		
+1526	262	1	bueno	well.E				ABE	spa	herring16		
+1527	262	2	.					ABE	999	herring16		
+1528	263	1	with	with.PREP				IAN	eng	herring16		
+1529	263	2	the	the.DET.DEF				IAN	eng	herring16		
+1530	263	3	Aids	name				IAN	eng	herring16		
+1531	263	4	Walk	name				IAN	eng	herring16		
+1532	263	5	for	for.PREP				IAN	eng	herring16		
+1533	263	6	the	the.DET.DEF				IAN	eng	herring16		
+1534	263	7	Cancer	name				IAN	eng	herring16		
+1535	263	8	Walk	name				IAN	eng	herring16		
+1536	263	9	.					IAN	999	herring16		
+1537	264	1	qué	what.INT				IAN	spa	herring16		
+1538	264	2	horror	horror.N.M.SG				IAN	spa	herring16		
+1539	264	3	coming	come.V.PRESPART				IAN	eng	herring16		
+1540	264	4	up	up.ADV				IAN	eng	herring16		
+1541	264	5	.					IAN	999	herring16		
+1542	265	1	ah	ah.IM				ABE	eng&spa	herring16		
+1543	265	2	pero	but.CONJ				ABE	spa	herring16		
+1544	265	3	tú	you.PRON.SUB.MF.2S				ABE	spa	herring16		
+1545	265	4	ves	see.V.2S.PRES				ABE	spa	herring16		
+1546	265	5	dice	tell.V.3S.PRES				ABE	spa	herring16		
+1547	265	6	que	that.CONJ				ABE	spa	herring16		
+1548	265	7	no	not.ADV				ABE	spa	herring16		
+1549	265	8	tengo	have.V.1S.PRES				ABE	spa	herring16		
+1550	265	9	osteoporosis	osteoporosis.N.SG				ABE	eng&spa	herring16		
+1551	265	10	todavía	yet.ADV				ABE	spa	herring16		
+1552	265	11	.					ABE	999	herring16		
+1553	266	1	mira	look.V.2S.IMPER				ABE	spa	herring16		
+1554	266	2	.					ABE	999	herring16		
+1555	267	1	qué	what.INT				IAN	spa	herring16		
+1556	267	2	te	you.PRON.OBL.MF.2S				IAN	spa	herring16		
+1557	267	3	dice	tell.V.3S.PRES				IAN	spa	herring16		
+1558	267	4	?					IAN	999	herring16		
+1559	268	1	normal	ordinary.ADJ.M.SG				ABE	spa	herring16		
+1560	268	2	es	be.V.3S.PRES				ABE	spa	herring16		
+1561	268	3	above	above.PREP				ABE	eng	herring16		
+1562	268	4	negative	negative.ADJ				ABE	eng	herring16		
+1563	268	5	one	one.PRON.SG				ABE	eng	herring16		
+1564	268	6	.					ABE	999	herring16		
+1565	269	1	I	I.PRON.SUB.1S				ABE	eng	herring16		
+1566	269	2	have	have.V.1S.PRES				ABE	eng	herring16		
+1567	269	3	negative	negative.ADJ				ABE	eng	herring16		
+1568	269	4	one	one.PRON.SG				ABE	eng	herring16		
+1569	269	5	point	point.N.SG				ABE	eng	herring16		
+1570	269	6	seven	seven.NUM				ABE	eng	herring16		
+1571	269	7	.					ABE	999	herring16		
+1572	270	1	so	so.ADV				ABE	eng	herring16		
+1573	270	2	I'm	I.PRON.SUB.1S+BE.V.PRES				ABE	eng	herring16		
+1574	270	3	point	point.N.SG				ABE	eng	herring16		
+1575	270	4	seven	seven.NUM				ABE	eng	herring16		
+1576	270	5	below	below.PREP				ABE	eng	herring16		
+1577	270	6	what	what.REL				ABE	eng	herring16		
+1578	270	7	I	I.PRON.SUB.1S				ABE	eng	herring16		
+1579	270	8	have	have.V.1S.PRES				ABE	eng	herring16		
+1580	270	9	to	to.PREP				ABE	eng	herring16		
+1581	270	10	be	be.V.INFIN				ABE	eng	herring16		
+1582	270	11	.					ABE	999	herring16		
+1583	271	1	hmm	hmm.IM				IAN	eng&spa	herring16		
+1584	271	2	no	not.ADV				IAN	spa	herring16		
+1585	271	3	tengo	have.V.1S.PRES				IAN	spa	herring16		
+1586	271	4	la	the.DET.DEF.F.SG				IAN	spa	herring16		
+1587	271	5	menor	minor.ADJ.M.SG				IAN	spa	herring16		
+1588	271	6	idea	notion.N.F.SG.[or].contrive.V.2S.IMPER.[or].contrive.V.3S.PRES				IAN	spa	herring16		
+1589	271	7	fíjate	fix.V.2S.IMPER.PRECLITIC+TE[PRON.MF.2S]				IAN	spa	herring16		
+1590	271	8	.					IAN	999	herring16		
+1591	272	1	ok	unk				ABE	eng&spa	herring16		
+1592	272	2	.					ABE	999	herring16		
+1593	273	1	negative	negative.ADJ				ABE	eng	herring16		
+1594	273	2	one	one.PRON.SG				ABE	eng	herring16		
+1595	273	3	is	is.V.3S.PRES				ABE	eng	herring16		
+1596	273	4	right	right.ADJ				ABE	eng	herring16		
+1597	273	5	here	here.ADV				ABE	eng	herring16		
+1598	273	6	.					ABE	999	herring16		
+1599	274	1	negative	negative.ADJ				ABE	eng	herring16		
+1600	274	2	one	one.PRON.SG				ABE	eng	herring16		
+1601	274	3	point	point.N.SG				ABE	eng	herring16		
+1602	274	4	seven	seven.NUM				ABE	eng	herring16		
+1603	274	5	es	be.V.3S.PRES				ABE	spa	herring16		
+1604	274	6	past	past.ADJ				ABE	eng	herring16		
+1605	274	7	that	that.DEM.FAR				ABE	eng	herring16		
+1606	274	8	.					ABE	999	herring16		
+1607	275	1	so	so.ADV				ABE	eng	herring16		
+1608	275	2	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+1609	275	3	have	have.V.2SP.PRES				ABE	eng	herring16		
+1610	275	4	to	to.PREP				ABE	eng	herring16		
+1611	275	5	be	be.V.INFIN				ABE	eng	herring16		
+1612	275	6	above	above.PREP				ABE	eng	herring16		
+1613	275	7	that	that.CONJ.[or].that.DEM.FAR				ABE	eng	herring16		
+1614	275	8	to	to.PREP				ABE	eng	herring16		
+1615	275	9	be	be.V.INFIN				ABE	eng	herring16		
+1616	275	10	to	to.PREP				ABE	eng	herring16		
+1617	275	11	be	be.V.INFIN				ABE	eng	herring16		
+1618	275	12	going	go.V.PRESPART				ABE	eng	herring16		
+1619	275	13	to	to.PREP				ABE	eng	herring16		
+1620	275	14	the	the.DET.DEF				ABE	eng	herring16		
+1621	275	15	positive	positive.ADJ				ABE	eng	herring16		
+1622	275	16	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+1623	275	17	know	know.V.2SP.PRES				ABE	eng	herring16		
+1624	275	18	.					ABE	999	herring16		
+1625	276	1	mmhm	mmhm.IM				IAN	eng	herring16		
+1626	276	2	.					IAN	999	herring16		
+1627	277	1	so	so.ADV				ABE	eng	herring16		
+1628	277	2	like	like.CONJ.[or].like.SV.INFIN				ABE	eng	herring16		
+1629	277	3	negative	negative.ADJ				ABE	eng	herring16		
+1630	277	4	point	point.N.SG				ABE	eng	herring16		
+1631	277	5	seven	seven.NUM				ABE	eng	herring16		
+1632	277	6	or	or.CONJ				ABE	eng	herring16		
+1633	277	7	or	or.CONJ				ABE	eng	herring16		
+1634	277	8	zero	zero.NUM				ABE	eng	herring16		
+1635	277	9	or	or.CONJ				ABE	eng	herring16		
+1636	277	10	or	or.CONJ				ABE	eng	herring16		
+1637	277	11	one	one.PRON.SG				ABE	eng	herring16		
+1638	277	12	or	or.CONJ				ABE	eng	herring16		
+1639	277	13	two	two.NUM				ABE	eng	herring16		
+1640	277	14	or	or.CONJ				ABE	eng	herring16		
+1641	277	15	three	three.NUM				ABE	eng	herring16		
+1642	277	16	.					ABE	999	herring16		
+1643	278	1	and	and.CONJ				ABE	eng	herring16		
+1644	278	2	er	er.IM				ABE	eng&spa	herring16		
+1645	278	3	normal	normal.ADJ				ABE	eng	herring16		
+1646	278	4	is	is.V.3S.PRES				ABE	eng	herring16		
+1647	278	5	above	above.PREP				ABE	eng	herring16		
+1648	278	6	that	that.DEM.FAR				ABE	eng	herring16		
+1649	278	7	.					ABE	999	herring16		
+1650	279	1	osteopenia	unk				ABE	eng&spa	herring16		
+1651	279	2	qué	what.INT				ABE	spa	herring16		
+1652	279	3	es	be.V.3S.PRES				ABE	spa	herring16		
+1653	279	4	eso	that.PRON.DEM.NT.SG				ABE	spa	herring16		
+1654	279	5	osteopenia	unk				ABE	eng&spa	herring16		
+1655	279	6	?					ABE	999	herring16		
+1656	280	1	búscalo	seek.V.2S.IMPER.PRECLITIC+LO[PRON.M.3S]				ABE	spa	herring16		
+1657	280	2	en	in.PREP				ABE	spa	herring16		
+1658	280	3	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+1659	280	4	internet	internet.N.M.SG				ABE	spa	herring16		
+1660	280	5	.					ABE	999	herring16		
+1661	281	1	ok	unk				IAN	eng&spa	herring16		
+1662	281	2	.					IAN	999	herring16		
+1663	282	1	es	be.V.3S.PRES				ABE	spa	herring16		
+1664	282	2	between	between.PREP				ABE	eng	herring16		
+1665	282	3	one	one.PRON.SG				ABE	eng	herring16		
+1666	282	4	and	and.CONJ				ABE	eng	herring16		
+1667	282	5	two	two.NUM				ABE	eng	herring16		
+1668	282	6	point	point.N.SG				ABE	eng	herring16		
+1669	282	7	five	five.NUM				ABE	eng	herring16		
+1670	282	8	negative	negative.ADJ				ABE	eng	herring16		
+1671	282	9	negative	negative.ADJ				ABE	eng	herring16		
+1672	282	10	one	one.PRON.SG				ABE	eng	herring16		
+1673	282	11	and	and.CONJ				ABE	eng	herring16		
+1674	282	12	negative	negative.ADJ				ABE	eng	herring16		
+1675	282	13	two	two.NUM				ABE	eng	herring16		
+1676	282	14	point	point.N.SG				ABE	eng	herring16		
+1677	282	15	five	five.NUM				ABE	eng	herring16		
+1678	282	16	so	so.ADV				ABE	eng	herring16		
+1679	282	17	I	I.PRON.SUB.1S				ABE	eng	herring16		
+1680	282	18	have	have.V.1S.PRES				ABE	eng	herring16		
+1681	282	19	osteopenia	unk				ABE	eng&spa	herring16		
+1682	282	20	.					ABE	999	herring16		
+1683	283	1	and	and.CONJ				ABE	eng	herring16		
+1684	283	2	osteoporosis	osteoporosis.N.SG				ABE	eng&spa	herring16		
+1685	283	3	is	is.V.3S.PRES				ABE	eng	herring16		
+1686	283	4	below	below.PREP				ABE	eng	herring16		
+1687	283	5	negative	negative.ADJ				ABE	eng	herring16		
+1688	283	6	two	two.NUM				ABE	eng	herring16		
+1689	283	7	point	point.N.SG				ABE	eng	herring16		
+1690	283	8	five	five.NUM				ABE	eng	herring16		
+1691	283	9	so	so.ADV				ABE	eng	herring16		
+1692	283	10	I	I.PRON.SUB.1S				ABE	eng	herring16		
+1693	283	11	don't	do.V.1S.PRES+NEG				ABE	eng	herring16		
+1694	283	12	right	right.ADJ				ABE	eng	herring16		
+1695	283	13	now	now.ADV				ABE	eng	herring16		
+1696	283	14	my	my.ADJ.POSS.1S				ABE	eng	herring16		
+1697	283	15	body	body.N.SG				ABE	eng	herring16		
+1698	283	16	doesn't	does.N.SG+NEG				ABE	eng	herring16		
+1699	283	17	have	have.N.SG				ABE	eng	herring16		
+1700	283	18	osteoporosis	osteoporosis.N.SG				ABE	eng&spa	herring16		
+1701	283	19	.					ABE	999	herring16		
+1702	284	1	but	but.CONJ				ABE	eng	herring16		
+1703	284	2	it's	it.PRON.SUB.3S+BE.V.3S.PRES				ABE	eng	herring16		
+1704	284	3	still	still.ADJ				ABE	eng	herring16		
+1705	284	4	low	low.ADJ				ABE	eng	herring16		
+1706	284	5	.					ABE	999	herring16		
+1707	285	1	body	body.N.SG				ABE	eng	herring16		
+1708	285	2	mass	mass.N.SG				ABE	eng	herring16		
+1709	285	3	index	index.N.SG				ABE	eng	herring16		
+1710	285	4	.					ABE	999	herring16		
+1711	286	1	twenty	twenty.NUM				ABE	eng	herring16		
+1712	286	2	six	six.NUM				ABE	eng	herring16		
+1713	286	3	point	point.N.SG				ABE	eng	herring16		
+1714	286	4	eight	eight.NUM				ABE	eng	herring16		
+1715	286	5	.					ABE	999	herring16		
+1716	287	1	I'm	I.PRON.SUB.1S+BE.V.PRES				ABE	eng	herring16		
+1717	287	2	overweight	overweight.ADJ				ABE	eng	herring16		
+1718	287	3	.					ABE	999	herring16		
+1719	288	1	and	and.CONJ				ABE	eng	herring16		
+1720	288	2	my	my.ADJ.POSS.1S				ABE	eng	herring16		
+1721	288	3	waist	waist.N.SG				ABE	eng	herring16		
+1722	288	4	is	is.V.3S.PRES				ABE	eng	herring16		
+1723	288	5	fine	fine.N.SG				ABE	eng	herring16		
+1724	288	6	.					ABE	999	herring16		
+1725	289	1	.					IAN	999	herring16		
+1726	290	1	we	we.PRON.SUB.1P				IAN	eng	herring16		
+1727	290	2	need	need.V.1P.PRES				IAN	eng	herring16		
+1728	290	3	to	to.PREP				IAN	eng	herring16		
+1729	290	4	start	start.V.INFIN				IAN	eng	herring16		
+1730	290	5	working	work.V.PRESPART				IAN	eng	herring16		
+1731	290	6	out	out.ADV				IAN	eng	herring16		
+1732	290	7	.					IAN	999	herring16		
+1733	291	1	I	I.PRON.SUB.1S				IAN	eng	herring16		
+1734	291	2	I	I.PRON.SUB.1S				IAN	eng	herring16		
+1735	291	3	was	was.V.13S.PAST				IAN	eng	herring16		
+1736	291	4	talking	talk.V.PRESPART				IAN	eng	herring16		
+1737	291	5	to	to.PREP				IAN	eng	herring16		
+1738	291	6	Pam	name				IAN	eng&spa	herring16		
+1739	291	7	el	the.DET.DEF.M.SG				IAN	spa	herring16		
+1740	291	8	otro	other.ADJ.M.SG				IAN	spa	herring16		
+1741	291	9	día	day.N.M.SG				IAN	spa	herring16		
+1742	291	10	.					IAN	999	herring16		
+1743	292	1	mmhm	mmhm.IM				ABE	eng	herring16		
+1744	292	2	.					ABE	999	herring16		
+1745	293	1	and	and.CONJ				IAN	eng	herring16		
+1746	293	2	she	she.PRON.SUB.F.3S				IAN	eng	herring16		
+1747	293	3	is	is.V.3S.PRES				IAN	eng	herring16		
+1748	293	4	saying	say.V.PRESPART				IAN	eng	herring16		
+1749	293	5	that	that.CONJ				IAN	eng	herring16		
+1750	293	6	he	he.PRON.SUB.M.3S				IAN	eng	herring16		
+1751	293	7	is	is.V.3S.PRES				IAN	eng	herring16		
+1752	293	8	willing	will.V.123SP.FUT+ASV				IAN	eng	herring16		
+1753	293	9	to	to.PREP				IAN	eng	herring16		
+1754	293	10	come	come.V.INFIN				IAN	eng	herring16		
+1755	293	11	here	here.ADV				IAN	eng	herring16		
+1756	293	12	.					IAN	999	herring16		
+1757	294	1	and	and.CONJ				IAN	eng	herring16		
+1758	294	2	that	that.DEM.FAR				IAN	eng	herring16		
+1759	294	3	we	we.PRON.SUB.1P				IAN	eng	herring16		
+1760	294	4	can	can.V.123SP.PRES				IAN	eng	herring16		
+1761	294	5	jog	jog.V.INFIN				IAN	eng	herring16		
+1762	294	6	to	to.PREP				IAN	eng	herring16		
+1763	294	7	the	the.DET.DEF				IAN	eng	herring16		
+1764	294	8	house	house.N.SG				IAN	eng	herring16		
+1765	294	9	and	and.CONJ				IAN	eng	herring16		
+1766	294	10	beach	beach.N.SG				IAN	eng	herring16		
+1767	294	11	.					IAN	999	herring16		
+1768	295	1	pero	but.CONJ				ABE	spa	herring16		
+1769	295	2	why	why.REL				ABE	eng	herring16		
+1770	295	3	don't	do.V.12S13P.PRES+NEG				ABE	eng	herring16		
+1771	295	4	we	we.PRON.SUB.1P				ABE	eng	herring16		
+1772	295	5	all	all.ADJ				ABE	eng	herring16		
+1773	295	6	go	go.SV.INFIN				ABE	eng	herring16		
+1774	295	7	to	to.PREP				ABE	eng	herring16		
+1775	295	8	the	the.DET.DEF				ABE	eng	herring16		
+1776	295	9	gym	gym.N.SG				ABE	eng	herring16		
+1777	295	10	if	if.CONJ				ABE	eng	herring16		
+1778	295	11	he	he.PRON.SUB.M.3S				ABE	eng	herring16		
+1779	295	12	is	is.V.3S.PRES				ABE	eng	herring16		
+1780	295	13	willing	will.V.123SP.FUT+ASV				ABE	eng	herring16		
+1781	295	14	to	to.PREP				ABE	eng	herring16		
+1782	295	15	come	come.V.INFIN				ABE	eng	herring16		
+1783	295	16	here	here.ADV				ABE	eng	herring16		
+1784	295	17	?					ABE	999	herring16		
+1785	296	1	no	no.ADV				IAN	eng	herring16		
+1786	296	2	like	like.CONJ.[or].like.N.SG				IAN	eng	herring16		
+1787	296	3	jogging	unk				IAN	eng	herring16		
+1788	296	4	is	is.V.3S.PRES				IAN	eng	herring16		
+1789	296	5	the	the.DET.DEF				IAN	eng	herring16		
+1790	296	6	this	this.DEM.NEAR.SG				IAN	eng	herring16		
+1791	296	7	.					IAN	999	herring16		
+1792	297	1	but	but.CONJ				ABE	eng	herring16		
+1793	297	2	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+1794	297	3	know	know.V.2SP.PRES				ABE	eng	herring16		
+1795	297	4	what	what.REL				ABE	eng	herring16		
+1796	297	5	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+1797	297	6	guys	guy.N.PL				ABE	eng	herring16		
+1798	297	7	can	can.V.123SP.PRES				ABE	eng	herring16		
+1799	297	8	jog	jog.V.INFIN				ABE	eng	herring16		
+1800	297	9	in	in.PREP				ABE	eng	herring16		
+1801	297	10	to	to.PREP				ABE	eng	herring16		
+1802	297	11	lose	lose.V.INFIN				ABE	eng	herring16		
+1803	297	12	the	the.DET.DEF				ABE	eng	herring16		
+1804	297	13	weight	weight.N.SG				ABE	eng	herring16		
+1805	297	14	blah	blah.N.SG				ABE	eng&spa	herring16		
+1806	297	15	blah	blah.N.SG				ABE	eng&spa	herring16		
+1807	297	16	blah	blah.N.SG				ABE	eng&spa	herring16		
+1808	297	17	.					ABE	999	herring16		
+1809	298	1	but	but.CONJ				ABE	eng	herring16		
+1810	298	2	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+1811	298	3	have	have.V.2SP.PRES				ABE	eng	herring16		
+1812	298	4	no	no.ADV				ABE	eng	herring16		
+1813	298	5	arms	arm.N.PL.[or].arms.N.PL				ABE	eng	herring16		
+1814	298	6	.					ABE	999	herring16		
+1815	299	1	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+1816	299	2	need	need.V.2SP.PRES				ABE	eng	herring16		
+1817	299	3	to	to.PREP				ABE	eng	herring16		
+1818	299	4	do	do.V.INFIN				ABE	eng	herring16		
+1819	299	5	arms	arm.N.PL.[or].arms.N.PL				ABE	eng	herring16		
+1820	299	6	.					ABE	999	herring16		
+1821	300	1	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+1822	300	2	need	need.V.2SP.PRES				ABE	eng	herring16		
+1823	300	3	to	to.PREP				ABE	eng	herring16		
+1824	300	4	lift	lift.V.INFIN				ABE	eng	herring16		
+1825	300	5	weighs	weigh.V.INFIN+PV				ABE	eng	herring16		
+1826	300	6	to	to.PREP				ABE	eng	herring16		
+1827	300	7	get	get.V.INFIN				ABE	eng	herring16		
+1828	300	8	arm	arm.N.SG				ABE	eng	herring16		
+1829	300	9	.					ABE	999	herring16		
+1830	301	1	mmhm	mmhm.IM				IAN	eng	herring16		
+1831	301	2	.					IAN	999	herring16		
+1832	302	1	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+1833	302	2	know	know.V.2SP.PRES				ABE	eng	herring16		
+1834	302	3	your	your.ADJ.POSS.2SP				ABE	eng	herring16		
+1835	302	4	body	body.N.SG				ABE	eng	herring16		
+1836	302	5	.					ABE	999	herring16		
+1837	303	1	and	and.CONJ				ABE	eng	herring16		
+1838	303	2	and	and.CONJ				ABE	eng	herring16		
+1839	303	3	I	I.PRON.SUB.1S				ABE	eng	herring16		
+1840	303	4	have	have.V.1S.PRES				ABE	eng	herring16		
+1841	303	5	to	to.PREP				ABE	eng	herring16		
+1842	303	6	do	do.V.INFIN				ABE	eng	herring16		
+1843	303	7	sit_ups	unk				ABE	eng	herring16		
+1844	303	8	because	because.CONJ				ABE	eng	herring16		
+1845	303	9	my	my.ADJ.POSS.1S				ABE	eng	herring16		
+1846	303	10	I	I.PRON.SUB.1S				ABE	eng	herring16		
+1847	303	11	I	I.PRON.SUB.1S				ABE	eng	herring16		
+1848	303	12	don't	do.V.1S.PRES+NEG				ABE	eng	herring16		
+1849	303	13	have	have.V.INFIN				ABE	eng	herring16		
+1850	303	14	to	to.PREP				ABE	eng	herring16		
+1851	303	15	lose	lose.V.INFIN				ABE	eng	herring16		
+1852	303	16	weight	weight.N.SG				ABE	eng	herring16		
+1853	303	17	in	in.PREP				ABE	eng	herring16		
+1854	303	18	my	my.ADJ.POSS.1S				ABE	eng	herring16		
+1855	303	19	whole	whole.ADJ				ABE	eng	herring16		
+1856	303	20	body	body.N.SG				ABE	eng	herring16		
+1857	303	21	.					ABE	999	herring16		
+1858	304	1	I	I.PRON.SUB.1S				ABE	eng	herring16		
+1859	304	2	have	have.V.1S.PRES				ABE	eng	herring16		
+1860	304	3	to	to.PREP				ABE	eng	herring16		
+1861	304	4	lose	lose.V.INFIN				ABE	eng	herring16		
+1862	304	5	weight	weight.N.SG				ABE	eng	herring16		
+1863	304	6	in	in.PREP				ABE	eng	herring16		
+1864	304	7	my	my.ADJ.POSS.1S				ABE	eng	herring16		
+1865	304	8	stomach	stomach.N.SG				ABE	eng	herring16		
+1866	304	9	.					ABE	999	herring16		
+1867	305	1	maybe	maybe.ADV				IAN	eng	herring16		
+1868	305	2	we	we.PRON.SUB.1P				IAN	eng	herring16		
+1869	305	3	can	can.V.123SP.PRES				IAN	eng	herring16		
+1870	305	4	do	do.V.INFIN				IAN	eng	herring16		
+1871	305	5	both	both.ADJ				IAN	eng	herring16		
+1872	305	6	things	thing.N.PL				IAN	eng	herring16		
+1873	305	7	.					IAN	999	herring16		
+1874	306	1	no	no.ADV				ABE	eng	herring16		
+1875	306	2	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+1876	306	3	guys	guy.N.PL				ABE	eng	herring16		
+1877	306	4	concentrate	concentrate.V.3P.PRES				ABE	eng	herring16		
+1878	306	5	on	on.PREP				ABE	eng	herring16		
+1879	306	6	one	one.PRON.SG				ABE	eng	herring16		
+1880	306	7	thing	thing.N.SG				ABE	eng	herring16		
+1881	306	8	.					ABE	999	herring16		
+1882	307	1	that's	that.DEM.FAR+BE.V.3S.PRES				ABE	eng	herring16		
+1883	307	2	why	why.REL				ABE	eng	herring16		
+1884	307	3	your	your.ADJ.POSS.2SP				ABE	eng	herring16		
+1885	307	4	legs	leg.N.PL				ABE	eng	herring16		
+1886	307	5	are	are.V.123P.PRES				ABE	eng	herring16		
+1887	307	6	so	so.ADV				ABE	eng	herring16		
+1888	307	7	strong	strong.ADJ				ABE	eng	herring16		
+1889	307	8	because	because.CONJ				ABE	eng	herring16		
+1890	307	9	that's	that.DEM.FAR+BE.V.3S.PRES				ABE	eng	herring16		
+1891	307	10	the	the.DET.DEF				ABE	eng	herring16		
+1892	307	11	only	only.ADJ.[or].on.PREP+ADV				ABE	eng	herring16		
+1893	307	12	thing	thing.N.SG				ABE	eng	herring16		
+1894	307	13	that	that.CONJ				ABE	eng	herring16		
+1895	307	14	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+1896	307	15	are	are.V.2SP.PRES				ABE	eng	herring16		
+1897	307	16	exercising	exercise.V.PRESPART				ABE	eng	herring16		
+1898	307	17	.					ABE	999	herring16		
+1899	308	1	vale	cost.V.2S.IMPER				IAN	spa	herring16		
+1900	308	2	.					IAN	999	herring16		
+1901	309	1	see	see.V.INFIN				ABE	eng	herring16		
+1902	309	2	like	like.CONJ				ABE	eng	herring16		
+1903	309	3	how	how.ADV				ABE	eng	herring16		
+1904	309	4	nice	nice.ADJ				ABE	eng	herring16		
+1905	309	5	would	be.V.123SP.COND				ABE	eng	herring16		
+1906	309	6	be	be.SV.INFIN				ABE	eng	herring16		
+1907	309	7	if	if.CONJ				ABE	eng	herring16		
+1908	309	8	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+1909	309	9	had	had.V.PAST				ABE	eng	herring16		
+1910	309	10	your	your.ADJ.POSS.2SP				ABE	eng	herring16		
+1911	309	11	brother's	brother.N.SG+=POSS				ABE	eng	herring16		
+1912	309	12	arms	arm.N.PL.[or].arms.N.PL				ABE	eng	herring16		
+1913	309	13	?					ABE	999	herring16		
+1914	310	1	te	you.PRON.OBL.MF.2S				IAN	spa	herring16		
+1915	310	2	gustaban	like.V.3P.IMPERF				IAN	spa	herring16		
+1916	310	3	los	the.DET.DEF.M.PL				IAN	spa	herring16		
+1917	310	4	de	of.PREP				IAN	spa	herring16		
+1918	310	5	.					IAN	999	herring16		
+1919	311	1	ah	ah.IM				ABE	eng&spa	herring16		
+1920	311	2	?					ABE	999	herring16		
+1921	312	1	porque	because.CONJ				IAN	spa	herring16		
+1922	312	2	te	you.PRON.OBL.MF.2S				IAN	spa	herring16		
+1923	312	3	gustaban	like.V.3P.IMPERF				IAN	spa	herring16		
+1924	312	4	los	the.DET.DEF.M.PL				IAN	spa	herring16		
+1925	312	5	.					IAN	999	herring16		
+1926	313	1	ah	ah.IM				ABE	eng&spa	herring16		
+1927	313	2	pues	then.CONJ				ABE	spa	herring16		
+1928	313	3	hello	hello.N.SG				ABE	eng	herring16		
+1929	313	4	.					ABE	999	herring16		
+1930	314	1	.					IAN	999	herring16		
+1931	315	1	hi	hi.V.INFIN				ABE	eng	herring16		
+1932	315	2	brother	brother.N.SG				ABE	eng	herring16		
+1933	315	3	.					ABE	999	herring16		
+1934	316	1	.					IAN	999	herring16		
+1935	317	1	.					ABE	999	herring16		
+1936	318	1	I	I.PRON.SUB.1S				ABE	eng	herring16		
+1937	318	2	think	think.V.1S.PRES				ABE	eng	herring16		
+1938	318	3	we	we.PRON.SUB.1P				ABE	eng	herring16		
+1939	318	4	should	should.V.1P.PRES				ABE	eng	herring16		
+1940	318	5	do	do.SV.INFIN				ABE	eng	herring16		
+1941	318	6	gym	gym.N.SG				ABE	eng	herring16		
+1942	318	7	three	three.NUM				ABE	eng	herring16		
+1943	318	8	times	time.N.PL				ABE	eng	herring16		
+1944	318	9	a	a.DET.INDEF				ABE	eng	herring16		
+1945	318	10	week	week.N.SG				ABE	eng	herring16		
+1946	318	11	and	and.CONJ				ABE	eng	herring16		
+1947	318	12	run	run.V.INFIN				ABE	eng	herring16		
+1948	318	13	two	two.NUM				ABE	eng	herring16		
+1949	318	14	times	time.N.PL				ABE	eng	herring16		
+1950	318	15	a	a.DET.INDEF				ABE	eng	herring16		
+1951	318	16	week	week.N.SG				ABE	eng	herring16		
+1952	318	17	.					ABE	999	herring16		
+1953	319	1	I	I.PRON.SUB.1S				IAN	eng	herring16		
+1954	319	2	don't	do.V.1S.PRES+NEG				IAN	eng	herring16		
+1955	319	3	wanna	want.V.INFIN+TO.PREP				IAN	eng	herring16		
+1956	319	4	run	run.V.INFIN				IAN	eng	herring16		
+1957	319	5	with	with.PREP				IAN	eng	herring16		
+1958	319	6	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+1959	319	7	.					IAN	999	herring16		
+1960	320	1	hmm	hmm.IM				ABE	eng&spa	herring16		
+1961	320	2	?					ABE	999	herring16		
+1962	321	1	I	I.PRON.SUB.1S				IAN	eng	herring16		
+1963	321	2	don't	do.V.1S.PRES+NEG				IAN	eng	herring16		
+1964	321	3	wanna	want.V.INFIN+TO.PREP				IAN	eng	herring16		
+1965	321	4	run	run.V.INFIN				IAN	eng	herring16		
+1966	321	5	with	with.PREP				IAN	eng	herring16		
+1967	321	6	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+1968	321	7	I'll	I.PRON.SUB.1S+BE.V.FUT				IAN	eng	herring16		
+1969	321	8	go	go.V.INFIN				IAN	eng	herring16		
+1970	321	9	gym	gym.N.SG				IAN	eng	herring16		
+1971	321	10	though	though.CONJ				IAN	eng	herring16		
+1972	321	11	.					IAN	999	herring16		
+1973	322	1	why	why.REL				ABE	eng	herring16		
+1974	322	2	don't	do.V.12S13P.PRES+NEG				ABE	eng	herring16		
+1975	322	3	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+1976	322	4	wanna	want.V.2SP.PRES+TO.PREP				ABE	eng	herring16		
+1977	322	5	run	run.V.INFIN				ABE	eng	herring16		
+1978	322	6	with	with.PREP				ABE	eng	herring16		
+1979	322	7	me	me.PRON.OBJ.1S				ABE	eng	herring16		
+1980	322	8	?					ABE	999	herring16		
+1981	323	1	I	I.PRON.SUB.1S				IAN	eng	herring16		
+1982	323	2	don't	do.V.1S.PRES+NEG				IAN	eng	herring16		
+1983	323	3	know	know.V.INFIN				IAN	eng	herring16		
+1984	323	4	.					IAN	999	herring16		
+1985	324	1	let's	let.V.IMPER+US.PRON.SUB.1P				IAN	eng	herring16		
+1986	324	2	see	see.SV.INFIN				IAN	eng	herring16		
+1987	324	3	.					IAN	999	herring16		
+1988	325	1	thank	thank.V.INFIN				ABE	eng	herring16		
+1989	325	2	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+1990	325	3	.					ABE	999	herring16		
+1991	326	1	because	because.CONJ				ABE	eng	herring16		
+1992	326	2	I'm	I.PRON.SUB.1S+BE.V.PRES				ABE	eng	herring16		
+1993	326	3	handicapped	handicap.N.SG+AV				ABE	eng	herring16		
+1994	326	4	.					ABE	999	herring16		
+1995	327	1	let's	let.V.IMPER+US.PRON.SUB.1P				IAN	eng	herring16		
+1996	327	2	see	see.SV.INFIN				IAN	eng	herring16		
+1997	327	3	.					IAN	999	herring16		
+1998	328	1	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+1999	328	2	can	can.V.2SP.PRES				ABE	eng	herring16		
+2000	328	3	go	go.V.INFIN				ABE	eng	herring16		
+2001	328	4	run	run.SV.INFIN				ABE	eng	herring16		
+2002	328	5	with	with.PREP				ABE	eng	herring16		
+2003	328	6	Sian	name				ABE	eng&spa	herring16		
+2004	328	7	.					ABE	999	herring16		
+2005	329	1	and	and.CONJ				ABE	eng	herring16		
+2006	329	2	go	go.V.INFIN				ABE	eng	herring16		
+2007	329	3	to	to.PREP				ABE	eng	herring16		
+2008	329	4	the	the.DET.DEF				ABE	eng	herring16		
+2009	329	5	gym	gym.N.SG				ABE	eng	herring16		
+2010	329	6	with	with.PREP				ABE	eng	herring16		
+2011	329	7	Sian	name				ABE	eng&spa	herring16		
+2012	329	8	.					ABE	999	herring16		
+2013	330	1	I'll	I.PRON.SUB.1S+BE.V.FUT				ABE	eng	herring16		
+2014	330	2	go	go.V.INFIN				ABE	eng	herring16		
+2015	330	3	to	to.PREP				ABE	eng	herring16		
+2016	330	4	the	the.DET.DEF				ABE	eng	herring16		
+2017	330	5	gym	gym.N.SG				ABE	eng	herring16		
+2018	330	6	by	by.PREP				ABE	eng	herring16		
+2019	330	7	myself	myself.PRON.REFL.1S				ABE	eng	herring16		
+2020	330	8	.					ABE	999	herring16		
+2021	331	1	or	or.CONJ				IAN	eng	herring16		
+2022	331	2	we	we.PRON.SUB.1P				IAN	eng	herring16		
+2023	331	3	can	can.V.123SP.PRES				IAN	eng	herring16		
+2024	331	4	go	go.V.INFIN				IAN	eng	herring16		
+2025	331	5	to	to.PREP				IAN	eng	herring16		
+2026	331	6	the	the.DET.DEF				IAN	eng	herring16		
+2027	331	7	gym	gym.N.SG				IAN	eng	herring16		
+2028	331	8	together	together.ADV				IAN	eng	herring16		
+2029	331	9	.					IAN	999	herring16		
+2030	332	1	no	no.ADV				ABE	eng	herring16		
+2031	332	2	thank	thank.N.SG				ABE	eng	herring16		
+2032	332	3	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+2033	332	4	.					ABE	999	herring16		
+2034	333	1	oyes	hear.V.2S.PRES				IAN	spa	herring16		
+2035	333	2	qué	what.INT				IAN	spa	herring16		
+2036	333	3	decía	tell.V.13S.IMPERF				IAN	spa	herring16		
+2037	333	4	antes	before.ADV				IAN	spa	herring16		
+2038	333	5	de	of.PREP				IAN	spa	herring16		
+2039	333	6	que	that.CONJ				IAN	spa	herring16		
+2040	333	7	.					IAN	999	herring16		
+2041	334	1	no	not.ADV				ABE	spa	herring16		
+2042	334	2	.					ABE	999	herring16		
+2043	335	1	tenemos	have.V.1P.PRES				IAN	spa	herring16		
+2044	335	2	que	that.CONJ				IAN	spa	herring16		
+2045	335	3	hablar	talk.V.INFIN				IAN	spa	herring16		
+2046	335	4	.					IAN	999	herring16		
+2047	336	1	.					IAN	999	herring16		
+2048	337	1	qué	what.INT				ABE	spa	herring16		
+2049	337	2	hay	there_is.V.3S.PRES				ABE	spa	herring16		
+2050	337	3	en	in.PREP				ABE	spa	herring16		
+2051	337	4	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+2052	337	5	cine	cinema.N.M.SG				ABE	spa	herring16		
+2053	337	6	en	in.PREP				ABE	spa	herring16		
+2054	337	7	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+2055	337	8	A_M_C	name				ABE	eng&spa	herring16		
+2056	337	9	?					ABE	999	herring16		
+2057	338	1	.					IAN	999	herring16		
+2058	339	1	tienes	have.V.2S.PRES				IAN	spa	herring16		
+2059	339	2	la	the.DET.DEF.F.SG				IAN	spa	herring16		
+2060	339	3	película	movie.N.F.SG				IAN	spa	herring16		
+2061	339	4	de	of.PREP				IAN	spa	herring16		
+2062	339	5	que	that.CONJ				IAN	spa	herring16		
+2063	339	6	er	er.IM				IAN	eng&spa	herring16		
+2064	339	7	tienen	have.V.3P.PRES				IAN	spa	herring16		
+2065	339	8	ahora	now.ADV				IAN	spa	herring16		
+2066	339	9	en	in.PREP				IAN	spa	herring16		
+2067	339	10	español	Spanish.N.M.SG				IAN	spa	herring16		
+2068	339	11	también	too.ADV				IAN	spa	herring16		
+2069	339	12	.					IAN	999	herring16		
+2070	340	1	no	no.ADV				ABE	eng&spa	herring16		
+2071	340	2	.					ABE	999	herring16		
+2072	341	1	.					ABE	999	herring16		
+2073	342	1	y	and.CONJ				ABE	spa	herring16		
+2074	342	2	qué	how.ADV				ABE	spa	herring16		
+2075	342	3	otra	other.ADJ.F.SG				ABE	spa	herring16		
+2076	342	4	película	movie.N.F.SG				ABE	spa	herring16		
+2077	342	5	tienen	have.V.3P.PRES				ABE	spa	herring16		
+2078	342	6	?					ABE	999	herring16		
+2079	343	1	hmm	hmm.IM				IAN	eng&spa	herring16		
+2080	343	2	.					IAN	999	herring16		
+2081	344	1	a	to.PREP				IAN	spa	herring16		
+2082	344	2	ver	see.V.INFIN				IAN	spa	herring16		
+2083	344	3	.					IAN	999	herring16		
+2084	345	1	por	for.PREP				ABE	spa	herring16		
+2085	345	2	qué	what.INT				ABE	spa	herring16		
+2086	345	3	no	not.ADV				ABE	spa	herring16		
+2087	345	4	vamos	go.V.1P.PRES				ABE	spa	herring16		
+2088	345	5	al	to_the.PREP+DET.DEF.M.SG				ABE	spa	herring16		
+2089	345	6	cine	cinema.N.M.SG				ABE	spa	herring16		
+2090	345	7	mañana	tomorrow.ADV				ABE	spa	herring16		
+2091	345	8	mejor	good.ADJ.M.SG				ABE	spa	herring16		
+2092	345	9	?					ABE	999	herring16		
+2093	346	1	después	afterwards.ADV				IAN	spa	herring16		
+2094	346	2	quedan	stay.V.3P.PRES				IAN	spa	herring16		
+2095	346	3	no	not.ADV				IAN	spa	herring16		
+2096	346	4	sé	know.V.1S.PRES				IAN	spa	herring16		
+2097	346	5	o	or.CONJ				IAN	spa	herring16		
+2098	346	6	Sun_Set_Plaza	name				IAN	eng&spa	herring16		
+2099	346	7	.					IAN	999	herring16		
+2100	347	1	.					ABE	999	herring16		
+2101	348	1	a	to.PREP				IAN	spa	herring16		
+2102	348	2	ver	see.V.INFIN				IAN	spa	herring16		
+2103	348	3	.					IAN	999	herring16		
+2104	349	1	no	no.ADV				ABE	eng	herring16		
+2105	349	2	either	either.ADJ				ABE	eng	herring16		
+2106	349	3	one	one.PRON.SG				ABE	eng	herring16		
+2107	349	4	.					ABE	999	herring16		
+2108	350	1	I	I.PRON.SUB.1S				ABE	eng	herring16		
+2109	350	2	think	think.V.1S.PRES				ABE	eng	herring16		
+2110	350	3	Sun_Set	name				ABE	eng&spa	herring16		
+2111	350	4	place	place.N.SG				ABE	eng	herring16		
+2112	350	5	would	be.V.123SP.COND				ABE	eng	herring16		
+2113	350	6	be	be.SV.INFIN				ABE	eng	herring16		
+2114	350	7	easier	easier.ADJ.[or].easy.ADJ.COMP				ABE	eng	herring16		
+2115	350	8	to	to.PREP				ABE	eng	herring16		
+2116	350	9	find	find.V.INFIN				ABE	eng	herring16		
+2117	350	10	parking	park.N.SG+ASV				ABE	eng	herring16		
+2118	350	11	.					ABE	999	herring16		
+2119	351	1	it	it.PRON.SUB.3S				ABE	eng	herring16		
+2120	351	2	would	be.V.3S.COND				ABE	eng	herring16		
+2121	351	3	be	be.SV.INFIN				ABE	eng	herring16		
+2122	351	4	cheaper	cheap.ADJ.COMP				ABE	eng	herring16		
+2123	351	5	too	too.ADV				ABE	eng	herring16		
+2124	351	6	.					ABE	999	herring16		
+2125	352	1	.					IAN	999	herring16		
+2126	353	1	tiene	have.V.3S.PRES				IAN	spa	herring16		
+2127	353	2	Ten_Thousand_B_C	name				IAN	eng	herring16		
+2128	353	3	.					IAN	999	herring16		
+2129	354	1	Twenty_One	name				IAN	eng	herring16		
+2130	354	2	College_Road_Trip	name				IAN	eng	herring16		
+2131	354	3	.					IAN	999	herring16		
+2132	355	1	.					ABE	999	herring16		
+2133	356	1	Leatherheads	name				IAN	eng	herring16		
+2134	356	2	.					IAN	999	herring16		
+2135	357	1	Love_Sickness	name				IAN	eng	herring16		
+2136	357	2	esa	that.ADJ.DEM.F.SG				IAN	spa	herring16		
+2137	357	3	película	movie.N.F.SG				IAN	spa	herring16		
+2138	357	4	mal	poorly.N.M.SG				IAN	spa	herring16		
+2139	357	5	de	of.PREP				IAN	spa	herring16		
+2140	357	6	amores	love.N.M.PL				IAN	spa	herring16		
+2141	357	7	la	the.DET.DEF.F.SG				IAN	spa	herring16		
+2142	357	8	puertorriqueña	Puerto_Rican.N,.ADJ.F.SG				IAN	spa	herring16		
+2143	357	9	.					IAN	999	herring16		
+2144	358	1	that	that.CONJ.[or].that.DEM.FAR				IAN	eng	herring16		
+2145	358	2	looks	look.V.3S.PRES				IAN	eng	herring16		
+2146	358	3	interesting	interest.N.SG+ASV				IAN	eng	herring16		
+2147	358	4	.					IAN	999	herring16		
+2148	359	1	hmm	hmm.IM				IAN	eng&spa	herring16		
+2149	359	2	.					IAN	999	herring16		
+2150	360	1	Prom_Night	name				IAN	eng	herring16		
+2151	360	2	The_Ruins	name				IAN	eng	herring16		
+2152	360	3	.					IAN	999	herring16		
+2153	361	1	lo	him.PRON.OBJ.M.3S				ABE	spa	herring16		
+2154	361	2	has	have.V.2S.PRES				ABE	spa	herring16		
+2155	361	3	.					ABE	999	herring16		
+2156	362	1	Smart_People	name				IAN	eng	herring16		
+2157	362	2	oh	oh.IM				IAN	eng&spa	herring16		
+2158	362	3	Smart_People	name				IAN	eng	herring16		
+2159	362	4	looks	look.SV.INFIN+PV				IAN	eng	herring16		
+2160	362	5	good	good.ADJ				IAN	eng	herring16		
+2161	362	6	actually	actual.ADJ+ADV				IAN	eng	herring16		
+2162	362	7	.					IAN	999	herring16		
+2163	363	1	what	what.REL				ABE	eng	herring16		
+2164	363	2	?					ABE	999	herring16		
+2165	364	1	Smart_People	name				IAN	eng	herring16		
+2166	364	2	.					IAN	999	herring16		
+2167	365	1	.					ABE	999	herring16		
+2168	366	1	that	that.CONJ				IAN	eng	herring16		
+2169	366	2	has	ha.IM+V 3S PRES.[or].has.V.3S.PRES				IAN	eng	herring16		
+2170	366	3	er	er.IM				IAN	eng&spa	herring16		
+2171	366	4	Sarah_Jessica_Parker	name				IAN	eng&spa	herring16		
+2172	366	5	the	the.DET.DEF				IAN	eng	herring16		
+2173	366	6	girl	girl.N.SG				IAN	eng	herring16		
+2174	366	7	from	from.PREP				IAN	eng	herring16		
+2175	366	8	Juno	name				IAN	eng&spa	herring16		
+2176	366	9	.					IAN	999	herring16		
+2177	367	1	that	that.CONJ.[or].that.DEM.FAR				ABE	eng	herring16		
+2178	367	2	one	one.PRON.SG				ABE	eng	herring16		
+2179	367	3	?					ABE	999	herring16		
+2180	368	1	mmhm	mmhm.IM				IAN	eng	herring16		
+2181	368	2	.					IAN	999	herring16		
+2182	369	1	Sarah_Jessica_Parker	name				ABE	eng&spa	herring16		
+2183	369	2	and	and.CONJ				ABE	eng	herring16		
+2184	369	3	the	the.DET.DEF				ABE	eng	herring16		
+2185	369	4	girl	girl.N.SG				ABE	eng	herring16		
+2186	369	5	from	from.PREP				ABE	eng	herring16		
+2187	369	6	Juno	name				ABE	eng&spa	herring16		
+2188	369	7	in	in.PREP				ABE	eng	herring16		
+2189	369	8	what	what.REL				ABE	eng	herring16		
+2190	369	9	movie	movie.N.SG				ABE	eng	herring16		
+2191	369	10	?					ABE	999	herring16		
+2192	370	1	it's	it.PRON.SUB.3S+BE.V.3S.PRES				IAN	eng	herring16		
+2193	370	2	called	call.V.PASTPART				IAN	eng	herring16		
+2194	370	3	Smart_People	name				IAN	eng	herring16		
+2195	370	4	.					IAN	999	herring16		
+2196	371	1	ok	unk				ABE	eng	herring16		
+2197	371	2	we	we.PRON.SUB.1P				ABE	eng	herring16		
+2198	371	3	wanna	want.V.1P.PRES+TO.PREP				ABE	eng	herring16		
+2199	371	4	watch	watch.V.INFIN				ABE	eng	herring16		
+2200	371	5	that	that.CONJ.[or].that.DEM.FAR				ABE	eng	herring16		
+2201	371	6	one	one.PRON.SG				ABE	eng	herring16		
+2202	371	7	.					ABE	999	herring16		
+2203	372	1	and	and.CONJ				IAN	eng	herring16		
+2204	372	2	they	they.PRON.SUB.3P				IAN	eng	herring16		
+2205	372	3	have	have.V.3P.PRES				IAN	eng	herring16		
+2206	372	4	a	a.DET.INDEF				IAN	eng	herring16		
+2207	372	5	showing	show.N.SG.GER				IAN	eng	herring16		
+2208	372	6	actually	actual.ADJ+ADV				IAN	eng	herring16		
+2209	372	7	at	at.PREP				IAN	eng	herring16		
+2210	372	8	twelve	twelve.NUM				IAN	eng	herring16		
+2211	372	9	thirty	thirty.NUM				IAN	eng	herring16		
+2212	372	10	twelve	twelve.NUM				IAN	eng	herring16		
+2213	372	11	twenty	twenty.NUM				IAN	eng	herring16		
+2214	372	12	.					IAN	999	herring16		
+2215	373	1	and	and.CONJ				IAN	eng	herring16		
+2216	373	2	one	one.PRON.SG				IAN	eng	herring16		
+2217	373	3	at	at.PREP				IAN	eng	herring16		
+2218	373	4	two	two.NUM				IAN	eng	herring16		
+2219	373	5	thirty	thirty.NUM				IAN	eng	herring16		
+2220	373	6	five	five.NUM				IAN	eng	herring16		
+2221	373	7	.					IAN	999	herring16		
+2222	374	1	we	we.PRON.SUB.1P				IAN	eng	herring16		
+2223	374	2	can	can.V.123SP.PRES				IAN	eng	herring16		
+2224	374	3	watch	watch.V.INFIN				IAN	eng	herring16		
+2225	374	4	that	that.CONJ.[or].that.DEM.FAR				IAN	eng	herring16		
+2226	374	5	one	one.PRON.SG				IAN	eng	herring16		
+2227	374	6	.					IAN	999	herring16		
+2228	375	1	and	and.CONJ				IAN	eng	herring16		
+2229	375	2	then	then.ADV				IAN	eng	herring16		
+2230	375	3	we	we.PRON.SUB.1P				IAN	eng	herring16		
+2231	375	4	can	can.V.123SP.PRES				IAN	eng	herring16		
+2232	375	5	just	just.ADV				IAN	eng	herring16		
+2233	375	6	come	come.V.INFIN				IAN	eng	herring16		
+2234	375	7	over	over.ADV				IAN	eng	herring16		
+2235	375	8	here	here.ADV				IAN	eng	herring16		
+2236	375	9	.					IAN	999	herring16		
+2237	376	1	and	and.CONJ				IAN	eng	herring16		
+2238	376	2	go	go.V.INFIN				IAN	eng	herring16		
+2239	376	3	to	to.PREP				IAN	eng	herring16		
+2240	376	4	the	the.DET.DEF				IAN	eng	herring16		
+2241	376	5	carnival	carnival.N.SG				IAN	eng	herring16		
+2242	376	6	center	cent.N.SG+COMP.AG.[or].center.N.SG				IAN	eng	herring16		
+2243	376	7	.					IAN	999	herring16		
+2244	377	1	the	the.DET.DEF				ABE	eng	herring16		
+2245	377	2	two	two.NUM				ABE	eng	herring16		
+2246	377	3	thirty	thirty.NUM				ABE	eng	herring16		
+2247	377	4	?					ABE	999	herring16		
+2248	378	1	mmhm	mmhm.IM				IAN	eng	herring16		
+2249	378	2	.					IAN	999	herring16		
+2250	379	1	come	come.V.INFIN				ABE	eng	herring16		
+2251	379	2	back	back.ADV				ABE	eng	herring16		
+2252	379	3	.					ABE	999	herring16		
+2253	380	1	bueno	well.E				ABE	spa	herring16		
+2254	380	2	ya	already.ADV				ABE	spa	herring16		
+2255	380	3	.					ABE	999	herring16		
+2256	381	1	es	be.V.3S.PRES				IAN	spa	herring16		
+2257	381	2	que	that.CONJ				IAN	spa	herring16		
+2258	381	3	eso	that.PRON.DEM.NT.SG				IAN	spa	herring16		
+2259	381	4	will	will.V.123SP.FUT				IAN	eng	herring16		
+2260	381	5	be	be.SV.INFIN				IAN	eng	herring16		
+2261	381	6	over	over.ADV.[or].over.PREP				IAN	eng	herring16		
+2262	381	7	by	by.PREP				IAN	eng	herring16		
+2263	381	8	three	three.NUM				IAN	eng	herring16		
+2264	381	9	four	four.NUM				IAN	eng	herring16		
+2265	381	10	.					IAN	999	herring16		
+2266	382	1	it	it.PRON.SUB.3S				IAN	eng	herring16		
+2267	382	2	will	will.V.3S.FUT				IAN	eng	herring16		
+2268	382	3	be	be.SV.INFIN				IAN	eng	herring16		
+2269	382	4	over	over.ADV.[or].over.PREP				IAN	eng	herring16		
+2270	382	5	by	by.PREP				IAN	eng	herring16		
+2271	382	6	four	four.NUM				IAN	eng	herring16		
+2272	382	7	.					IAN	999	herring16		
+2273	383	1	oh	oh.IM				IAN	eng&spa	herring16		
+2274	383	2	at	at.PREP				IAN	eng	herring16		
+2275	383	3	three	three.NUM				IAN	eng	herring16		
+2276	383	4	.					IAN	999	herring16		
+2277	384	1	fine	fine.N.SG				ABE	eng	herring16		
+2278	384	2	three	three.NUM				ABE	eng	herring16		
+2279	384	3	and	and.CONJ				ABE	eng	herring16		
+2280	384	4	three	three.NUM				ABE	eng	herring16		
+2281	384	5	to	to.PREP				ABE	eng	herring16		
+2282	384	6	five	five.NUM				ABE	eng	herring16		
+2283	384	7	.					ABE	999	herring16		
+2284	385	1	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+2285	385	2	wanna	want.V.2SP.PRES+TO.PREP				ABE	eng	herring16		
+2286	385	3	go	go.V.INFIN				ABE	eng	herring16		
+2287	385	4	to	to.PREP				ABE	eng	herring16		
+2288	385	5	Two_Twenty_One	name				ABE	eng	herring16		
+2289	385	6	?					ABE	999	herring16		
+2290	386	1	we	we.PRON.SUB.1P				IAN	eng	herring16		
+2291	386	2	could	can.V.COND				IAN	eng	herring16		
+2292	386	3	.					IAN	999	herring16		
+2293	387	1	it's	it.PRON.SUB.3S+BE.V.3S.PRES				IAN	eng	herring16		
+2294	387	2	gonna	go.V.PRESPART+TO.PREP				IAN	eng	herring16		
+2295	387	3	make	make.V.INFIN				IAN	eng	herring16		
+2296	387	4	for	for.PREP				IAN	eng	herring16		
+2297	387	5	a	a.DET.INDEF				IAN	eng	herring16		
+2298	387	6	long	long.ADJ				IAN	eng	herring16		
+2299	387	7	day	day.N.SG				IAN	eng	herring16		
+2300	387	8	there	there.ADV				IAN	eng	herring16		
+2301	387	9	no	no.ADV				IAN	eng	herring16		
+2302	387	10	?					IAN	999	herring16		
+2303	388	1	um	um.IM				IAN	eng	herring16		
+2304	388	2	we	we.PRON.SUB.1P				IAN	eng	herring16		
+2305	388	3	can	can.V.123SP.PRES				IAN	eng	herring16		
+2306	388	4	.					IAN	999	herring16		
+2307	389	1	but	but.CONJ				ABE	eng	herring16		
+2308	389	2	why	why.REL				ABE	eng	herring16		
+2309	389	3	don't	do.V.12S13P.PRES+NEG				ABE	eng	herring16		
+2310	389	4	be	be.V.INFIN				ABE	eng	herring16		
+2311	389	5	go	go.SV.INFIN				ABE	eng	herring16		
+2312	389	6	tomorrow	tomorrow.N.SG				ABE	eng	herring16		
+2313	389	7	?					ABE	999	herring16		
+2314	390	1	we	we.PRON.SUB.1P				ABE	eng	herring16		
+2315	390	2	have	have.V.1P.PRES				ABE	eng	herring16		
+2316	390	3	something	something.PRON				ABE	eng	herring16		
+2317	390	4	else	else.ADJ				ABE	eng	herring16		
+2318	390	5	to	to.PREP				ABE	eng	herring16		
+2319	390	6	do	do.V.INFIN				ABE	eng	herring16		
+2320	390	7	tomorrow	tomorrow.N.SG				ABE	eng	herring16		
+2321	390	8	.					ABE	999	herring16		
+2322	391	1	ok	unk				IAN	eng&spa	herring16		
+2323	391	2	.					IAN	999	herring16		
+2324	392	1	we	we.PRON.SUB.1P				ABE	eng	herring16		
+2325	392	2	decide	decide.V.1P.PRES				ABE	eng	herring16		
+2326	392	3	.					ABE	999	herring16		
+2327	393	1	bueno	well.E				ABE	spa	herring16		
+2328	393	2	así	thus.ADV				ABE	spa	herring16		
+2329	393	3	mañana	tomorrow.ADV				ABE	spa	herring16		
+2330	393	4	porque	because.CONJ				ABE	spa	herring16		
+2331	393	5	es	be.V.3S.PRES				ABE	spa	herring16		
+2332	393	6	que	that.CONJ				ABE	spa	herring16		
+2333	393	7	qué	what.INT				ABE	spa	herring16		
+2334	393	8	hay	there_is.V.3S.PRES				ABE	spa	herring16		
+2335	393	9	que	that.CONJ				ABE	spa	herring16		
+2336	393	10	hacer	do.V.INFIN				ABE	spa	herring16		
+2337	393	11	mañana	tomorrow.ADV				ABE	spa	herring16		
+2338	393	12	?					ABE	999	herring16		
+2339	394	1	.					ABE	999	herring16		
+2340	395	1	um	um.IM				IAN	eng	herring16		
+2341	395	2	no	not.ADV				IAN	spa	herring16		
+2342	395	3	sé	know.V.1S.PRES				IAN	spa	herring16		
+2343	395	4	.					IAN	999	herring16		
+2344	396	1	oye	hear.V.2S.IMPER				IAN	spa	herring16		
+2345	396	2	I	I.PRON.SUB.1S				IAN	eng	herring16		
+2346	396	3	need	need.V.1S.PRES				IAN	eng	herring16		
+2347	396	4	to	to.PREP				IAN	eng	herring16		
+2348	396	5	get	get.V.INFIN				IAN	eng	herring16		
+2349	396	6	a	a.DET.INDEF				IAN	eng	herring16		
+2350	396	7	haircut	haircut.N.SG				IAN	eng	herring16		
+2351	396	8	soon	soon.ADV				IAN	eng	herring16		
+2352	396	9	.					IAN	999	herring16		
+2353	397	1	.					IAN	999	herring16		
+2354	398	1	.					ABE	999	herring16		
+2355	399	1	I	I.PRON.SUB.1S				IAN	eng	herring16		
+2356	399	2	want	want.V.1S.PRES				IAN	eng	herring16		
+2357	399	3	to	to.PREP				IAN	eng	herring16		
+2358	399	4	get	get.V.INFIN				IAN	eng	herring16		
+2359	399	5	a	a.DET.INDEF				IAN	eng	herring16		
+2360	399	6	haircut	haircut.N.SG				IAN	eng	herring16		
+2361	399	7	.					IAN	999	herring16		
+2362	400	1	should	should.V.INFIN				IAN	eng	herring16		
+2363	400	2	we	we.PRON.SUB.1P				IAN	eng	herring16		
+2364	400	3	do	do.V.1P.PRES				IAN	eng	herring16		
+2365	400	4	it	it.PRON.OBJ.3S				IAN	eng	herring16		
+2366	400	5	today	today.N.SG				IAN	eng	herring16		
+2367	400	6	or	or.CONJ				IAN	eng	herring16		
+2368	400	7	tomorrow	tomorrow.N.SG				IAN	eng	herring16		
+2369	400	8	?					IAN	999	herring16		
+2370	401	1	we	we.PRON.SUB.1P				ABE	eng	herring16		
+2371	401	2	can	can.V.123SP.PRES				ABE	eng	herring16		
+2372	401	3	do	do.V.INFIN				ABE	eng	herring16		
+2373	401	4	that	that.DEM.FAR				ABE	eng	herring16		
+2374	401	5	today	today.N.SG				ABE	eng	herring16		
+2375	401	6	instead	instead.ADV				ABE	eng	herring16		
+2376	401	7	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+2377	401	8	know	know.V.2SP.PRES				ABE	eng	herring16		
+2378	401	9	we	we.PRON.SUB.1P				ABE	eng	herring16		
+2379	401	10	can	can.V.123SP.PRES				ABE	eng	herring16		
+2380	401	11	go	go.V.INFIN				ABE	eng	herring16		
+2381	401	12	out	out.ADV				ABE	eng	herring16		
+2382	401	13	because	because.CONJ				ABE	eng	herring16		
+2383	401	14	it's	it.PRON.SUB.3S+BE.V.3S.PRES				ABE	eng	herring16		
+2384	401	15	by	by.PREP				ABE	eng	herring16		
+2385	401	16	the	the.DET.DEF				ABE	eng	herring16		
+2386	401	17	Starbucks	name				ABE	eng&spa	herring16		
+2387	401	18	the	the.DET.DEF				ABE	eng	herring16		
+2388	401	19	haircut	haircut.N.SG				ABE	eng	herring16		
+2389	401	20	place	place.N.SG				ABE	eng	herring16		
+2390	401	21	over	over.ADV				ABE	eng	herring16		
+2391	401	22	here	here.ADV				ABE	eng	herring16		
+2392	401	23	cuts	cut.SV.INFIN+PV				ABE	eng	herring16		
+2393	401	24	.					ABE	999	herring16		
+2394	402	1	ok	unk				IAN	eng&spa	herring16		
+2395	402	2	.					IAN	999	herring16		
+2396	403	1	I	I.PRON.SUB.1S				IAN	eng	herring16		
+2397	403	2	can't	can.V.1S.PRES+NEG				IAN	eng	herring16		
+2398	403	3	believe	believe.V.INFIN				IAN	eng	herring16		
+2399	403	4	my	my.ADJ.POSS.1S				IAN	eng	herring16		
+2400	403	5	mom	mom.N.SG				IAN	eng	herring16		
+2401	403	6	didn't	did.V.PAST+NEG				IAN	eng	herring16		
+2402	403	7	mention	mention.SV.INFIN				IAN	eng	herring16		
+2403	403	8	that	that.CONJ				IAN	eng	herring16		
+2404	403	9	she	she.PRON.SUB.F.3S				IAN	eng	herring16		
+2405	403	10	was	was.V.3S.PAST				IAN	eng	herring16		
+2406	403	11	going	go.V.PRESPART				IAN	eng	herring16		
+2407	403	12	to	to.PREP				IAN	eng	herring16		
+2408	403	13	Mexico	name				IAN	eng	herring16		
+2409	403	14	today	today.N.SG				IAN	eng	herring16		
+2410	403	15	.					IAN	999	herring16		
+2411	404	1	yeah	yeah.ADV				ABE	eng	herring16		
+2412	404	2	.					ABE	999	herring16		
+2413	405	1	mmhm	mmhm.IM				IAN	eng	herring16		
+2414	405	2	.					IAN	999	herring16		
+2415	406	1	and	and.CONJ				IAN	eng	herring16		
+2416	406	2	she	she.PRON.SUB.F.3S				IAN	eng	herring16		
+2417	406	3	is	is.V.3S.PRES				IAN	eng	herring16		
+2418	406	4	coming	come.V.PRESPART				IAN	eng	herring16		
+2419	406	5	coming	come.V.PRESPART				IAN	eng	herring16		
+2420	406	6	up	up.ADV				IAN	eng	herring16		
+2421	406	7	for	for.PREP				IAN	eng	herring16		
+2422	406	8	a	a.DET.INDEF				IAN	eng	herring16		
+2423	406	9	whole	whole.ADJ				IAN	eng	herring16		
+2424	406	10	week	week.N.SG				IAN	eng	herring16		
+2425	406	11	.					IAN	999	herring16		
+2426	407	1	porque	because.CONJ				IAN	spa	herring16		
+2427	407	2	te	you.PRON.OBL.MF.2S				IAN	spa	herring16		
+2428	407	3	conté	explain.V.1S.PAST				IAN	spa	herring16		
+2429	407	4	de	of.PREP				IAN	spa	herring16		
+2430	407	5	la	the.DET.DEF.F.SG				IAN	spa	herring16		
+2431	407	6	que	that.PRON.REL				IAN	spa	herring16		
+2432	407	7	se	be.V.2P.IMPER.PRECLITIC				IAN	spa	herring16		
+2433	407	8	?					IAN	999	herring16		
+2434	408	1	mmhm	mmhm.IM				ABE	eng	herring16		
+2435	408	2	.					ABE	999	herring16		
+2436	409	1	parece	seem.V.2S.IMPER				IAN	spa	herring16		
+2437	409	2	ser	be.V.INFIN				IAN	spa	herring16		
+2438	409	3	que	that.CONJ				IAN	spa	herring16		
+2439	409	4	tenía	have.V.13S.IMPERF				IAN	spa	herring16		
+2440	409	5	planes	plan.N.M.PL				IAN	spa	herring16		
+2441	409	6	de	of.PREP				IAN	spa	herring16		
+2442	409	7	ir	go.V.INFIN				IAN	spa	herring16		
+2443	409	8	en	in.PREP				IAN	spa	herring16		
+2444	409	9	julio	July.N.M.SG				IAN	spa	herring16		
+2445	409	10	.					IAN	999	herring16		
+2446	410	1	y	and.CONJ				IAN	spa	herring16		
+2447	410	2	después	afterwards.ADV				IAN	spa	herring16		
+2448	410	3	tenía	have.V.13S.IMPERF				IAN	spa	herring16		
+2449	410	4	planes	plan.N.M.PL				IAN	spa	herring16		
+2450	410	5	de	of.PREP				IAN	spa	herring16		
+2451	410	6	ir	go.V.INFIN				IAN	spa	herring16		
+2452	410	7	en	in.PREP				IAN	spa	herring16		
+2453	410	8	mayo	May.N.M.SG				IAN	spa	herring16		
+2454	410	9	.					IAN	999	herring16		
+2455	411	1	verdad	truth.N.F.SG				IAN	spa	herring16		
+2456	411	2	que	that.PRON.REL				IAN	spa	herring16		
+2457	411	3	así	thus.ADV				IAN	spa	herring16		
+2458	411	4	es	be.V.3S.PRES				IAN	spa	herring16		
+2459	411	5	really	real.ADJ+ADV				IAN	eng	herring16		
+2460	411	6	bad	bad.ADJ				IAN	eng	herring16		
+2461	411	7	.					IAN	999	herring16		
+2462	412	1	.					ABE	999	herring16		
+2463	413	1	nunca	never.ADV				IAN	spa	herring16		
+2464	413	2	fue	be.V.3S.PAST				IAN	spa	herring16		
+2465	413	3	de	of.PREP				IAN	spa	herring16		
+2466	413	4	allá	there.ADV				IAN	spa	herring16		
+2467	413	5	.					IAN	999	herring16		
+2468	414	1	hmm	hmm.IM				ABE	eng&spa	herring16		
+2469	414	2	.					ABE	999	herring16		
+2470	415	1	have	have.V.INFIN				IAN	eng	herring16		
+2471	415	2	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+2472	415	3	seen	seen.V.PASTPART				IAN	eng	herring16		
+2473	415	4	that	that.CONJ.[or].that.DEM.FAR				IAN	eng	herring16		
+2474	415	5	that	that.CONJ.[or].that.DEM.FAR				IAN	eng	herring16		
+2475	415	6	talking	talk.V.INFIN+ASV				IAN	eng	herring16		
+2476	415	7	stain	stain.SV.INFIN				IAN	eng	herring16		
+2477	415	8	commercial	commercial.ADJ				IAN	eng	herring16		
+2478	415	9	?					IAN	999	herring16		
+2479	416	1	yeah	yeah.ADV				ABE	eng	herring16		
+2480	416	2	.					ABE	999	herring16		
+2481	417	1	verdad	truth.N.F.SG				IAN	spa	herring16		
+2482	417	2	?					IAN	999	herring16		
+2483	418	1	super	super.ADJ				IAN	eng&spa	herring16		
+2484	418	2	.					IAN	999	herring16		
+2485	419	1	.					IAN	999	herring16		
+2486	420	1	ya	already.ADV				ABE	spa	herring16		
+2487	420	2	lo	him.PRON.OBJ.M.3S				ABE	spa	herring16		
+2488	420	3	tienes	have.V.2S.PRES				ABE	spa	herring16		
+2489	420	4	ahí	there.ADV				ABE	spa	herring16		
+2490	420	5	?					ABE	999	herring16		
+2491	421	1	mmhm	mmhm.IM				IAN	eng	herring16		
+2492	421	2	.					IAN	999	herring16		
+2493	422	1	.					ABE	999	herring16		
+2494	423	1	ves	see.V.2S.PRES				ABE	spa	herring16		
+2495	423	2	?					ABE	999	herring16		
+2496	424	1	no	no.ADV				IAN	eng	herring16		
+2497	424	2	finish	finish.N.SG				IAN	eng	herring16		
+2498	424	3	your	your.ADJ.POSS.2SP				IAN	eng	herring16		
+2499	424	4	call	call.N.SG				IAN	eng	herring16		
+2500	424	5	.					IAN	999	herring16		
+2501	425	1	.					ABE	999	herring16		
+2502	426	1	I	I.PRON.SUB.1S				ABE	eng	herring16		
+2503	426	2	can	can.V.1S.PRES				ABE	eng	herring16		
+2504	426	3	feel	feel.V.INFIN				ABE	eng	herring16		
+2505	426	4	.					ABE	999	herring16		
+2506	427	1	isn't	is.V.3S.PRES+NEG				IAN	eng	herring16		
+2507	427	2	that	that.DEM.FAR				IAN	eng	herring16		
+2508	427	3	funny	funny.ADJ				IAN	eng	herring16		
+2509	427	4	?					IAN	999	herring16		
+2510	428	1	yes	yes.ADV				ABE	eng	herring16		
+2511	428	2	.					ABE	999	herring16		
+2512	429	1	.					IAN	999	herring16		
+2513	430	1	que	that.CONJ				ABE	spa	herring16		
+2514	430	2	preguntarle	ask.V.INFIN+LE[PRON.MF.3S]				ABE	spa	herring16		
+2515	430	3	a	to.PREP				ABE	spa	herring16		
+2516	430	4	si	if.CONJ				ABE	spa	herring16		
+2517	430	5	me	me.PRON.OBL.MF.1S				ABE	spa	herring16		
+2518	430	6	quiere	want.V.3S.PRES				ABE	spa	herring16		
+2519	430	7	hacer	do.V.INFIN				ABE	spa	herring16		
+2520	430	8	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+2521	430	9	corte	court.N.M.SG				ABE	spa	herring16		
+2522	430	10	de	of.PREP				ABE	spa	herring16		
+2523	430	11	pelo	shell.V.1S.PRES				ABE	spa	herring16		
+2524	430	12	hoy	today.ADV				ABE	spa	herring16		
+2525	430	13	.					ABE	999	herring16		
+2526	431	1	.					IAN	999	herring16		
+2527	432	1	hoy	today.ADV				IAN	spa	herring16		
+2528	432	2	?					IAN	999	herring16		
+2529	433	1	yo	I.PRON.SUB.MF.1S				ABE	spa	herring16		
+2530	433	2	no	not.ADV				ABE	spa	herring16		
+2531	433	3	tengo	have.V.1S.PRES				ABE	spa	herring16		
+2532	433	4	dinero	money.N.M.SG				ABE	spa	herring16		
+2533	433	5	para	for.PREP				ABE	spa	herring16		
+2534	433	6	estar	be.V.INFIN				ABE	spa	herring16		
+2535	433	7	jodiendo	fuck.V.PRESPART				ABE	spa	herring16		
+2536	433	8	.					ABE	999	herring16		
+2537	434	1	ay	oh.IM				IAN	spa	herring16		
+2538	434	2	tan	so.ADV				IAN	spa	herring16		
+2539	434	3	.					IAN	999	herring16		
+2540	435	1	no	not.ADV				ABE	spa	herring16		
+2541	435	2	pero	but.CONJ				ABE	spa	herring16		
+2542	435	3	es	be.V.3S.PRES				ABE	spa	herring16		
+2543	435	4	para	for.PREP				ABE	spa	herring16		
+2544	435	5	que	that.CONJ				ABE	spa	herring16		
+2545	435	6	me	me.PRON.OBL.MF.1S				ABE	spa	herring16		
+2546	435	7	haga	do.V.13S.SUBJ.PRES				ABE	spa	herring16		
+2547	435	8	esto	this.PRON.DEM.NT.SG				ABE	spa	herring16		
+2548	435	9	.					ABE	999	herring16		
+2549	436	1	Tania	name				ABE	eng&spa	herring16		
+2550	436	2	te	you.PRON.OBL.MF.2S				ABE	spa	herring16		
+2551	436	3	voy	go.V.1S.PRES				ABE	spa	herring16		
+2552	436	4	a	to.PREP				ABE	spa	herring16		
+2553	436	5	buscar	seek.V.INFIN				ABE	spa	herring16		
+2554	436	6	en	in.PREP				ABE	spa	herring16		
+2555	436	7	un	one.DET.INDEF.M.SG				ABE	spa	herring16		
+2556	436	8	ratito	while.N.M.SG.DIM				ABE	spa	herring16		
+2557	436	9	para	for.PREP				ABE	spa	herring16		
+2558	436	10	que	that.CONJ				ABE	spa	herring16		
+2559	436	11	me	me.PRON.OBL.MF.1S				ABE	spa	herring16		
+2560	436	12	hagas	do.V.2S.SUBJ.PRES				ABE	spa	herring16		
+2561	436	13	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+2562	436	14	trim	trim.ADV				ABE	eng	herring16		
+2563	436	15	de	of.PREP				ABE	spa	herring16		
+2564	436	16	mi	my.ADJ.POSS.MF.1S.SG				ABE	spa	herring16		
+2565	436	17	pelo	shell.V.1S.PRES				ABE	spa	herring16		
+2566	436	18	por	for.PREP				ABE	spa	herring16		
+2567	436	19	favor	favour.N.M.SG				ABE	spa	herring16		
+2568	436	20	con	with.PREP				ABE	spa	herring16		
+2569	436	21	la	the.DET.DEF.F.SG				ABE	spa	herring16		
+2570	436	22	máquina	machine.N.F.SG				ABE	spa	herring16		
+2571	436	23	.					ABE	999	herring16		
+2572	437	1	pero	but.CONJ				ABE	spa	herring16		
+2573	437	2	yo	I.PRON.SUB.MF.1S				ABE	spa	herring16		
+2574	437	3	te	you.PRON.OBL.MF.2S				ABE	spa	herring16		
+2575	437	4	llamo	call.V.1S.PRES				ABE	spa	herring16		
+2576	437	5	así	thus.ADV				ABE	spa	herring16		
+2577	437	6	como	like.CONJ				ABE	spa	herring16		
+2578	437	7	en	in.PREP				ABE	spa	herring16		
+2579	437	8	una	a.DET.INDEF.F.SG				ABE	spa	herring16		
+2580	437	9	hora	time.N.F.SG				ABE	spa	herring16		
+2581	437	10	.					ABE	999	herring16		
+2582	438	1	bye	bye.N.SG				ABE	eng	herring16		
+2583	438	2	.					ABE	999	herring16		
+2584	439	1	ok	unk				ABE	eng&spa	herring16		
+2585	439	2	.					ABE	999	herring16		
+2586	440	1	.					IAN	999	herring16		
+2587	441	1	y	and.CONJ				ABE	spa	herring16		
+2588	441	2	la	her.PRON.OBJ.F.3S				ABE	spa	herring16		
+2589	441	3	llevo	wear.V.1S.PRES				ABE	spa	herring16		
+2590	441	4	para	for.PREP				ABE	spa	herring16		
+2591	441	5	atrás	backwards.ADV				ABE	spa	herring16		
+2592	441	6	para	for.PREP				ABE	spa	herring16		
+2593	441	7	que	that.CONJ				ABE	spa	herring16		
+2594	441	8	se	self.PRON.REFL.MF.3SP				ABE	spa	herring16		
+2595	441	9	vaya	go.V.13S.SUBJ.PRES				ABE	spa	herring16		
+2596	441	10	a	to.PREP				ABE	spa	herring16		
+2597	441	11	ver	see.V.INFIN				ABE	spa	herring16		
+2598	441	12	a	to.PREP				ABE	spa	herring16		
+2599	441	13	todo	all.ADJ.M.SG				ABE	spa	herring16		
+2600	441	14	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+2601	441	15	mundo	world.N.M.SG				ABE	spa	herring16		
+2602	441	16	.					ABE	999	herring16		
+2603	442	1	mmhm	mmhm.IM				IAN	eng	herring16		
+2604	442	2	.					IAN	999	herring16		
+2605	443	1	.					ABE	999	herring16		
+2606	444	1	es	be.V.3S.PRES				ABE	spa	herring16		
+2607	444	2	así	thus.ADV				ABE	spa	herring16		
+2608	444	3	tan	so.ADV				ABE	spa	herring16		
+2609	444	4	rude	rude.ADJ				ABE	eng	herring16		
+2610	444	5	con	with.PREP				ABE	spa	herring16		
+2611	444	6	mis	my.ADJ.POSS.MF.1S.PL				ABE	spa	herring16		
+2612	444	7	amigos	friend.N.M.PL				ABE	spa	herring16		
+2613	444	8	Dios	God.N.M.SG				ABE	spa	herring16		
+2614	444	9	mío	of_mine.ADJ.POSS.MF.1S.M.SG				ABE	spa	herring16		
+2615	444	10	.					ABE	999	herring16		
+2616	445	1	si	if.CONJ				IAN	spa	herring16		
+2617	445	2	quieres	want.V.2S.PRES				IAN	spa	herring16		
+2618	445	3	yo	I.PRON.SUB.MF.1S				IAN	spa	herring16		
+2619	445	4	voy	go.V.1S.PRES				IAN	spa	herring16		
+2620	445	5	a	to.PREP				IAN	spa	herring16		
+2621	445	6	y	and.CONJ				IAN	spa	herring16		
+2622	445	7	luego	next.ADV				IAN	spa	herring16		
+2623	445	8	a	to.PREP				IAN	spa	herring16		
+2624	445	9	recogerte	pick.V.INFIN+TE[PRON.MF.2S]				IAN	spa	herring16		
+2625	445	10	.					IAN	999	herring16		
+2626	446	1	huh	huh.IM				ABE	eng	herring16		
+2627	446	2	.					ABE	999	herring16		
+2628	447	1	while	while.CONJ				IAN	eng	herring16		
+2629	447	2	I'm	I.PRON.SUB.1S+BE.V.PRES				IAN	eng	herring16		
+2630	447	3	doing	do.V.PRESPART				IAN	eng	herring16		
+2631	447	4	my	my.ADJ.POSS.1S				IAN	eng	herring16		
+2632	447	5	haircut	haircut.N.SG				IAN	eng	herring16		
+2633	447	6	.					IAN	999	herring16		
+2634	448	1	mmhm	mmhm.IM				ABE	eng	herring16		
+2635	448	2	.					ABE	999	herring16		
+2636	449	1	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+2637	449	2	can	can.V.2SP.PRES				IAN	eng	herring16		
+2638	449	3	.					IAN	999	herring16		
+2639	450	1	your	your.ADJ.POSS.2SP				ABE	eng	herring16		
+2640	450	2	haircut	haircut.N.SG				ABE	eng	herring16		
+2641	450	3	is	is.V.3S.PRES				ABE	eng	herring16		
+2642	450	4	fine	fine.N.SG				ABE	eng	herring16		
+2643	450	5	really	real.ADJ+ADV				ABE	eng	herring16		
+2644	450	6	.					ABE	999	herring16		
+2645	451	1	.					ABE	999	herring16		
+2646	452	1	por	for.PREP				ABE	spa	herring16		
+2647	452	2	qué	what.INT				ABE	spa	herring16		
+2648	452	3	así	thus.ADV				ABE	spa	herring16		
+2649	452	4	no	not.ADV				ABE	spa	herring16		
+2650	452	5	pueden	be_able.V.3P.PRES				ABE	spa	herring16		
+2651	452	6	ser	be.V.INFIN				ABE	spa	herring16		
+2652	452	7	mis	my.ADJ.POSS.MF.1S.PL				ABE	spa	herring16		
+2653	452	8	amigos	friend.N.M.PL				ABE	spa	herring16		
+2654	452	9	?					ABE	999	herring16		
+2655	453	1	yo	I.PRON.SUB.MF.1S				ABE	spa	herring16		
+2656	453	2	no	not.ADV				ABE	spa	herring16		
+2657	453	3	la	the.DET.DEF.F.SG				ABE	spa	herring16		
+2658	453	4	máquina	machine.N.F.SG				ABE	spa	herring16		
+2659	453	5	para	for.PREP				ABE	spa	herring16		
+2660	453	6	que	that.CONJ				ABE	spa	herring16		
+2661	453	7	bien	well.ADV				ABE	spa	herring16		
+2662	453	8	.					ABE	999	herring16		
+2663	454	1	ves	see.V.2S.PRES				IAN	spa	herring16		
+2664	454	2	como	like.CONJ				IAN	spa	herring16		
+2665	454	3	que	that.CONJ				IAN	spa	herring16		
+2666	454	4	ella	she.PRON.SUB.F.3S				IAN	spa	herring16		
+2667	454	5	.					IAN	999	herring16		
+2668	455	1	bueno	well.E				ABE	spa	herring16		
+2669	455	2	ya	already.ADV				ABE	spa	herring16		
+2670	455	3	son	be.V.3P.PRES				ABE	spa	herring16		
+2671	455	4	las	the.DET.DEF.F.PL				ABE	spa	herring16		
+2672	455	5	las	the.DET.DEF.F.PL				ABE	spa	herring16		
+2673	455	6	y	and.CONJ				ABE	spa	herring16		
+2674	455	7	cuarenta	forty.NUM				ABE	spa	herring16		
+2675	455	8	casi	nearly.ADV				ABE	spa	herring16		
+2676	455	9	casi	nearly.ADV				ABE	spa	herring16		
+2677	455	10	.					ABE	999	herring16		
+2678	456	1	pero	but.CONJ				ABE	spa	herring16		
+2679	456	2	él	he.PRON.SUB.M.3S				ABE	spa	herring16		
+2680	456	3	tiene	have.V.3S.PRES				ABE	spa	herring16		
+2681	456	4	que	that.CONJ				ABE	spa	herring16		
+2682	456	5	venir	come.V.INFIN				ABE	spa	herring16		
+2683	456	6	de	of.PREP				ABE	spa	herring16		
+2684	456	7	camino	way.N.M.SG				ABE	spa	herring16		
+2685	456	8	.					ABE	999	herring16		
+2686	457	1	deja	let.V.2S.IMPER				ABE	spa	herring16		
+2687	457	2	que	that.CONJ				ABE	spa	herring16		
+2688	457	3	llame	call.V.13S.SUBJ.PRES				ABE	spa	herring16		
+2689	457	4	.					ABE	999	herring16		
+2690	458	1	como	like.CONJ				ABE	spa	herring16		
+2691	458	2	quiera	want.V.13S.SUBJ.PRES				ABE	spa	herring16		
+2692	458	3	.					ABE	999	herring16		
+2693	459	1	deja	let.V.2S.IMPER				ABE	spa	herring16		
+2694	459	2	que	that.CONJ				ABE	spa	herring16		
+2695	459	3	no	not.ADV				ABE	spa	herring16		
+2696	459	4	deja	let.V.3S.PRES				ABE	spa	herring16		
+2697	459	5	que	that.CONJ				ABE	spa	herring16		
+2698	459	6	llame	call.V.13S.SUBJ.PRES				ABE	spa	herring16		
+2699	459	7	.					ABE	999	herring16		
+2700	460	1	sí	yes.ADV				IAN	spa	herring16		
+2701	460	2	sí	yes.ADV				IAN	spa	herring16		
+2702	460	3	sí	yes.ADV				IAN	spa	herring16		
+2703	460	4	no	not.ADV				IAN	spa	herring16		
+2704	460	5	tranquilo	quiet.ADJ.M.SG				IAN	spa	herring16		
+2705	460	6	ya	already.ADV				IAN	spa	herring16		
+2706	460	7	.					IAN	999	herring16		
+2707	461	1	tranquilo	quiet.ADJ.M.SG				IAN	spa	herring16		
+2708	461	2	.					IAN	999	herring16		
+2709	462	1	vamos	go.V.1P.PRES				ABE	spa	herring16		
+2710	462	2	vamos	go.V.1P.PRES				ABE	spa	herring16		
+2711	462	3	allá	there.ADV				ABE	spa	herring16		
+2712	462	4	.					ABE	999	herring16		
+2713	463	1	no	not.ADV				ABE	spa	herring16		
+2714	463	2	no	not.ADV				ABE	spa	herring16		
+2715	463	3	espérate	wait.V.2S.IMPER.PRECLITIC+TE[PRON.MF.2S]				ABE	spa	herring16		
+2716	463	4	espérate	wait.V.2S.IMPER.PRECLITIC+TE[PRON.MF.2S]				ABE	spa	herring16		
+2717	463	5	espérate	wait.V.2S.IMPER.PRECLITIC+TE[PRON.MF.2S]				ABE	spa	herring16		
+2718	463	6	.					ABE	999	herring16		
+2719	464	1	I	I.PRON.SUB.1S				IAN	eng	herring16		
+2720	464	2	was	was.V.13S.PAST				IAN	eng	herring16		
+2721	464	3	so	so.ADV				IAN	eng	herring16		
+2722	464	4	tired	tire.V.PASTPART				IAN	eng	herring16		
+2723	464	5	yesterday	yesterday.N.SG				IAN	eng	herring16		
+2724	464	6	.					IAN	999	herring16		
+2725	465	1	but	but.CONJ				IAN	eng	herring16		
+2726	465	2	I	I.PRON.SUB.1S				IAN	eng	herring16		
+2727	465	3	really	real.ADJ+ADV				IAN	eng	herring16		
+2728	465	4	wanted	want.SV.INFIN+AV				IAN	eng	herring16		
+2729	465	5	to	to.PREP				IAN	eng	herring16		
+2730	465	6	go	go.V.INFIN				IAN	eng	herring16		
+2731	465	7	out	out.ADV				IAN	eng	herring16		
+2732	465	8	.					IAN	999	herring16		
+2733	466	1	tú	you.PRON.SUB.MF.2S				ABE	spa	herring16		
+2734	466	2	ni	nor.CONJ				ABE	spa	herring16		
+2735	466	3	siquiera	at_least.ADV				ABE	spa	herring16		
+2736	466	4	te	you.PRON.OBL.MF.2S				ABE	spa	herring16		
+2737	466	5	bañaste	bathe.V.2S.PAST				ABE	spa	herring16		
+2738	466	6	.					ABE	999	herring16		
+2739	467	1	I	I.PRON.SUB.1S				IAN	eng	herring16		
+2740	467	2	went	went.V.PAST				IAN	eng	herring16		
+2741	467	3	to	to.PREP				IAN	eng	herring16		
+2742	467	4	the	the.DET.DEF				IAN	eng	herring16		
+2743	467	5	beach	beach.N.SG				IAN	eng	herring16		
+2744	467	6	too	too.ADV				IAN	eng	herring16		
+2745	467	7	.					IAN	999	herring16		
+2746	468	1	quieres	want.V.2S.PRES				IAN	spa	herring16		
+2747	468	2	que	that.CONJ				IAN	spa	herring16		
+2748	468	3	quedar	stay.V.INFIN				IAN	spa	herring16		
+2749	468	4	contigo	with you.PREP+PRON.MF.2S				IAN	spa	herring16		
+2750	468	5	?					IAN	999	herring16		
+2751	469	1	mmhm	mmhm.IM				ABE	eng	herring16		
+2752	469	2	.					ABE	999	herring16		
+2753	470	1	me	me.PRON.OBL.MF.1S				ABE	spa	herring16		
+2754	470	2	asustas	scare.V.2S.PRES				ABE	spa	herring16		
+2755	470	3	.					ABE	999	herring16		
+2756	471	1	y	and.CONJ				ABE	spa	herring16		
+2757	471	2	el	the.DET.DEF.M.SG				ABE	spa	herring16		
+2758	471	3	tuyo	of_yours.ADJ.POSS.MF.2S.M.SG				ABE	spa	herring16		
+2759	471	4	?					ABE	999	herring16		
+2760	472	1	mmhm	mmhm.IM				IAN	eng	herring16		
+2761	472	2	I	I.PRON.SUB.1S				IAN	eng	herring16		
+2762	472	3	have	have.V.1S.PRES				IAN	eng	herring16		
+2763	472	4	it	it.PRON.OBJ.3S				IAN	eng	herring16		
+2764	472	5	.					IAN	999	herring16		
+2765	473	1	a	to.PREP				IAN	spa	herring16		
+2766	473	2	ver	see.V.INFIN				IAN	spa	herring16		
+2767	473	3	cómo	how.INT				IAN	spa	herring16		
+2768	473	4	?					IAN	999	herring16		
+2769	474	1	deben	owe.V.3P.PRES				ABE	spa	herring16		
+2770	474	2	estar	be.V.INFIN				ABE	spa	herring16		
+2771	474	3	en	in.PREP				ABE	spa	herring16		
+2772	474	4	la	the.DET.DEF.F.SG				ABE	spa	herring16		
+2773	474	5	sala	room.N.F.SG				ABE	spa	herring16		
+2774	474	6	esta	this.PRON.DEM.F.SG				ABE	spa	herring16		
+2775	474	7	.					ABE	999	herring16		
+2776	475	1	right	right.ADJ				IAN	eng	herring16		
+2777	475	2	maybe	maybe.ADV				IAN	eng	herring16		
+2778	475	3	we	we.PRON.SUB.1P				IAN	eng	herring16		
+2779	475	4	should	should.V.1P.PRES				IAN	eng	herring16		
+2780	475	5	head	head.N.SG				IAN	eng	herring16		
+2781	475	6	over	over.ADV				IAN	eng	herring16		
+2782	475	7	there	there.ADV				IAN	eng	herring16		
+2783	475	8	then	then.ADV				IAN	eng	herring16		
+2784	475	9	.					IAN	999	herring16		
+2785	476	1	.					ABE	999	herring16		
+2786	477	1	.					ABE	999	herring16		
+2787	478	1	oíste	hear.V.2S.PAST				ABE	spa	herring16		
+2788	478	2	tú	you.PRON.SUB.MF.2S				ABE	spa	herring16		
+2789	478	3	sabes	know.V.2S.PRES				ABE	spa	herring16		
+2790	478	4	la	the.DET.DEF.F.SG				ABE	spa	herring16		
+2791	478	5	.					ABE	999	herring16		
+2792	479	1	mmhm	mmhm.IM				IAN	eng	herring16		
+2793	479	2	.					IAN	999	herring16		
+2794	480	1	ah	ah.IM				IAN	spa	herring16		
+2795	480	2	esta	this.PRON.DEM.F.SG				IAN	spa	herring16		
+2796	480	3	detrás	behind.ADV				IAN	spa	herring16		
+2797	480	4	de	of.PREP				IAN	spa	herring16		
+2798	480	5	la	the.DET.DEF.F.SG				IAN	spa	herring16		
+2799	480	6	.					IAN	999	herring16		
+2800	481	1	esto	this.PRON.DEM.NT.SG				ABE	spa	herring16		
+2801	481	2	está	be.V.3S.PRES				ABE	spa	herring16		
+2802	481	3	dando	give.V.PRESPART				ABE	spa	herring16		
+2803	481	4	vueltas	return.N.F.PL.[or].return.V.F.PL.PASTPART				ABE	spa	herring16		
+2804	481	5	así	thus.ADV				ABE	spa	herring16		
+2805	481	6	.					ABE	999	herring16		
+2806	482	1	oye	hear.V.2S.IMPER				IAN	spa	herring16		
+2807	482	2	sabes	know.V.2S.PRES				IAN	spa	herring16		
+2808	482	3	qué	what.INT				IAN	spa	herring16		
+2809	482	4	el	the.DET.DEF.M.SG				IAN	spa	herring16		
+2810	482	5	se	self.PRON.REFL.MF.3SP				IAN	spa	herring16		
+2811	482	6	está	be.V.3S.PRES				IAN	spa	herring16		
+2812	482	7	muriendo	die.V.PRESPART				IAN	spa	herring16		
+2813	482	8	.					IAN	999	herring16		
+2814	483	1	ponlo	put.V.2S.IMPER+LO[PRON.M.3S]				ABE	spa	herring16		
+2815	483	2	a	to.PREP				ABE	spa	herring16		
+2816	483	3	cargar	load.V.INFIN				ABE	spa	herring16		
+2817	483	4	.					ABE	999	herring16		
+2818	484	1	ok	unk				IAN	eng&spa	herring16		
+2819	484	2	.					IAN	999	herring16		
+2820	485	1	.					ABE	999	herring16		
+2821	486	1	no	no.ADV				IAN	eng	herring16		
+2822	486	2	brother	brother.N.SG				IAN	eng	herring16		
+2823	486	3	.					IAN	999	herring16		
+2824	487	1	no	no.ADV				IAN	eng	herring16		
+2825	487	2	wait	wait.N.SG				IAN	eng	herring16		
+2826	487	3	un	one.DET.INDEF.M.SG				IAN	spa	herring16		
+2827	487	4	momento	momentum.N.M.SG				IAN	spa	herring16		
+2828	487	5	porque	because.CONJ				IAN	spa	herring16		
+2829	487	6	sino	but.CONJ				IAN	spa	herring16		
+2830	487	7	las	the.DET.DEF.F.PL				IAN	spa	herring16		
+2831	487	8	cosas	thing.N.F.PL				IAN	spa	herring16		
+2832	487	9	.					IAN	999	herring16		
+2833	488	1	ay	gay.ADJ+SM.[or].ay.SV.INFIN				IAN	eng&spa	herring16		
+2834	488	2	.					IAN	999	herring16		
+2835	489	1	it's	it.PRON.SUB.3S+BE.V.3S.PRES				IAN	eng	herring16		
+2836	489	2	a	a.DET.INDEF				IAN	eng	herring16		
+2837	489	3	nice	nice.ADJ				IAN	eng	herring16		
+2838	489	4	day	day.N.SG				IAN	eng	herring16		
+2839	489	5	for	for.PREP				IAN	eng	herring16		
+2840	489	6	the	the.DET.DEF				IAN	eng	herring16		
+2841	489	7	beach	beach.N.SG				IAN	eng	herring16		
+2842	489	8	actually	actual.ADJ+ADV				IAN	eng	herring16		
+2843	489	9	.					IAN	999	herring16		
+2844	490	1	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+2845	490	2	wanna	want.V.2SP.PRES+TO.PREP				ABE	eng	herring16		
+2846	490	3	go	go.V.INFIN				ABE	eng	herring16		
+2847	490	4	.					ABE	999	herring16		
+2848	491	1	maybe	maybe.ADV				IAN	eng	herring16		
+2849	491	2	tomorrow	tomorrow.N.SG				IAN	eng	herring16		
+2850	491	3	.					IAN	999	herring16		
+2851	492	1	.					IAN	999	herring16		
+2852	493	1	.					ABE	999	herring16		
+2853	494	1	where	where.ADV				IAN	eng	herring16		
+2854	494	2	are	are.V.123P.PRES				IAN	eng	herring16		
+2855	494	3	my	my.ADJ.POSS.1S				IAN	eng	herring16		
+2856	494	4	cigarettes	unk				IAN	eng	herring16		
+2857	494	5	?					IAN	999	herring16		
+2858	495	1	.					ABE	999	herring16		
+2859	496	1	maybe	maybe.ADV				IAN	eng	herring16		
+2860	496	2	we	we.PRON.SUB.1P				IAN	eng	herring16		
+2861	496	3	can	can.V.123SP.PRES				IAN	eng	herring16		
+2862	496	4	have	have.V.INFIN				IAN	eng	herring16		
+2863	496	5	a	a.DET.INDEF				IAN	eng	herring16		
+2864	496	6	cigarette	cigarette.N.SG				IAN	eng	herring16		
+2865	496	7	.					IAN	999	herring16		
+2866	497	1	.					ABE	999	herring16		
+2867	498	1	.					ABE	999	herring16		
+2868	499	1	mmhm	mmhm.IM				IAN	eng	herring16		
+2869	499	2	.					IAN	999	herring16		
+2870	500	1	.					ABE	999	herring16		
+2871	501	1	.					IAN	999	herring16		
+2872	502	1	te	you.PRON.OBL.MF.2S				ABE	spa	herring16		
+2873	502	2	compraste	buy.V.2S.PAST				ABE	spa	herring16		
+2874	502	3	un	one.DET.INDEF.M.SG				ABE	spa	herring16		
+2875	502	4	lighter	light.N.SG+COMP.AG.[or].lighter.N.SG				ABE	eng	herring16		
+2876	502	5	finalmente	lastly.ADV				ABE	spa	herring16		
+2877	502	6	?					ABE	999	herring16		
+2878	503	1	hmm	hmm.IM				IAN	eng&spa	herring16		
+2879	503	2	?					IAN	999	herring16		
+2880	504	1	compraste	buy.V.2S.PAST				ABE	spa	herring16		
+2881	504	2	un	one.DET.INDEF.M.SG				ABE	spa	herring16		
+2882	504	3	lighter	light.N.SG+COMP.AG.[or].lighter.N.SG				ABE	eng	herring16		
+2883	504	4	?					ABE	999	herring16		
+2884	505	1	oh	oh.IM				IAN	eng&spa	herring16		
+2885	505	2	they	they.PRON.SUB.3P				IAN	eng	herring16		
+2886	505	3	are	are.V.3P.PRES				IAN	eng	herring16		
+2887	505	4	mine	mine.PRON.POSS.1S				IAN	eng	herring16		
+2888	505	5	buddy	buddy.N.SG				IAN	eng	herring16		
+2889	505	6	.					IAN	999	herring16		
+2890	506	1	mine	mine.PRON.POSS.1S				IAN	eng	herring16		
+2891	506	2	and	and.CONJ				IAN	eng	herring16		
+2892	506	3	yours	your.ADJ.POSS.2SP+PV.[or].yours.PRON.POSS.2SP				IAN	eng	herring16		
+2893	506	4	.					IAN	999	herring16		
+2894	507	1	uhhuh	uhhuh.IM				ABE	eng	herring16		
+2895	507	2	uhhuh	uhhuh.IM				ABE	eng	herring16		
+2896	507	3	.					ABE	999	herring16		
+2897	508	1	toma	take.V.2S.IMPER				IAN	spa	herring16		
+2898	508	2	.					IAN	999	herring16		
+2899	509	1	no	no.ADV				ABE	eng	herring16		
+2900	509	2	I	I.PRON.SUB.1S				ABE	eng	herring16		
+2901	509	3	have	have.V.1S.PRES				ABE	eng	herring16		
+2902	509	4	my	my.ADJ.POSS.1S				ABE	eng	herring16		
+2903	509	5	own	own.PRON				ABE	eng	herring16		
+2904	509	6	.					ABE	999	herring16		
+2905	510	1	pero	but.CONJ				ABE	spa	herring16		
+2906	510	2	por	for.PREP				ABE	spa	herring16		
+2907	510	3	eso	that.PRON.DEM.NT.SG				ABE	spa	herring16		
+2908	510	4	te	you.PRON.OBL.MF.2S				ABE	spa	herring16		
+2909	510	5	estoy	be.V.1S.PRES				ABE	spa	herring16		
+2910	510	6	preguntando	ask.V.PRESPART				ABE	spa	herring16		
+2911	510	7	que	that.CONJ				ABE	spa	herring16		
+2912	510	8	si	if.CONJ				ABE	spa	herring16		
+2913	510	9	compraste	buy.V.2S.PAST				ABE	spa	herring16		
+2914	510	10	un	one.DET.INDEF.M.SG				ABE	spa	herring16		
+2915	510	11	lighter	light.N.SG+COMP.AG.[or].lighter.N.SG				ABE	eng	herring16		
+2916	510	12	porque	because.CONJ				ABE	spa	herring16		
+2917	510	13	no	not.ADV				ABE	spa	herring16		
+2918	510	14	lo	him.PRON.OBJ.M.3S				ABE	spa	herring16		
+2919	510	15	conozco	meet.V.1S.PRES				ABE	spa	herring16		
+2920	510	16	.					ABE	999	herring16		
+2921	511	1	I	I.PRON.SUB.1S				IAN	eng	herring16		
+2922	511	2	had	had.V.PAST				IAN	eng	herring16		
+2923	511	3	this	this.DEM.NEAR.SG				IAN	eng	herring16		
+2924	511	4	for	for.PREP				IAN	eng	herring16		
+2925	511	5	a	a.DET.INDEF				IAN	eng	herring16		
+2926	511	6	long	long.ADJ				IAN	eng	herring16		
+2927	511	7	time	time.N.SG				IAN	eng	herring16		
+2928	511	8	.					IAN	999	herring16		
+2929	512	1	but	but.CONJ				IAN	eng	herring16		
+2930	512	2	you	you.PRON.SUB.2SP				IAN	eng	herring16		
+2931	512	3	always	alway.ADV+PV.[or].always.ADV				IAN	eng	herring16		
+2932	512	4	think	think.SV.INFIN				IAN	eng	herring16		
+2933	512	5	that	that.CONJ				IAN	eng	herring16		
+2934	512	6	it's	it.PRON.SUB.3S+BE.V.3S.PRES				IAN	eng	herring16		
+2935	512	7	yours	your.ADJ.POSS.2SP+V 3S PRES.[or].yours.PRON.POSS.2SP				IAN	eng	herring16		
+2936	512	8	.					IAN	999	herring16		
+2937	513	1	ay	oh.IM				ABE	spa	herring16		
+2938	513	2	ya	already.ADV				ABE	spa	herring16		
+2939	513	3	please	please.SV.INFIN				ABE	eng	herring16		
+2940	513	4	.					ABE	999	herring16		
+2941	514	1	.					IAN	999	herring16		
+2942	515	1	.					ABE	999	herring16		
+2943	516	1	que	that.CONJ				IAN	spa	herring16		
+2944	516	2	ya	already.ADV				IAN	spa	herring16		
+2945	516	3	venga	come.V.13S.SUBJ.PRES.[or].avenge.V.2S.IMPER.[or].avenge.V.3S.PRES				IAN	spa	herring16		
+2946	516	4	no	not.ADV				IAN	spa	herring16		
+2947	516	5	.					IAN	999	herring16		
+2948	517	1	con	with.PREP				IAN	spa	herring16		
+2949	517	2	Pam	name				IAN	eng&spa	herring16		
+2950	517	3	.					IAN	999	herring16		
+2951	518	1	.					IAN	999	herring16		
+2952	519	1	it's	it.PRON.SUB.3S+BE.V.3S.PRES				ABE	eng	herring16		
+2953	519	2	fine	fine.N.SG				ABE	eng	herring16		
+2954	519	3	.					ABE	999	herring16		
+2955	520	1	is	is.V.3S.PRES				IAN	eng	herring16		
+2956	520	2	that	that.CONJ.[or].that.DEM.FAR				IAN	eng	herring16		
+2957	520	3	ok	unk				IAN	eng&spa	herring16		
+2958	520	4	?					IAN	999	herring16		
+2959	521	1	it's	it.PRON.SUB.3S+BE.V.3S.PRES				ABE	eng	herring16		
+2960	521	2	fine	fine.N.SG				ABE	eng	herring16		
+2961	521	3	.					ABE	999	herring16		
+2962	522	1	porque	because.CONJ				IAN	spa	herring16		
+2963	522	2	nunca	never.ADV				IAN	spa	herring16		
+2964	522	3	hacemos	do.V.1P.PRES				IAN	spa	herring16		
+2965	522	4	nada	nothing.PRON				IAN	spa	herring16		
+2966	522	5	solos	only.ADJ.M.PL.[or].only.N.M.PL				IAN	spa	herring16		
+2967	522	6	me	me.PRON.OBL.MF.1S				IAN	spa	herring16		
+2968	522	7	entiendes	understand.V.2S.PRES				IAN	spa	herring16		
+2969	522	8	?					IAN	999	herring16		
+2970	523	1	that's	that.DEM.FAR+BE.V.3S.PRES				ABE	eng	herring16		
+2971	523	2	fine	fine.N.SG				ABE	eng	herring16		
+2972	523	3	.					ABE	999	herring16		
+2973	524	1	you	you.PRON.SUB.2SP				ABE	eng	herring16		
+2974	524	2	don't	do.V.2SP.PRES+NEG				ABE	eng	herring16		
+2975	524	3	have	have.V.INFIN				ABE	eng	herring16		
+2976	524	4	to	to.PREP				ABE	eng	herring16		
+2977	524	5	explain	explain.V.INFIN				ABE	eng	herring16		
+2978	524	6	anything	anything.PRON				ABE	eng	herring16		
+2979	524	7	.					ABE	999	herring16		
+2980	525	1	ahora	now.ADV				IAN	spa	herring16		
+2981	525	2	.					IAN	999	herring16		
+2982	526	1	.					IAN	999	herring16		
+2983	527	1	tengo	have.V.1S.PRES				IAN	spa	herring16		
+2984	527	2	una	a.DET.INDEF.F.SG.[or].one.PRON.F.SG.[or].unite.V.13S.SUBJ.PRES				IAN	spa	herring16		
+2985	527	3	hambre	hunger.N.M.SG				IAN	spa	herring16		
+2986	527	4	de	of.PREP				IAN	spa	herring16		
+2987	527	5	mil	thousand.NUM				IAN	spa	herring16		
+2988	527	6	diablos	devil.N.M.PL				IAN	spa	herring16		
+2989	527	7	te	you.PRON.OBL.MF.2S				IAN	spa	herring16		
+2990	527	8	cuento	tale.N.M.SG.[or].explain.V.1S.PRES				IAN	spa	herring16		
+2991	527	9	eh	eh.IM				IAN	eng&spa	herring16		
+2992	527	10	.					IAN	999	herring16		
+2993	528	1	ahora	now.ADV				ABE	spa	herring16		
+2994	528	2	te	you.PRON.OBL.MF.2S				ABE	spa	herring16		
+2995	528	3	dio	give.V.3S.PAST				ABE	spa	herring16		
+2996	528	4	hambre	hunger.N.M.SG				ABE	spa	herring16		
+2997	528	5	?					ABE	999	herring16		
+(2997 rows)
