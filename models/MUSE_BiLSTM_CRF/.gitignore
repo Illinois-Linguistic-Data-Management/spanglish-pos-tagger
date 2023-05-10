@@ -1,6 +1,0 @@
-*.pt
-.DS_Store
-**/*.DS_Store
-**/*.pyc
-*.pyc
-**/*.pt

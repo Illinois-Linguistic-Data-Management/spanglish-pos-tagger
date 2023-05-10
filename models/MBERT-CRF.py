@@ -27,6 +27,6 @@ def build_and_train_model():
                             reproject_embeddings=False)
     # train model
     trainer = ModelTrainer(tagger, corpus)
-    trainer.train('spanglish-mbert',
+    trainer.train('spanglish-mbert-crf',
                   train_with_dev=True,
                   max_epochs=3)

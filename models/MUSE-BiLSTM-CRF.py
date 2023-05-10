@@ -5,7 +5,7 @@ from flair.datasets import UD_ENGLISH, UD_SPANISH, ColumnCorpus
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 
-from LanguageId import LanguageIdentifier
+from NaiveBayes_LangId import LanguageIdentifier
 
 from pathlib import Path
 from typing import List

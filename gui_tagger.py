@@ -91,7 +91,7 @@ class MainWidget(QtWidgets.QWidget):
              self.updates_text.setText("input and output files must be selected before predicting tags")
              return
         if not self.tagger_model:
-            self.tagger_model = SequenceTagger.load('./models/MBERT-CRF/mbert-3-epochs.pt')
+            self.tagger_model = SequenceTagger.load('./models/gui-model.pt')
         with open(self.output_filename, 'w') as outFile:
             with open(self.input_filename, 'r') as inFile:
                 for line in inFile:
