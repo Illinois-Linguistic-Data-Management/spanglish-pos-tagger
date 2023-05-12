@@ -4,6 +4,13 @@
 
 ### Fine Tuned Multilingual BERT with CRF
 
+#### Description
+
+This model uses Conditional Random Fields with contextualized text embeddings from Google's 110 million parameter [Multilingual Bidirectional Encoder Representations from Transformers (mBERT)](https://arxiv.org/abs/1810.04805) language model as feature inputs for part-of-speech tagging. The Part-of-Speech tagging model was fine tuned on the [Bangor Miami corpus](http://bangortalk.org.uk/speakers.php?c=miami) which contains code switched dialog from native spanish speakers living in the southern United States.
+
+#### Model Intuition
+
+Transformers, introduced in [Viswani et al Attention is All You Need (2017)](https://arxiv.org/abs/1706.03762) are the current state of the art on most sequence to sequence and natural processing tasks as the positional encoding and scaled dot product attention mechanism in Transformers allows for the model to learn contextual relationships between words in a whole sentence just like recurrent neural networks, but Transformers can process each element in a sequence in parallel rather than serially leading to great computational cost benefits. Those computational cost savings have allowed Google to train on an absolutely huge dataset with many many parameters. The appeal of BERT over other Transformer based architectures such as [GPT (Generative Pretrained Transformer)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) is that BERT is a purely Transformer Encoder based model (opposed to Decoder or Encoder-Decoder) meaning that it uses both forward and backward context, in this case as the masked language modeling objective, to generate contextualized dense vector embeddings. The multilingual variant is particularly appealing for our task as both Spanish and English texts were included in the training set so it comes with knowledge of both languages "baked in". I hypothesize that by fine tuning on a dataset with explicit examples of code switching with English and Spanish then the model will be able to learn a relationship between English and Spanish words similar vain that relationships can be learned as demonstrated by Mikolov et al 2013 but within the specific context of part-of-speech tagging.
 
 ### BiLSTM-CRF with Muse Projected Bilingual Word Embeddings and Naive Bayes Language ID
 

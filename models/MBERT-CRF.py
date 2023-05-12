@@ -30,3 +30,5 @@ def build_and_train_model():
     trainer.train('spanglish-mbert-crf',
                   train_with_dev=True,
                   max_epochs=3)
+
+build_and_train_model()
