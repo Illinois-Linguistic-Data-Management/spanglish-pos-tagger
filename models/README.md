@@ -23,7 +23,7 @@ This model uses a simple language model based on 6 grams of characters using an 
 This is used to decide whether to use English or Spanish word embeddings. [Egnlish and Spanish Crosslingual Muse Embeddings](https://github.com/facebookresearch/MUSE), which are [FastText](https://arxiv.org/abs/1607.04606) embeddings that have been projected to a single vector space using a translation algorithm like that proposed in [Exploiting Similarities among Languages for Machine Translation](https://arxiv.org/pdf/1309.4168.pdf).
 The embeddings are used as input for a bidirectional LSTM network that uses conditional random fields for classification.
 
-The model was trained over a shuffled mix of a monolingual English corpus and a Spanish monolingual corpus from the [Universal Dependencies Treebank](https://github.com/UniversalDependencies) and the code switched [Bangor Miami Corpus](http://bangortalk.org.uk/speakers.php?c=miami) which.
+The model was trained over a shuffled mix of a monolingual English corpus and a Spanish monolingual corpus from the [Universal Dependencies Treebank](https://github.com/UniversalDependencies) and the code switched [Bangor Miami Corpus](http://bangortalk.org.uk/speakers.php?c=miami) which contains code switched dialog from native spanish speakers living in the southern United States.
 
 ## Prototype Models
 
