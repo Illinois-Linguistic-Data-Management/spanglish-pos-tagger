@@ -24,16 +24,11 @@ def count_target_word_occurences(line:str, target_word:str, target_lexical_class
 
     # now actually count occurances
     occurances = 0
-    retrace = False # a flag for if the word was retraced/repeated
     for token in tokens:
         word = token.split(".")[0]
         lexical_class = token.split(".")[1]
-        if word == target_word and lexical_class in target_lexical_classes and retrace is False:
+        if word == target_word and lexical_class in target_lexical_classes:
             occurances += 1
-        elif word == "[/]":
-            retrace = True
-        else:
-            retrace = False
     return occurances
 
 def convert_milliseconds_to_seconds(timestamp: str):
@@ -69,7 +64,6 @@ def extract_occurances_and_times_from_cha(filepath: str, target_word:str, target
 if __name__ == "__main__":
     # Example usage: python3 time_distribution_graph.py 107_spanish.cha la/DET/PRON la/DET la/PRON
     cha_file = sys.argv[1]
-    print(sys.argv)
     argc = 0
     for arg in sys.argv:
         argc += 1

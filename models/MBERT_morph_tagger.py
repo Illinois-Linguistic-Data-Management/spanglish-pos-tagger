@@ -2,7 +2,7 @@ from transformers import BertTokenizer, BertModel, AutoTokenizer
 from torch import nn
 from torch import optim
 import torch
-import os
+import os, sys, re
 
 class MBERT_Tagger(nn.Module):
 
@@ -82,13 +82,15 @@ def loadCorpus():
                 del i
                 print(header_idx)
                 for line in file:
+                    if re.match(r'\([0-9]+ rows\)', line):
+                        continue # the last line of each file tells the number of rows in the file, ignore
                 # read the input and re-tokenize
                     try:
                         split_line = line.split('\t')
                         word = split_line[3]
                         annotation = split_line[4]
-                        lang_id = split_line[8]
-                        speaker = split_line[header_idx['speaker']]
+                        #lang_id = split_line[8]
+                        #speaker = split_line[header_idx['speaker']]
                         # get morphological tags
                         morph_tags = []
                         # the data set may contain multiple annotations, we only use the first one
@@ -113,9 +115,10 @@ def loadCorpus():
                         #if len(morph_tags) > 0:
                         train_data_unencoded.append([word, morph_tags])
                     except Exception as e:
-                        print(line)
-                        print("!!", e)
-        #break # only use first file in corpus
+                        print(line, e)
+                        quit()
+                    #    print("!!", e)
+        break # only use first file in corpus
     # once all data has been read, one hot encode the labels
     train_data = []
     sentence_text = []
@@ -136,49 +139,48 @@ def prediction_to_tags(sentence, predictions, idx2tag):
     print("predictions", predictions.shape)
     for i, prediction in enumerate(predictions):
         for j, logit in enumerate(prediction):
-            if logit > 0:
+            if logit >= 0:
                 print(sentence[i], idx2tag[j])
             else:
                 print("logit <= 0")
     return
 
 if __name__ == '__main__':
-    bangor_miami_corpus, tag2idx, idx2tag = loadCorpus()
-    #print("bangor_miami_corpus", bangor_miami_corpus)
-        
+    print(sys.argv)
     tokenizer = AutoTokenizer.from_pretrained("bert-base-multilingual-cased")
-
     classifier = MBERT_Tagger(tokenizer, 6, 4)
-    classifier.enable_gradients()
+    bangor_miami_corpus, tag2idx, idx2tag = loadCorpus()
 
-    # train classifier
-    criterion = nn.BCEWithLogitsLoss()
-    optimizer = optim.SGD(classifier.parameters(), lr=0.01)
-    TRAIN_EPOCHS = 1
-    point_counter = 0
-    corpus_size = len(bangor_miami_corpus)
-    for epoch in range(TRAIN_EPOCHS):
-        print("Epoch: ", epoch+1)
-        for data_point in bangor_miami_corpus:
-            #print(data_point)
-            optimizer.zero_grad()
-            output = classifier(data_point["words"])
-            loss = criterion(output, torch.tensor(data_point["tags"], dtype=float))
-            loss.backward()
-            optimizer.step()
-            point_counter += 1
-            if point_counter % 100 == 0:
-                print(data_point)
-                print("loss", loss)
-                print(str(point_counter) + "/" + str(corpus_size))
+    if sys.argv[1] == "train":
+        # train classifier
+        classifier.enable_gradients()
+        criterion = nn.BCEWithLogitsLoss()
+        optimizer = optim.SGD(classifier.parameters(), lr=0.01)
+        TRAIN_EPOCHS = 1
+        point_counter = 0
+        corpus_size = len(bangor_miami_corpus)
+        for epoch in range(TRAIN_EPOCHS):
+            print("Epoch: ", epoch+1)
+            for data_point in bangor_miami_corpus:
+                #print(data_point)
+                optimizer.zero_grad()
+                output = classifier(data_point["words"])
+                loss = criterion(output, torch.tensor(data_point["tags"], dtype=float))
+                loss.backward()
+                optimizer.step()
+                point_counter += 1
+                if point_counter % 100 == 0:
+                    print(data_point)
+                    print("loss", loss)
+                    print(str(point_counter) + "/" + str(corpus_size))
+        torch.save(classifier.state_dict(), "MBERT-MORPH-Tagger-1-epoch.pt")
 
-    torch.save(classifier.state_dict(), "MBERT-MORPH-Tagger-1-epoch.pt")
+    elif sys.argv[1] == "eval":
+        classifier.state_dict(torch.load('models/MBERT-MORPH-Tagger-1-epoch.pt')) # load the saved model weights
+        classifier.eval()
 
-    # disable training mode
-    classifier.disable_gradients()
+        predictions = classifier(["Ella", "no", "sabe", "hacer", "la", "macerena", "."])
+        prediction_to_tags(["Ella", "no", "sabe", "hacer", "la", "macerena", "."], predictions, idx2tag)
 
-    predictions = classifier(["Ella", "no", "sabe", "hacer", "la", "macerena", "."])
-    prediction_to_tags(["Ella", "no", "sabe", "hacer", "la", "macerena", "."], predictions, idx2tag)
-
-    predictions = classifier(["I'm", "going", "to", "school", "after", "I", "drop", "her", "off", "at", "home", "."])
-    prediction_to_tags(["I'm", "going", "to", "school", "after", "I", "drop", "her", "off", "at", "home", "."], predictions, idx2tag)
+        predictions = classifier(["I'm", "going", "to", "school", "after", "I", "drop", "her", "off", "at", "home", "."])
+        prediction_to_tags(["I'm", "going", "to", "school", "after", "I", "drop", "her", "off", "at", "home", "."], predictions, idx2tag)

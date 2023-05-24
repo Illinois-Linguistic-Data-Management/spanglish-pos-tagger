@@ -58,11 +58,8 @@ class MainWidget(QtWidgets.QWidget):
             try:
                 original_text = line.split("*PAR:\t")[1] # our project spec denotes each utterance begins with *PAR:
                 preprocessed_text = original_text
-                #text = original_text
                 #preprocess out excluded material denoted as <> [e]
-                exluded_text = re.search("<[^>]+> \[e\]", original_text)
-                if exluded_text:
-                    preprocessed_text = original_text[0:exluded_text.start()] + original_text[exluded_text.end():]
+                preprocessed_text = re.sub(r'<.*?>\s*\[e\]', '', preprocessed_text)
                 # preprocess out pause markers
                 if re.search("(\([.]+\))", preprocessed_text):
                     text = ""
@@ -75,6 +72,13 @@ class MainWidget(QtWidgets.QWidget):
                     preprocessed_text = preprocessed_text[0:parentheses.start()] + preprocessed_text[parentheses.start()+1:parentheses.end()-1] + preprocessed_text[parentheses.end():]
                 while parentheses := re.search("\<.+?\>", preprocessed_text):
                     preprocessed_text = preprocessed_text[0:parentheses.start()] + preprocessed_text[parentheses.start()+1:parentheses.end()-1] + preprocessed_text[parentheses.end():]
+                # preprocess out coded items like &-uh and &=coughs
+                preprocessed_text = re.sub(r'&-\w+', '', preprocessed_text)
+                preprocessed_text = re.sub(r'&=\w+', '', preprocessed_text)
+                # preprocess out anything inside brackets []
+                preprocessed_text = re.sub(r'\[[^\]]*\]\s?', '', preprocessed_text)
+                # preprocess out @s tags that are sometimes added to code switched text
+                preprocessed_text = re.sub(r'@s', '', preprocessed_text)
                 # finally, use punctuation to hint removal of timestamps
                 preprocessed_text = preprocessed_text.split(".")[0]
                 preprocessed_text = preprocessed_text.split("?")[0]
@@ -94,16 +98,27 @@ class MainWidget(QtWidgets.QWidget):
             self.tagger_model = SequenceTagger.load('./models/gui-model.pt')
         with open(self.output_filename, 'w') as outFile:
             with open(self.input_filename, 'r') as inFile:
-                for line in inFile:
+                line = inFile.readline() 
+                for next_line in inFile: # we look at two lines at once in case the first line spans two
+                    if line[0] == "@": # comments start with @
+                        line = next_line
+                        outFile.write(line)
+                        continue
+                    if "*PAR:" not in line:
+                        line = next_line
+                        continue
+                    if "*PAR:" in line and not re.search(r'[0-9]_[0-9]', line):
+                        line = line.strip('\n') + " " + next_line.strip(' ').strip('/t') # put lines of the same utterance together
                     outFile.write(line)
                     preprocessed_sentence = self.preprocess_sentence_from_cha(line)
-                    if preprocessed_sentence:
+                    if preprocessed_sentence and len(re.sub(r' ', '', preprocessed_sentence)) != 0:
                         model_sentence = Sentence(preprocessed_sentence)
                         self.tagger_model.predict(model_sentence)
                         outStr = "%pos:"
                         for token in model_sentence:
                             outStr += " " + token.text + "." + token.tag
                         outFile.write(outStr+'\n')
+                    line = next_line
             # write a final comment in the output that it was produced by this tool
             outFile.write("@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on " + str(datetime.datetime.now()))
 
