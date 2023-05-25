@@ -85,6 +85,28 @@ class MainWidget(QtWidgets.QWidget):
                 return preprocessed_text
             except:
                 pass # print("failed to parse", line)
+
+    def parse_utterances_from_cha(self):
+        utterances = []
+        with open(self.input_filename, 'r') as inFile:
+            raw_lines = [line for line in inFile]
+            i = 0
+            while i < len(raw_lines):
+                line = raw_lines[i]
+                if raw_lines[i][0] == "@":
+                    utterances.append(line)
+                    i+=1
+                elif "*PAR:" in raw_lines[i][:10]: # each utterance by the participant starts with this marker
+                    if re.search(r'[0-9]_[0-9]', line):
+                        i+=1
+                    else:
+                        while not re.search(r'[0-9]_[0-9]', line): # CLAN forces a new line on long utterances, the timestamp is at the end of all utterances
+                            i+=1
+                            line += raw_lines[i]
+                    utterances.append(line)
+                else:
+                    i+=1
+        return utterances
     
     @QtCore.Slot()
     def predict_tags(self):
@@ -96,32 +118,23 @@ class MainWidget(QtWidgets.QWidget):
              return
         if not self.tagger_model:
             self.tagger_model = SequenceTagger.load('./models/gui-model.pt')
+
         with open(self.output_filename, 'w') as outFile:
-            with open(self.input_filename, 'r') as inFile:
-                line = inFile.readline() 
-                for next_line in inFile: # we look at two lines at once in case the first line spans two
-                    if line[0] == "@": # comments start with @
-                        line = next_line
-                        outFile.write(line)
-                        continue
-                    if "*PAR:" not in line:
-                        line = next_line
-                        continue
-                    if "*PAR:" in line and not re.search(r'[0-9]_[0-9]', line):
-                        line = line.strip('\n') + " " + next_line.strip(' ').strip('/t') # put lines of the same utterance together
-                    outFile.write(line)
-                    preprocessed_sentence = self.preprocess_sentence_from_cha(line)
-                    if preprocessed_sentence and len(re.sub(r' ', '', preprocessed_sentence)) != 0:
-                        model_sentence = Sentence(preprocessed_sentence)
-                        self.tagger_model.predict(model_sentence)
-                        outStr = "%pos:"
-                        for token in model_sentence:
-                            outStr += " " + token.text + "." + token.tag
-                        outFile.write(outStr+'\n')
-                    line = next_line
+            utterances = self.parse_utterances_from_cha()
+            for utterance in utterances:
+                print("utterance", utterance)
+                outFile.write(utterance)
+                preprocessed_sentence = self.preprocess_sentence_from_cha(utterance)
+                print("preprocessed_sentence", preprocessed_sentence)
+                if preprocessed_sentence and len(re.sub(r' ', '', preprocessed_sentence)) != 0:
+                    model_sentence = Sentence(preprocessed_sentence)
+                    self.tagger_model.predict(model_sentence)
+                    outStr = "%pos:"
+                    for token in model_sentence:
+                        outStr += " " + token.text + "." + token.tag
+                    outFile.write(outStr+'\n')
             # write a final comment in the output that it was produced by this tool
             outFile.write("@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on " + str(datetime.datetime.now()))
-
                     
 
 class MainWindow(QtWidgets.QMainWindow):

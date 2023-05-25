@@ -1,3 +1,4 @@
+@UTF8
 @Window:	0_0_0_0_1343_0_1718_0_1718_0
 @Begin
 @Languages:	spa,eng
@@ -8,16 +9,19 @@
 %pos: un.DET día.NOUN ,.PUNCT he.VERB una.DET niña.NOUN
 *PAR:	y tenía una [: un][*] abrigo muy, muy, muy rojo . 5171_12296
 %pos: y.CCONJ tenía.VERB una.DET abrigo.NOUN muy.ADV ,.PUNCT muy.ADV ,.PUNCT muy.ADV rojo.ADJ
-*PAR:	y (..) ella ten(ía) [/] tenía una [: un][*] vestido azul con flores 	rosado [: rosadas][*] (.) y zapatos, el color mismo de su abrigo . 12296_33112
+*PAR:	y (..) ella ten(ía) [/] tenía una [: un][*] vestido azul con flores
+	rosado [: rosadas][*] (.) y zapatos, el color mismo de su abrigo . 12296_33112
 %pos: y.CCONJ ella.PRON tenía.VERB tenía.VERB una.DET vestido.NOUN azul.ADJ con.ADP flores.NOUN rosado.ADJ y.CCONJ zapatos.NOUN ,.PUNCT el.DET color.NOUN mismo.ADJ de.ADP su.DET abrigo.NOUN
 *PAR:	<próximo> [e] . 33112_36236
 *PAR:	<RES> [e] . 36236_39096
-*PAR:	un día, fue (.) de su casa <al bos(que)> [/] al bosque traer 	[: trayendo][*] unas pasteles a su abuela . 39096_54716
+*PAR:	un día, fue (.) de su casa <al bos(que)> [/] al bosque traer
+	[: trayendo][*] unas pasteles a su abuela . 39096_54716
 %pos: un.DET día.NOUN ,.PUNCT fue.VERB de.ADP su.DET casa.NOUN al.ADP bosque.NOUN al.ADP bosque.NOUN traer.VERB unas.DET pasteles.NOUN a.ADP su.DET abuela.NOUN
 *PAR:	porque su abuela tenía [: estaba][*] muy enferma . 54716_58756
 %pos: porque.SCONJ su.DET abuela.NOUN tenía.VERB muy.ADV enferma.ADJ
 *PAR:	<RES> [e] . 58756_60601
-*PAR:	xxx cuando ella era [: estaba][*] caminando, con su abrigo rojo 	and (.) su bolsa con (.) pasteles, un (.) animal le atacó . 60601_83241
+*PAR:	xxx cuando ella era [: estaba][*] caminando, con su abrigo rojo
+	and (.) su bolsa con (.) pasteles, un (.) animal le atacó . 60601_83241
 %pos: xxx.ADV cuando.SCONJ ella.PRON era.AUX caminando.VERB ,.PUNCT con.ADP su.DET abrigo.NOUN rojo.ADJ and.CCONJ su.DET bolsa.NOUN con.ADP pasteles.NOUN ,.PUNCT un.DET animal.NOUN le.PRON atacó.VERB
 *PAR:	<RES> [e] . 83241_84271
 *PAR:	o trató atacar . 84271_87175
@@ -37,7 +41,8 @@
 *PAR:	<RES> [e] . 106761_109441
 *PAR:	&-um ella le [: se][*] quedó (.) &-um a (.) agarrar flores . 109441_122796
 %pos: ella.PRON le.PRON quedó.VERB a.ADP agarrar.VERB flores.NOUN
-*PAR:	y la [: el][*] animal le [: se][*] fue a [: para][*] la casa de su 	abuelo [: abuela][*] . 122796_127251
+*PAR:	y la [: el][*] animal le [: se][*] fue a [: para][*] la casa de su
+	abuelo [: abuela][*] . 122796_127251
 %pos: y.CCONJ la.DET animal.NOUN le.PRON fue.VERB a.ADP la.DET casa.NOUN de.ADP su.DET abuelo.NOUN
 *PAR:	<próximo> [e] . 127251_130421
 *PAR:	<RES> [e] . 130421_132220
@@ -59,8 +64,9 @@
 %pos: y.CCONJ la.DET niña.NOUN le.PRON vi.VERB a.ADP su.DET abuela.NOUN y.CCONJ dijo.VERB +"/.SYM
 *PAR:	+" cuales [: que][*] orejas tienes tan grandes, abuela . 180561_184541
 %pos: +".SYM cuales.DET orejas.NOUN tienes.VERB tan.ADV grandes.ADJ ,.PUNCT abuela.NOUN
-*PAR:	+" <y sus [: tus][*] osos> [///] y sus [: tus][*] ojos <son muy 	largos> [///] son muy grandes y amarillo [: amarillos][*] . 184541_193446
-%pos: +".SYM y.CCONJ sus.DET osos.NOUN y.CCONJ sus.DET ojos.NOUN son.AUX muy.ADV largos.ADJ son.AUX muy.ADV grandes.ADJ y.CCONJ amarillo.ADJ
+*PAR:	+" <y sus [: tus][*] osos> [///] y sus [: tus][*] ojos <son muy
+	largos> [///] son muy grandes y amarillo [: amarillos][*] . 184541_193446
+%pos: +".SYM y.CCONJ sus.DET osos.NOUN y.CCONJ sus.DET ojos.NOUN <.PUNCT son.AUX muy.ADV largos.ADJ >.PUNCT son.AUX muy.ADV grandes.ADJ y.CCONJ amarillo.ADJ
 *PAR:	<próximo> [e] . 193446_194866
 *PAR:	y la [: el][*] animal le atacó . 194866_201826
 %pos: y.CCONJ la.DET animal.NOUN le.PRON atacó.VERB
@@ -77,19 +83,24 @@
 %pos: y.CCONJ le.PRON atacó.VERB a.ADP la.DET animal.NOUN
 *PAR:	<próximo> [e] . 231056_238081
 *PAR:	<RES> [e] . 238081_240556
-*PAR:	y le corto a la [: el][*] estómigo [: estómago][*], el hombre, de la 	[: el][*] animal . 240556_248996
+*PAR:	y le corto a la [: el][*] estómigo [: estómago][*], el hombre, de la
+	[: el][*] animal . 240556_248996
 %pos: y.CCONJ le.PRON corto.VERB a.ADP la.DET estómigo.NOUN ,.PUNCT el.DET hombre.NOUN ,.PUNCT de.ADP la.DET animal.NOUN
-*PAR:	y le quitó &-um del estomigó [: estómago][*] de la [: el][*] animal 	la abuela (.) y (.) la (.) niña con la [: el][*] abrigo roja [: rojo][*] . 248996_263021
+*PAR:	y le quitó &-um del estomigó [: estómago][*] de la [: el][*] animal
+	la abuela (.) y (.) la (.) niña con la [: el][*] abrigo roja
+	[: rojo][*] . 248996_263021
 %pos: y.CCONJ le.PRON quitó.VERB del.ADP estomigó.VERB de.ADP la.DET animal.NOUN la.DET abuela.NOUN y.CCONJ la.DET niña.NOUN con.ADP la.DET abrigo.NOUN roja.ADJ
 *PAR:	<próximo> [e] . 263021_264771
 *PAR:	y (.) le traí [: trajo][*] rocas . 264771_271092
 %pos: y.CCONJ le.PRON traí.VERB rocas.NOUN
-*PAR:	y le poní [: puso][*] rocas adentro para mirar como es [: son][*] 	los [: las][*] personas . 271092_278686
+*PAR:	y le poní [: puso][*] rocas adentro para mirar como es [: son][*]
+	los [: las][*] personas . 271092_278686
 %pos: y.CCONJ le.PRON poní.VERB rocas.NOUN adentro.ADV para.SCONJ mirar.VERB como.ADV es.VERB los.DET personas.NOUN
 *PAR:	y le poní [: puso][*] junto el estómigo [: estómago][*] otra vez . 278686_283833
 %pos: y.CCONJ le.PRON poní.VERB junto.ADJ el.DET estómigo.NOUN otra.DET vez.NOUN
 *PAR:	<próximo> [e] . 283833_284896
-*PAR:	y (.) los [: las][*] rocas eran muy, muy, muy, muy, muy &-um secos 	[: secas][*] . 284896_298871
+*PAR:	y (.) los [: las][*] rocas eran muy, muy, muy, muy, muy &-um secos
+	[: secas][*] . 284896_298871
 %pos: y.CCONJ los.DET rocas.NOUN eran.AUX muy.ADV ,.PUNCT muy.ADV ,.PUNCT muy.ADV ,.PUNCT muy.ADV ,.PUNCT muy.ADV secos.ADJ
 *PAR:	y él quería agua . 298871_301824
 %pos: y.CCONJ él.PRON quería.VERB agua.NOUN
@@ -107,4 +118,5 @@
 %pos: y.CCONJ el.DET animal.NOUN siempre.ADV no.ADV más.ADV le.PRON atacó.VERB a.ADP la.DET niña.NOUN
 *PAR:	y la niña no le vi a la [: el][*] animal no más . 341966_346236
 %pos: y.CCONJ la.DET niña.NOUN no.ADV le.PRON vi.VERB a.ADP la.DET animal.NOUN no.ADV más.ADV
-@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-24 09:12:17.999808
+@End
+@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-24 19:39:53.566856
