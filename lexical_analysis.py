@@ -178,7 +178,7 @@ class LexicalAnalysisTool:
             return 0
 
     def to_csv_row(self):
-        return f'{self.main_language},{self.participant_id},{self.words_count},{round(convert_milliseconds_to_minutes(self.speaking_time), 3)},{round(self.words_count / convert_milliseconds_to_minutes(self.speaking_time), 3)},{self.types_count},{self.tokens_count},{self.calc_ratio(self.types_count, self.tokens_count)},{self.english_types_count},{self.english_tokens_count},{self.calc_ratio(self.english_types_count, self.english_tokens_count)},{self.spanish_types_count},{self.spanish_tokens_count},{self.calc_ratio(self.spanish_types_count,self.tokens_count)},{self.disfluencies_count},{self.calc_ratio(self.words_count,self.disfluencies_count)}'
+        return f'{self.main_language},{self.participant_id},{self.words_count},{round(convert_milliseconds_to_minutes(self.speaking_time), 3)},{round(self.words_count / convert_milliseconds_to_minutes(self.speaking_time), 3)},{self.types_count},{self.tokens_count},{self.calc_ratio(self.types_count, self.tokens_count)},{self.english_types_count},{self.english_tokens_count},{self.calc_ratio(self.english_types_count, self.english_tokens_count)},{self.spanish_types_count},{self.spanish_tokens_count},{self.calc_ratio(self.spanish_types_count,self.tokens_count)},{self.disfluencies_count},{self.calc_ratio(self.disfluencies_count,self.words_count)}'
         
 
     def tally_token(self, token, code_switch=False):
