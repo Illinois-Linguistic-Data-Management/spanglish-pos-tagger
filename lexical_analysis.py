@@ -106,12 +106,8 @@ class CorpusAnalysisTool:
         with open(output_path, 'w') as outFile:
         # write headers
             outFile.write("language,participant_id,words,minutes,wpm,types,tokens,ttr,english_types,english_tokens,english_ttr,spanish_types,spanish_tokens,spanish_ttr,disfluencies,fluency_score\n")
-            i = 0
             for file in files:
                 try:
-                    i += 1
-                    if i > 10:
-                        break
                     outFile.write(LexicalAnalysisTool(file).to_csv_row())
                     outFile.write("\n")
                 except:
@@ -240,10 +236,10 @@ class LexicalAnalysisTool:
         return count
 
 if __name__ == "__main__":
-    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 100)', "lexical_counts_100.csv")
-    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 200)', "lexical_counts_200.csv")
-    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 300)', "lexical_counts_300.csv")
-    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 400)', "lexical_counts_400.csv")
-    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 500)', "lexical_counts_500.csv")
-    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 600)', "lexical_counts_600.csv")
-    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 700)', "lexical_counts_700.csv")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 100)', "lexical_analysis_data_frames/lexical_counts_100.csv")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 200)', "lexical_analysis_data_frames/lexical_counts_200.csv")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 300)', "lexical_analysis_data_frames/lexical_counts_300.csv")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 400)', "lexical_analysis_data_frames/lexical_counts_400.csv")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 500)', "lexical_analysis_data_frames/lexical_counts_500.csv")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 600)', "lexical_analysis_data_frames/lexical_counts_600.csv")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 700)', "lexical_analysis_data_frames/lexical_counts_700.csv")
