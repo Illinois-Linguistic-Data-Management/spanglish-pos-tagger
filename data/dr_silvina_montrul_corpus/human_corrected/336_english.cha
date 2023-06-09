@@ -27,14 +27,14 @@
 *PAR:	<and then> [//] and with the (.) big bad wolf still (.) chasing her (...) +... 85291_106761
 %pos: and.CCONJ then.ADV and.CCONJ with.ADP the.DET big.ADJ bad.ADJ wolf.NOUN still.ADV chasing.VERB her.PRON +.SYM
 *PAR:	then (...) the big bad wolf (..) xxx her mother. 106761_113737
-%pos: then.ADV the.DET big.ADJ bad.ADJ wolf.NOUN xxx.VERB her.PRON mother.NOUN
+%pos: then.ADV the.DET big.ADJ bad.ADJ wolf.NOUN xxx.X her.PRON mother.NOUN
 *PAR:	<and started> [//] (...) and pretended to be her mother (..). 113737_120995
 %pos: and.CCONJ started.VERB and.CCONJ pretended.VERB to.PART be.AUX her.PRON mother.NOUN
 *PAR:	<RES> [e]. 120995_126892
 *PAR:	when she gave (...) the food that (..) she bought (..) +... 126892_135265
 %pos: when.CCONJ she.PRON gave.VERB the.DET food.NOUN that.CCONJ she.PRON bought.VERB +.SYM
 *PAR:	then (.) she gave the xxx to (...) the wolf (...). 135265_147898
-%pos: then.ADV she.PRON gave.VERB the.DET xxx.NOUN to.ADP the.DET wolf.NOUN
+%pos: then.ADV she.PRON gave.VERB the.DET xxx.X to.ADP the.DET wolf.NOUN
 *PAR:	<RES> [e]? 147898_150228
 *PAR:	<yeah (.)> [e]. 150228_151110
 *PAR:	<RES> [e]? 151110_154809
@@ -70,3 +70,4 @@
 %pos: and.CCONJ then.ADV everybody.PRON was.AUX relieved.VERB
 @End
 @Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-24 20:04:54.372285
+@Comment: %pos tags were corrected by Ben Evanoff on 2023-06-04 12:49:40

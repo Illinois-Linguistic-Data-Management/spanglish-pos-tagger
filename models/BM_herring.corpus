@@ -136,7 +136,7 @@ and CCONJ
 the DET
 only ADJ
 time NOUN
-that CCONJ
+that PRON
 we PRON
 like VERB
 actually ADV
@@ -200,20 +200,20 @@ bro NOUN
 when CCONJ
 I PRON
 I PRON
-still ADJ
+still ADV
 have VERB
 my ADJ
 hard ADJ
 . PUNCT
 he PRON
-still ADJ
-has X
+still ADV
+has VERB
 my ADJ
-hard ADJ
-drive VERB
+hard NOUN
+drive NOUN
 . PUNCT
 I PRON
-still ADJ
+still ADV
 have VERB
 n't PART
 gone VERB
@@ -221,7 +221,7 @@ to ADP
 get VERB
 it PRON
 . PUNCT
-been VERB
+been AUX
 there ADV
 for ADP
 like CCONJ
@@ -241,7 +241,7 @@ bro NOUN
 . PUNCT
 I PRON
 've PART
-lost ADJ
+lost VERB
 two NUM
 already ADV
 because CCONJ
@@ -277,7 +277,7 @@ he PRON
 does VERB
 n't PART
 know VERB
-where DET
+where SCONJ
 the DET
 hell NOUN
 they PRON
@@ -297,7 +297,7 @@ knows VERB
 usually ADV
 he PRON
 knows VERB
-where DET
+where SCONJ
 it PRON
 is VERB
 . PUNCT
@@ -320,7 +320,7 @@ know VERB
 . PUNCT
 he PRON
 said VERB
-there ADV
+there PRON
 was VERB
 something PRON
 wrong ADJ
@@ -332,7 +332,7 @@ um INTJ
 watch VERB
 that DET
 girl NOUN
-that CCONJ
+that PRON
 walks VERB
 like CCONJ
 a DET
@@ -351,15 +351,15 @@ girl NOUN
 from ADP
 the DET
 gym NOUN
-right ADJ
+right ADV
 ? PUNCT
 
 yeah ADV
 she PRON
-lives NOUN
+lives VERB
 in ADP
 the DET
-Everglades X
+Everglades PRON
 . PUNCT
 but CCONJ
 um INTJ
@@ -369,7 +369,7 @@ does VERB
 n't PART
 . PUNCT
 he PRON
-says NOUN
+says VERB
 he PRON
 's PART
 got VERB
@@ -392,7 +392,7 @@ work NOUN
 like CCONJ
 he PRON
 actually ADV
-has X
+has VERB
 a DET
 person NOUN
 that CCONJ
@@ -401,7 +401,7 @@ him PRON
 in ADP
 another ADJ
 class NOUN
-check NOUN
+check VERB
 all ADJ
 the DET
 work NOUN
@@ -438,12 +438,12 @@ I PRON
 do VERB
 n't PART
 know VERB
-what DET
-to ADP
+what PRON
+to PART
 tell VERB
 you PRON
 about ADP
-your ADJ
+your PRON
 flash NOUN
 drive NOUN
 . PUNCT
@@ -455,7 +455,7 @@ two NUM
 other ADJ
 . PUNCT
 I PRON
-figured X
+figured VERB
 another ADJ
 one PRON
 . PUNCT
@@ -469,7 +469,7 @@ the DET
 last ADJ
 time NOUN
 we PRON
-turned X
+turned VERB
 all ADJ
 our ADJ
 projects NOUN
@@ -481,10 +481,10 @@ he PRON
 's PART
 losing VERB
 the DET
-harddrive X
+harddrive NOUN
 the DET
 the DET
-flashdrive X
+flashdrive NOUN
 ? PUNCT
 
 I PRON
@@ -535,7 +535,7 @@ grades NOUN
 in ADP
 in ADP
 and CCONJ
-stuff VERB
+stuff NOUN
 . PUNCT
 dale VERB
 ! PUNCT
@@ -555,8 +555,8 @@ that DET
 anatomy NOUN
 class NOUN
 something PRON
-is VERB
-pretty ADJ
+is AUX
+pretty ADV
 hard ADJ
 man NOUN
 . PUNCT
@@ -564,13 +564,13 @@ man NOUN
 um INTJ
 that DET
 's PART
-what DET
+what PRON
 I PRON
 thought VERB
 . PUNCT
 take VERB
 the DET
-nights ADV
+nights NOUN
 bro NOUN
 . PUNCT
 
@@ -587,7 +587,7 @@ thought VERB
 you PRON
 said VERB
 the DET
-advanced VERB
+advanced ADJ
 class NOUN
 of ADP
 that DET
@@ -595,13 +595,13 @@ that DET
 
 you PRON
 have VERB
-to ADP
+to PART
 take VERB
 the DET
-advanced VERB
+advanced ADJ
 class NOUN
 of ADP
-that DET
+that PRON
 . PUNCT
 
 yeah ADV
@@ -609,11 +609,11 @@ yeah ADV
 
 does VERB
 n't PART
-Dan X
+Dan PROPN
 know VERB
 everything PRON
 about ADP
-that DET
+that PRON
 ? PUNCT
 
 I PRON
@@ -633,11 +633,11 @@ him PRON
 
 he PRON
 had VERB
-to ADP
+to PART
 have VERB
 taken VERB
 it PRON
-right ADJ
+right ADV
 ? PUNCT
 
 yeah ADV
@@ -661,12 +661,12 @@ and CCONJ
 then ADV
 I PRON
 have VERB
-advanced VERB
+advanced ADJ
 computer NOUN
 application NOUN
 . PUNCT
 
-what X
+what PRON
 's PART
 your ADJ
 major NOUN
@@ -710,7 +710,7 @@ car NOUN
 bro NOUN
 . PUNCT
 
-what DET
+what INTJ
 ? PUNCT
 
 that CCONJ
@@ -748,7 +748,7 @@ a DET
 two NUM
 thousand NUM
 one NUM
-Honda_Civic X
+Honda_Civic PRON
 like CCONJ
 with ADP
 leather NOUN
@@ -763,9 +763,9 @@ got VERB
 a DET
 lot NOUN
 of ADP
-extras X
+extras NOUN
 and CCONJ
-stuff VERB
+stuff NOUN
 . PUNCT
 it PRON
 's PART
@@ -810,7 +810,7 @@ yeah ADV
 . PUNCT
 
 fifty NUM
-what DET
+what PRON
 thousand NUM
 ? PUNCT
 
@@ -861,7 +861,7 @@ when CCONJ
 she PRON
 was VERB
 in ADP
-high ADJ
+high NOUN
 school NOUN
 . PUNCT
 she PRON
@@ -882,12 +882,12 @@ went VERB
 to ADP
 college NOUN
 or CCONJ
-whatever DET
+whatever PRON
 . PUNCT
 and CCONJ
 and CCONJ
 like CCONJ
-did ADV
+did VERB
 n't PART
 drive VERB
 . PUNCT
@@ -895,7 +895,7 @@ she PRON
 she PRON
 went VERB
 to ADP
-U_S_F X
+U_S_F PROPN
 . PUNCT
 so ADV
 at ADP
@@ -905,11 +905,11 @@ it PRON
 's PART
 not ADV
 like CCONJ
-Miami X
+Miami PROPN
 like CCONJ
 you PRON
 know VERB
-what DET
+what PRON
 I PRON
 mean VERB
 ? PUNCT
@@ -968,11 +968,11 @@ drove VERB
 and CCONJ
 then ADV
 she PRON
-graduated NOUN
+graduated VERB
 from ADP
 when CCONJ
 she PRON
-graduated NOUN
+graduated VERB
 from ADP
 college NOUN
 and CCONJ
@@ -981,7 +981,7 @@ that DET
 job NOUN
 working VERB
 in ADP
-New_Jersey X
+New_Jersey PROPN
 . PUNCT
 
 uhuh INTJ
@@ -999,8 +999,8 @@ grand ADJ
 a DET
 year NOUN
 like CCONJ
-right ADJ
-outta X
+right ADV
+outta ADV
 college NOUN
 banking NOUN
 . PUNCT
@@ -1020,13 +1020,13 @@ car NOUN
 and CCONJ
 and CCONJ
 she PRON
-just ADJ
+just ADV
 kept ADV
 that DET
 car NOUN
 you PRON
 know VERB
-what DET
+what PRON
 I PRON
 mean VERB
 ? PUNCT
@@ -1268,11 +1268,11 @@ he PRON
 's PART
 back ADV
 in ADP
-Arizona X
+Arizona PROPN
 so ADV
 . PUNCT
 but CCONJ
-whatever DET
+whatever INTJ
 man NOUN
 I PRON
 've PART
@@ -1287,7 +1287,7 @@ bro NOUN
 
 I PRON
 heard VERB
-Jersey X
+Jersey PROPN
 is VERB
 like CCONJ
 a DET
@@ -1297,10 +1297,10 @@ it PRON
 a DET
 very ADV
 like CCONJ
-just ADJ
+just ADV
 the DET
 sun NOUN
-does NOUN
+does VERB
 n't PART
 come NOUN
 out ADV
@@ -1331,9 +1331,9 @@ when CCONJ
 I PRON
 up ADV
 to ADP
-New_York X
+New_York PROPN
 with ADP
-Adam X
+Adam PROPN
 this DET
 summer NOUN
 um INTJ
@@ -1352,19 +1352,19 @@ higher ADJ
 
 like CCONJ
 the DET
-farther ADV
-farther ADV
+farther ADJ
+farther ADJ
 north NOUN
 you PRON
 go VERB
 it PRON
-just ADJ
+just ADV
 gets NOUN
 uglier ADJ
 . PUNCT
 like CCONJ
-Florida X
-is VERB
+Florida PROPN
+is AUX
 chill NOUN
 and CCONJ
 nice ADJ
@@ -1376,7 +1376,7 @@ you PRON
 know VERB
 nice ADJ
 and CCONJ
-green NOUN
+green ADJ
 . PUNCT
 and CCONJ
 then ADV
@@ -1384,7 +1384,7 @@ you PRON
 get VERB
 to ADP
 like CCONJ
-Atlanta X
+Atlanta PROPN
 . PUNCT
 and CCONJ
 it PRON
@@ -1406,22 +1406,22 @@ city NOUN
 yeah ADV
 . PUNCT
 
-whatever DET
+whatever INTJ
 . PUNCT
 and CCONJ
 then ADV
 in ADP
-Georgia X
+Georgia PROPN
 and CCONJ
 in ADP
-North_Carolina X
+North_Carolina PROPN
 . PUNCT
 
 but CCONJ
 were VERB
 you PRON
 there ADV
-during X
+during ADP
 the DET
 summer NOUN
 ? PUNCT
@@ -1430,11 +1430,11 @@ bro NOUN
 I PRON
 drove VERB
 from ADP
-Orlando X
+Orlando PROPN
 I PRON
 drove VERB
 from ADP
-Tampa X
+Tampa PROPN
 well ADV
 from ADP
 four NUM
@@ -1443,8 +1443,8 @@ all ADJ
 the DET
 way NOUN
 to ADP
-Buffalo X
-New_York X
+Buffalo PROPN
+New_York PROPN
 over ADV
 the DET
 summer NOUN
@@ -1465,7 +1465,7 @@ I PRON
 started VERB
 here ADV
 at ADP
-F_I_U X
+F_I_U X PROPN
 at ADP
 for ADP
 for ADP
@@ -1503,8 +1503,8 @@ here ADV
 it PRON
 's PART
 all ADJ
-like CCONJ
-farming X
+like ADV
+farming NOUN
 . PUNCT
 
 yeah ADV
@@ -1514,7 +1514,7 @@ yeah ADV
 it PRON
 's PART
 not ADV
-like CCONJ
+like ADV
 up ADV
 up ADV
 there ADV
@@ -1522,13 +1522,13 @@ there ADV
 it PRON
 's PART
 all ADJ
-like CCONJ
+like ADV
 textiles NOUN
 and CCONJ
-like CCONJ
+like ADV
 factories NOUN
 and CCONJ
-stuff VERB
+stuff NOUN
 . PUNCT
 
 yeah ADV
@@ -1537,19 +1537,19 @@ yeah ADV
 so ADV
 it PRON
 says NOUN
-like CCONJ
+like ADV
 on ADP
 the DET
 highways NOUN
 and CCONJ
-stuff VERB
+stuff NOUN
 it PRON
 says NOUN
-like CCONJ
+like ADV
 . PUNCT
 oh INTJ
 smog NOUN
-alert ADJ
+alert NOUN
 today NOUN
 from ADP
 five NUM
@@ -1557,15 +1557,15 @@ to ADP
 seven NUM
 P_M X
 or CCONJ
-whatever DET
+whatever PRON
 . PUNCT
 and CCONJ
 so ADV
 it PRON
 's PART
-always X
 always ADV
-just ADJ
+always ADV
+just ADV
 looks NOUN
 cloudy ADJ
 but CCONJ
@@ -1577,14 +1577,14 @@ clouds NOUN
 it PRON
 's PART
 just ADV
-smoke VERB
+smoke NOUN
 and CCONJ
 fog NOUN
 and CCONJ
 . PUNCT
 
-that CCONJ
-sucks INTJ
+that PRON
+sucks VERB
 man NOUN
 . PUNCT
 
@@ -1593,21 +1593,22 @@ yeah ADV
 but CCONJ
 where DET
 she PRON
-lives NOUN
+lives VERB
 in ADP
-Princeton X
+Princeton PROPN
 is VERB
-like CCONJ
+like ADP
 a DET
 nice ADJ
 area NOUN
-like CCONJ
+like ADP
 a DET
 nice ADJ
 city NOUN
 in ADP
 in ADP
-New_Jersey X
+New PROPN
+Jersey PROPN
 so ADV
 . PUNCT
 
@@ -1634,42 +1635,42 @@ told VERB
 you PRON
 my ADJ
 boss NOUN
-is VERB
+is AUX
 from ADP
-Jersey X
+Jersey PROPN
 . PUNCT
 
 yeah ADV
 . PUNCT
 
-his ADJ
+his PRON
 whole ADJ
 life NOUN
-and CCONJ
+and SCONJ
 he PRON
 tells VERB
 me PRON
 that DET
-everyday ADJ
-like CCONJ
+everyday ADV
+like SCONJ
 he PRON
 would VERB
 just ADV
-be VERB
-depressed VERB
-because CCONJ
+be AUX
+depressed ADJ
+because SCONJ
 . PUNCT
 
 this DET
-is VERB
+is AUX
 how ADV
 it PRON
-is VERB
+is AUX
 up ADV
 there ADV
 . PUNCT
 
-like CCONJ
+like ADV
 the DET
 sun NOUN
 barely ADV
@@ -1685,7 +1686,7 @@ you PRON
 ever ADV
 been VERB
 in ADP
-New_York X
+New_York PROPN
 or CCONJ
 anything PRON
 man NOUN
@@ -1696,18 +1697,18 @@ no ADV
 . PUNCT
 
 bro NOUN
-that X
+that PRON
 's PART
 how ADV
 it PRON
 is VERB
-always X
+always ADV
 up ADV
 there ADV
 it PRON
-just ADJ
+just ADV
 it PRON
-just ADJ
+just ADV
 looks NOUN
 dark ADJ
 . PUNCT
@@ -9610,11 +9611,11 @@ birds NOUN
 . PUNCT
 in ADP
 my ADJ
-wedding X
+wedding NOUN
 yeah ADV
 it's PRON
-our ADJ
-wedding X
+our PRON
+wedding NOUN
 day NOUN
 . PUNCT
 they PRON
@@ -9638,7 +9639,7 @@ they PRON
 can VERB
 go VERB
 on ADP
-their ADJ
+their DET
 own PRON
 . PUNCT
 
@@ -94589,4 +94590,3 @@ ex ADP
 loco ADJ
 . PUNCT
 . PUNCT
-

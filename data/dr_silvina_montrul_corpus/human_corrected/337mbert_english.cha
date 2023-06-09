@@ -46,8 +46,8 @@
 *PAR:	<RES> [e]. 115006_117821
 *PAR:	the wolf &-mm (..) went inside the house (...). 117821_121812
 %pos: the.DET wolf.NOUN went.VERB inside.ADP the.DET house.NOUN
-*PAR:	grabbed (.) the granny out 0of her bed (...). 121812_125854
-%pos: grabbed.VERB the.DET granny.NOUN out.ADV 0of.ADP her.PRON bed.NOUN
+*PAR:	grabbed (.) the granny out of her bed (...). 121812_125854
+%pos: grabbed.VERB the.DET granny.NOUN out.ADV of.ADP her.PRON bed.NOUN
 *PAR:	and +... 125854_126808
 %pos: and.CCONJ +.SYM
 *PAR:	<next (...)> [e]. 126808_131169
@@ -73,8 +73,8 @@
 %pos: because.SCONJ she.PRON caught.VERB the.DET wolf.NOUN
 *PAR:	and the wolf was really angry (..) so he knocked everything over. 170486_175113
 %pos: and.CCONJ the.DET wolf.NOUN was.AUX really.ADV angry.ADJ so.ADV he.PRON knocked.VERB everything.PRON over.ADV
-*PAR:	and then started to chase 0the little girl (...). 175113_178305
-%pos: and.CCONJ then.ADV started.VERB to.PART chase.VERB 0the.ADV little.ADJ girl.NOUN
+*PAR:	and then started to chase the little girl (...). 175113_178305
+%pos: and.CCONJ then.ADV started.VERB to.PART chase.VERB the.ADV little.ADJ girl.NOUN
 *PAR:	<next (...)> [e]. 178305_182151
 *PAR:	and then (..), he ate the little girl (..). 182151_185605
 %pos: and.CCONJ then.ADV ,.PUNCT he.PRON ate.VERB the.DET little.ADJ girl.NOUN

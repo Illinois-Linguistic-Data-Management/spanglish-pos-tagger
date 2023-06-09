@@ -19,7 +19,7 @@ def build_and_train_model():
 
     # initalize model
     tagger = SequenceTagger(hidden_size=256,
-                            embeddings=TransformerWordEmbeddings('bert-base-multilingual-cased ', layers='-1', fine_tune=True, subtoken_pooling='first_last'),
+                            embeddings=TransformerWordEmbeddings('bert-base-multilingual-cased', layers='-1', fine_tune=True, subtoken_pooling='first_last'),
                             tag_dictionary=tag_dictionary,
                             tag_type='upos',
                             use_rnn=False,

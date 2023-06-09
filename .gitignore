@@ -5,3 +5,5 @@
 *.pyc
 **/*.pt
 /*/*.pt
+transcriptions/*
+transcriptions/**
