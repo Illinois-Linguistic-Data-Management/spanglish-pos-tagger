@@ -1,4 +1,4 @@
-import os
+import os, csv
 
 translation_dict = {'ADV': 'ADV', 'PRON': 'PRON', 'V': 'VERB', 'PREP': 'ADP', 'DET': 'DET',
                     'N': 'NOUN', 'CONJ': 'CCONJ', 'ADJ': 'ADJ', 'REL': 'DET', 'NUM': 'NUM', 'SV': 'VERB', 'IM': 'INTJ',
@@ -64,69 +64,50 @@ def write_tokens_to_column_corpus(tokens: list, outFile):
         outFile.write(' ')
         outFile.write(token[1])
         outFile.write('\n')
+    outFile.write('\n')
 
 with open ('bangor_miami_corpus/MB_herring.corpus', 'w') as outFile: # write to new file formatted in CoNLL-U
     for filename in os.listdir('bangor_miami_corpus'):
         if filename.split(".")[-1] != "tsv":
             continue
         print(filename)
-        most_recent_speaker = None
-        with open('bangor_miami_corpus/' + filename, 'r') as file:
-                headers = file.readline().split('\t')
-                print(headers)
-                header_idx = {}
-                i = 0
-                for header in headers:
-                    header_idx[header] = i
-                    i += 1
-                del i
-                #print(header_idx)
-                language = None
-                code_switched = False
-                utt = []
-                for line in file:  
-                    # read the input and re-tokenize
-                    try:
-                        split_line = line.split('\t')
-                        word = split_line[3]
-                        annotation = split_line[4]
-                        lang_id = split_line[8]
-                        speaker = split_line[header_idx['speaker']]
-                        print(split_line)
-                    except Exception as e:
-                        print(e, line)
+        with open('bangor_miami_corpus/' + filename, 'r') as f:
+            reader = csv.DictReader(f, delimiter='\t')
+            language = None
+            most_recent_speaker = None
+            code_switched = False
+            utt = []
+            for row in reader:
+                word = row["surface"]
+                annotation = row["auto"]
+                lang_id = row["langid"]
+                speaker = row['speaker']
 
-                    if language is None:
+                if language is None:
                         language = lang_id
                         code_switched = False
-                    elif language != lang_id:
-                        language = lang_id
-                        code_switched = True
-                    # now write to outfile
-                    if word in ['.', '!', '?']:
-                        outFile.write('\n') # sentence terminal punctuation signals end of utterance
-                        if code_switched:
-                            pass#print(utt)
-                        code_switched = False
-                        language = None
-                        utt = []
-                        continue
-                    if not most_recent_speaker:
-                        most_recent_speaker = speaker
-                    # a new speaker means new utterance
-                    elif most_recent_speaker != speaker:
-                        outFile.write('\n')
-                        most_recent_speaker = speaker
-                        if code_switched:
-                            pass#print(utt)
-                        code_switched = False
-                        language = None
-                        utt = []
-                        continue
-                    # tokenize and write tokens to .corpus plain text file
-                    tokens = tokenize_UD(word, annotation, lang_id)
-                    for tok in tokens:
-                        utt.append(tok[0])
-                    
-                    
-        outFile.write('\n') # a new file also means a new utterance
+                elif language != lang_id and lang_id in ['eng', 'spa']:
+                    code_switched = True
+                # now write to outfile
+                if word in ['.', '!', '?']:
+                    if code_switched:
+                        write_tokens_to_column_corpus(utt, outFile)
+                    code_switched = False
+                    language = None
+                    utt = []
+                    continue
+                if not most_recent_speaker:
+                    most_recent_speaker = speaker
+                # a new speaker means new utterance
+                elif most_recent_speaker != speaker:
+                    most_recent_speaker = speaker
+                    if code_switched:
+                        write_tokens_to_column_corpus(utt, outFile)
+                    code_switched = False
+                    language = None
+                    utt = []
+                    continue
+                # tokenize and write tokens to .corpus plain text file
+                tokens = tokenize_UD(word, annotation, lang_id)
+                for tok in tokens:
+                    utt.append((tok[0], tok[1]))
