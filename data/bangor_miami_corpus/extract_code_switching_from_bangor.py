@@ -1,4 +1,5 @@
 import os, csv
+from matplotlib import pyplot as plt
 
 translation_dict = {'ADV': 'ADV', 'PRON': 'PRON', 'V': 'VERB', 'PREP': 'ADP', 'DET': 'DET',
                     'N': 'NOUN', 'CONJ': 'CCONJ', 'ADJ': 'ADJ', 'REL': 'DET', 'NUM': 'NUM', 'SV': 'VERB', 'IM': 'INTJ',
@@ -66,6 +67,8 @@ def write_tokens_to_column_corpus(tokens: list, outFile):
         outFile.write('\n')
     outFile.write('\n')
 
+cs_count = 0
+non_cs_count = 0
 with open ('bangor_miami_corpus/MB_herring.corpus', 'w') as outFile: # write to new file formatted in CoNLL-U
     for filename in os.listdir('bangor_miami_corpus'):
         if filename.split(".")[-1] != "tsv":
@@ -91,7 +94,10 @@ with open ('bangor_miami_corpus/MB_herring.corpus', 'w') as outFile: # write to 
                 # now write to outfile
                 if word in ['.', '!', '?']:
                     if code_switched:
+                        cs_count += 1
                         write_tokens_to_column_corpus(utt, outFile)
+                    else:
+                        non_cs_count += 1
                     code_switched = False
                     language = None
                     utt = []
@@ -102,7 +108,10 @@ with open ('bangor_miami_corpus/MB_herring.corpus', 'w') as outFile: # write to 
                 elif most_recent_speaker != speaker:
                     most_recent_speaker = speaker
                     if code_switched:
+                        cs_count += 1
                         write_tokens_to_column_corpus(utt, outFile)
+                    else:
+                        non_cs_count += 1
                     code_switched = False
                     language = None
                     utt = []
@@ -111,3 +120,10 @@ with open ('bangor_miami_corpus/MB_herring.corpus', 'w') as outFile: # write to 
                 tokens = tokenize_UD(word, annotation, lang_id)
                 for tok in tokens:
                     utt.append((tok[0], tok[1]))
+
+print(cs_count, non_cs_count)
+plt.rc('font', size=16)
+fig, ax = plt.subplots()
+slice_sizes = [cs_count / (cs_count+non_cs_count), non_cs_count/(cs_count+non_cs_count)]
+ax.pie(slice_sizes, labels=['code switched', 'non code switched'], autopct='%1.1f%%')
+plt.show()

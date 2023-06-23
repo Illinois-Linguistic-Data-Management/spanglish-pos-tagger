@@ -42,6 +42,9 @@ def preprocess_sentence_from_cha(line):
             preprocessed_text = re.sub(r'\[[^\]]*\]\s?', '', preprocessed_text)
             # preprocess out @s tags that are sometimes added to code switched text
             preprocessed_text = re.sub(r'@s', '', preprocessed_text)
+            # preprocess out quotes symbols
+            preprocessed_text = re.sub(r'\+"/', '', preprocessed_text)
+            preprocessed_text = re.sub(r'\+"', '', preprocessed_text)
             # finally, use punctuation to hint removal of timestamps
             preprocessed_text = preprocessed_text.split(".")[0]
             preprocessed_text = preprocessed_text.split("?")[0]
@@ -80,3 +83,63 @@ def sentence_to_tsv(sentence, path):
             stream.write("\t ")
             stream.write(tag.value)
             stream.write('\n')
+
+def count_target_word_occurences(line:str, target_words:list, target_lexical_classes:str=None):
+    """
+    Inputs:
+        - line: %pos tier line from a .cha file, the whole raw string
+        - target_word: the word to look for
+        - target_lexical_class: (optional) the word must also belong to this lexical class
+    Outputs:
+        The number of times the targe word appears in the input string
+    """
+    tokens = line.split(" ") # split up tokens by white space
+    if tokens[0] != "%pos:":
+        raise ValueError("count_target_word_occurences expects a %pos tier as input")
+    del tokens[0] # now we can ignore that
+
+    # now actually count occurances
+    occurances = 0
+    for token in tokens:
+        word = token.split(".")[0]
+        lexical_class = token.split(".")[1]
+        if word in target_words and lexical_class in target_lexical_classes:
+            occurances += 1
+    return occurances
+
+def convert_milliseconds_to_seconds(timestamp: str):
+    # first filter out any "weird" characters
+    milliseconds = ""
+    for char in timestamp:
+        if char.isalnum():
+            milliseconds += char
+    # Convert milliseconds to seconds and round to nearest integer
+    total_seconds = round(float(milliseconds) / 1000.0)
+    # Calculate minutes and seconds
+    minutes, seconds = divmod(total_seconds, 60)
+    # Return formatted string
+    return f"{minutes}:{str(seconds).zfill(2)}"
+
+def extract_occurances_and_times_from_cha(filepath: str, target_words:list, target_lexical_classes:list=None):
+    """
+    Inputs:
+        - filepath: A path to a .cha file that has been annotated with %pos annotation tiers.
+    Outputs:
+        A list of tuples of the format (word_occurances, utterance_end_timestamp)
+    """
+    result = []
+    with open(filepath, 'r', encoding='utf-8') as cha_file:
+        timestamp = 0
+        for line in cha_file:
+            if "%pos" in line[0:5]:
+                try:
+                    result.append((count_target_word_occurences(line, target_words, target_lexical_classes), convert_milliseconds_to_seconds(timestamp)))
+                except:
+                    print(line, timestamp, filepath)
+            elif line[0] != '@' and "%pos" not in line:
+                timestamp_maybe = (line.split(" ")[-1]).split("_")[-1] # the timestamp is at the very end of the line
+                if re.match(r'\d+', timestamp_maybe):
+                    timestamp = timestamp_maybe
+                else:
+                    timestamp_maybe
+    return result

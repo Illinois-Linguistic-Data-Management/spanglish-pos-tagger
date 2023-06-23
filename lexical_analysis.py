@@ -23,7 +23,7 @@ def extract_disfluencies_from_utterance(utterance: str):
     for part in utterance.split():
         if part.startswith('<'):
             # Remove '<' and '>' and add the part to disfluencies
-            disfluencies.append(part[1:].replace('>', ''))
+            #disfluencies.append(part[1:].replace('>', ''))
             inside_disfluency = True
         elif inside_disfluency:
             if re.search(r'\[/{1,3}\]$', part):
@@ -35,19 +35,19 @@ def extract_disfluencies_from_utterance(utterance: str):
             else:
                 # If we are inside a disfluency and there is no closing tag,
                 # we append the part to the last disfluency
-                disfluencies[-1] += ' ' + part.replace('>', '')
+                pass#disfluencies[-1] += ' ' + part.replace('>', '')
 
     if re.search(r'\b(\w+)\b\s*\[/\]', utterance):
         for disfluency in [m for m in re.search(r'\b(\w+)\b\s*\[/\]', utterance).groups()]:
-            disfluencies.append(disfluency)
+            pass#disfluencies.append(disfluency)
         utterance = re.sub(r'\b(\w+)\b\s*\[/\]', '', utterance)
     if re.search(r'\b(\w+)\b\s*\[//\]', utterance):
         for disfluency in [m for m in re.search(r'\b(\w+)\b\s*\[//\]', utterance).groups()]:
-            disfluencies.append(disfluency)
+            pass#disfluencies.append(disfluency)
         utterance = re.sub(r'\b(\w+)\b\s*\[//\]', '', utterance)
     if re.search(r'\b(\w+)\b\s*\[///\]', utterance):
         for disfluency in [m for m in re.search(r'\b(\w+)\b\s*\[///\]', utterance).groups()]:
-            disfluencies.append(disfluency)
+            pass#disfluencies.append(disfluency)
         utterance = re.sub(r'\b(\w+)\b\s*\[///\]', '', utterance)
 
     # now look for other disfluency markers eg um/uh, these are coded with a &- prefix
@@ -101,17 +101,28 @@ def convert_milliseconds_to_minutes(milliseconds: int):
     return milliseconds / 60000
 
 class CorpusAnalysisTool:
-    def __init__(self, dir_path, output_path):
-        files = get_cha_files_in_dir(dir_path)
+
+    def write_overall_counts(self, output_path:str):
         with open(output_path, 'w') as outFile:
-        # write headers
+            # write headers
             outFile.write("language,participant_id,words,minutes,wpm,types,tokens,ttr,english_types,english_tokens,english_ttr,spanish_types,spanish_tokens,spanish_ttr,disfluencies,fluency_score\n")
-            for file in files:
+            for file in self.cha_files:
                 try:
                     outFile.write(LexicalAnalysisTool(file).to_csv_row())
                     outFile.write("\n")
                 except:
                     print("Error analyzing", file)
+
+    def write_words_and_frequencies(self, output_dir):
+        for file in self.cha_files:
+            filename = (file.split('/')[-1]).split(".")[0]
+            output_path = f'{output_dir}/{filename}_word_frequencies.csv'
+            LexicalAnalysisTool(file).write_words_to_csv(output_path)
+
+    def __init__(self, dir_path):
+        print("dir_path", dir_path)
+        self.cha_files = get_cha_files_in_dir(dir_path)
+
 
 class LexicalAnalysisTool:
 
@@ -120,8 +131,8 @@ class LexicalAnalysisTool:
             for line in f:
                 if re.search(r'Languages:', line):
                     langs = line.split(":")[-1].strip("\n").strip("\t").strip(" ").split(",")
-                    self.main_language = langs[0]
-                    self.secondary_language = langs[1] if len(langs) > 1 else None
+                    self.main_language = langs[0].strip(" ")
+                    self.secondary_language = langs[1].strip(" ") if len(langs) > 1 else None
 
     def get_participant_id(self):
         with open(self.filename, 'r') as f:
@@ -180,13 +191,26 @@ class LexicalAnalysisTool:
     def to_csv_row(self):
         return f'{self.main_language},{self.participant_id},{self.words_count},{round(convert_milliseconds_to_minutes(self.speaking_time), 3)},{round(self.words_count / convert_milliseconds_to_minutes(self.speaking_time), 3)},{self.types_count},{self.tokens_count},{self.calc_ratio(self.types_count, self.tokens_count)},{self.english_types_count},{self.english_tokens_count},{self.calc_ratio(self.english_types_count, self.english_tokens_count)},{self.spanish_types_count},{self.spanish_tokens_count},{self.calc_ratio(self.spanish_types_count,self.tokens_count)},{self.disfluencies_count},{self.calc_ratio(self.disfluencies_count,self.words_count)}'
         
+    def write_words_to_csv(self, output_path: str):
+        with open(output_path, 'w') as outFile:
+            outFile.write("word,frequency,language\n")
+            # first write main language data
+            for word in self.lang_specific_counts[self.main_language]["types_tokens"]:
+                frequency = self.lang_specific_counts[self.main_language]["types_tokens"][word]
+                if word not in self.disfluencies:
+                    outFile.write(f'{word},{frequency},{self.main_language}\n')
+            if self.secondary_language:
+                for word in self.lang_specific_counts[self.secondary_language]["types_tokens"]:
+                    frequency = self.lang_specific_counts[self.secondary_language]["types_tokens"][word]
+                    if word not in self.disfluencies:
+                        outFile.write(f'{word},{frequency},{self.secondary_language}\n')
 
     def tally_token(self, token, code_switch=False):
         """
         Add a token to self.types_tokens if it is a new type,
         otherwise increment the token counter
         """
-        if "" or None:
+        if token == "" or token == None or token == 'xxx':
             return
         self.words_count += 1
         if token in self.types_tokens:
@@ -221,7 +245,7 @@ class LexicalAnalysisTool:
     
     def count_fluent_words(self):
         for utterance in parse_utterances_from_cha(self.filename):
-            code_switch = re.search("\[- eng\]", utterance)
+            code_switch = (re.search("\[- eng\]", utterance) != None) or (re.search("\[- spa\]", utterance) != None)
             filtered_utterance = filter_disfluencies_from_utterance(utterance)
             if not filtered_utterance or filtered_utterance[0] == "@":
                 continue # skip comments
@@ -235,11 +259,24 @@ class LexicalAnalysisTool:
             count += self.types_tokens[type]
         return count
 
+def generate_overall_counts_frames_from_corpus():
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 100)').write_overall_counts("lexical_analysis_data_frames/lexical_counts_100.csv")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 200)').write_overall_counts("lexical_analysis_data_frames/lexical_counts_200.csv")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 300)').write_overall_counts("lexical_analysis_data_frames/lexical_counts_300.csv")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 400)').write_overall_counts("lexical_analysis_data_frames/lexical_counts_400.csv")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 500)').write_overall_counts("lexical_analysis_data_frames/lexical_counts_500.csv")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 600)').write_overall_counts("lexical_analysis_data_frames/lexical_counts_600.csv")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 700)').write_overall_counts("lexical_analysis_data_frames/lexical_counts_700.csv")
+
+def generate_word_frequencies_from_corpus():
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 100)').write_words_and_frequencies("lexical_analysis_data_frames/word_counts_100")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 200)').write_words_and_frequencies("lexical_analysis_data_frames/word_counts_200")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 300)').write_words_and_frequencies("lexical_analysis_data_frames/word_counts_300")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 400)').write_words_and_frequencies("lexical_analysis_data_frames/word_counts_400")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 500)').write_words_and_frequencies("lexical_analysis_data_frames/word_counts_500")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 600)').write_words_and_frequencies("lexical_analysis_data_frames/word_counts_600")
+    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 700)').write_words_and_frequencies("lexical_analysis_data_frames/word_counts_700")
+    
 if __name__ == "__main__":
-    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 100)', "lexical_analysis_data_frames/lexical_counts_100.csv")
-    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 200)', "lexical_analysis_data_frames/lexical_counts_200.csv")
-    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 300)', "lexical_analysis_data_frames/lexical_counts_300.csv")
-    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 400)', "lexical_analysis_data_frames/lexical_counts_400.csv")
-    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 500)', "lexical_analysis_data_frames/lexical_counts_500.csv")
-    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 600)', "lexical_analysis_data_frames/lexical_counts_600.csv")
-    CorpusAnalysisTool('/Users/ben/Documents/school/spanglish-tagger-new/transcriptions/Transcriptions (group 700)', "lexical_analysis_data_frames/lexical_counts_700.csv")
+    #generate_overall_counts_frames_from_corpus()
+    generate_word_frequencies_from_corpus()
