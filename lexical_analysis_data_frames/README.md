@@ -25,14 +25,11 @@ The dataframes contain the following features:
 * disfluencies: The number of disfluncies (eg "um" or "uh") found in the narrative transcription.
 * fluency_score: The number of disfluencies divided by the number of total words.
 
-### Word Counts
+### Word Frequencies
 
 These dataframes provide more detailed data on the lexical choices for each narrative,
 listing all of the words used as well as the number of times each of those words was used to tell the narrative.
 These dataframes contain the following features:
 * word: The surface form of the word found in the narrative transcript.
-* frequency: The number of times the word was found in the transcript.
-* language: The language of this word. May be "eng" for English or "spa" for Spanish.
-
-Most of the files follow this naming convention: `{participant_id}_{target_language}_word_frequencies.csv`
-with the exception of the file `group_word_frequencies.csv` which contains data for the group as a whole.
+* category: The lexical category of the word.
+* participant_id: The rest of the columns correspond to a participant id, the value for that column describes how many times that participant used the word.
