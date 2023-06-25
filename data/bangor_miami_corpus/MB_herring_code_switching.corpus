@@ -23,13 +23,13 @@ bro NOUN
 I PRON
 got VERB
 insolado ADJ
-like CCONJ
+like ADV
 so ADV
 bad ADJ
 really ADV
 really ADV
 bad ADJ
-like CCONJ
+like ADV
 my ADJ
 eyes NOUN
 got VERB
@@ -62,7 +62,7 @@ hour NOUN
 and CCONJ
 he PRON
 's PART
-like CCONJ
+like ADV
 um INTJ
 cuánto ADJ
 te PRON
@@ -84,7 +84,7 @@ el DET
 hospital NOUN
 estás PRON
 loco ADJ
-like CCONJ
+like INTJ
 
 Robert PRON
 and CCONJ
@@ -223,7 +223,7 @@ say VERB
 he PRON
 could VERB
 do VERB
-that CCONJ
+that PRON
 too ADV
 
 oh INTJ
@@ -300,7 +300,7 @@ outside ADP
 ok INTJ
 it PRON
 's PART
-like CCONJ
+like ADP
 the DET
 two NUM
 part NOUN
@@ -377,11 +377,11 @@ and CCONJ
 I PRON
 mean VERB
 it PRON
-as CCONJ
+as SCONJ
 passionately ADV
-as CCONJ
+as SCONJ
 you PRON
-as CCONJ
+as SCONJ
 you PRON
 mean VERB
 te PRON
@@ -401,7 +401,7 @@ and CCONJ
 this DET
 will VERB
 be VERB
-like CCONJ
+like ADP
 el DET
 camino NOUN
 
@@ -413,7 +413,7 @@ I PRON
 mean VERB
 that DET
 's PART
-like CCONJ
+like INTJ
 wow INTJ
 out ADV
 there ADV
@@ -459,10 +459,10 @@ mandó VERB
 un DET
 email NOUN
 diciendo VERB
-que CCONJ
+que SCONJ
 le PRON
 había VERB
-que CCONJ
+que SCONJ
 había VERB
 otra ADJ
 persona NOUN
@@ -483,7 +483,7 @@ según CCONJ
 como CCONJ
 leí VERB
 yo PRON
-que CCONJ
+que sCONJ
 era VERB
 ella PRON
 e CCONJ
@@ -493,9 +493,9 @@ Antonio PROPN
 take VERB
 a DET
 shower NOUN
-as CCONJ
+as SCONJ
 soon ADV
-as CCONJ
+as SCONJ
 the DET
 like NOUN
 in ADP
@@ -530,7 +530,7 @@ ahora ADV
 tenemos VERB
 que CCONJ
 repensar VERB
-qué INTJ
+qué PRON
 vamos VERB
 a ADP
 hacer VERB
@@ -540,7 +540,7 @@ dos NUM
 mil NUM
 dólares NOUN
 menos ADV
-que CCONJ
+que PRON
 estamos VERB
 recibiendo VERB
 de PREP
@@ -619,7 +619,7 @@ los DET
 clips NOUN
 que PRON
 dan VERB
-cuando CCONJ
+cuando SCONJ
 los DET
 que PRON
 pusieron VERB
@@ -629,7 +629,7 @@ Oscars NOUN
 voy VERB
 a ADP
 ver VERB
-si CCONJ
+si SCONJ
 busco VERB
 un DET
 un DET
@@ -692,15 +692,15 @@ mmhm INTJ
 
 oh INTJ
 now ADV
-that CCONJ
+that SCONJ
 I PRON
 now ADV
-that CCONJ
+that SCONJ
 I PRON
 remember VERB
 antes ADV
 de ADP
-que CCONJ
+que SCONJ
 se PRON
 me PRON
 olvide VERB
@@ -735,7 +735,7 @@ and SCONJ
 I PRON
 was VERB
 like CCONJ
-if CCONJ
+if SCONJ
 we PRON
 are VERB
 just ADV
@@ -771,7 +771,7 @@ Paige PROPN
 yo PRON
 no ADV
 sabía VERB
-que CCONJ
+que SCONJ
 a ADP
 María PROPN
 la PRON
@@ -863,10 +863,10 @@ comes VERB
 macaroni NOUN
 and CCONJ
 cheese NOUN
-si CCONJ
+si SCONJ
 tú PRON
 sabes VERB
-que CCONJ
+que SCONJ
 te PRON
 va VERB
 a ADP
@@ -919,13 +919,13 @@ have VERB
 like CCONJ
 a DET
 booth NOUN
-that CCONJ
+that PRON
 you PRON
 can VERB
 sample VERB
 their ADJ
 food NOUN
-porque CCONJ
+porque SCONJ
 está VERB
 Flemmings PROPN
 ahí ADV
@@ -957,7 +957,7 @@ brother NOUN
 next ADJ
 year NOUN
 para ADP
-que CCONJ
+que SCONJ
 me PRON
 dé VERB
 los DET
@@ -971,7 +971,7 @@ ese PRON
 
 ellos PRON
 dijeron VERB
-que CCONJ
+que SCONJ
 iban VERB
 a ADP
 dar VERB
@@ -983,7 +983,7 @@ entonces ADV
 todos ADJ
 esos PRON
 restaurants NOUN
-that CCONJ
+that PRON
 are VERB
 participating VERB
 will VERB
@@ -998,7 +998,7 @@ list NOUN
 of ADP
 the DET
 restaurants NOUN
-that CCONJ
+that PRON
 are VERB
 participating VERB
 
@@ -1031,7 +1031,7 @@ them PRON
 
 Archies PROPN
 pizza NOUN
-that CCONJ
+that PRON
 Archies PROPN
 place NOUN
 pizza NOUN
@@ -1070,7 +1070,7 @@ mira VERB
 Maggie PROPN
 has VERB
 more ADV
-than CCONJ
+than SCONJ
 me PRON
 
 mismo ADJ
@@ -1170,7 +1170,7 @@ off ADV
 all ADJ
 of ADP
 that PRON
-until CCONJ
+until SCONJ
 a ADP
 ver VERB
 
@@ -1202,7 +1202,7 @@ save VERB
 all ADJ
 changes NOUN
 
-porque CCONJ
+porque SCONJ
 now ADV
 we PRON
 do VERB
@@ -1214,7 +1214,7 @@ one PRON
 which DET
 
 so ADV
-si CCONJ
+si SCONJ
 no ADV
 la PRON
 tiene VERB
@@ -1224,16 +1224,16 @@ puedo VERB
 coger VERB
 
 es VERB
-que CCONJ
+que PRON
 yo PRON
 no ADV
 creo VERB
-que CCONJ
+que SCONJ
 ella PRON
 tiene VERB
 un DET
 site NOUN
-porque CCONJ
+porque SCONJ
 those PRON
 are VERB
 just ADJ
@@ -1254,7 +1254,7 @@ that DET
 other ADJ
 site NOUN
 and CCONJ
-like CCONJ
+like INTJ
 look VERB
 for ADP
 it PRON
@@ -1315,7 +1315,7 @@ right ADJ
 is VERB
 the DET
 same ADJ
-porque CCONJ
+porque SCONJ
 we PRON
 switched VERB
 it PRON
@@ -1349,7 +1349,7 @@ que CCONJ
 me PRON
 venían VERB
 eso PRON
-like CCONJ
+like INTJ
 came VERB
 in ADP
 
@@ -1385,7 +1385,7 @@ empezar VERB
 
 sí ADV
 sí ADV
-que CCONJ
+que PRON
 a ADP
 la DET
 hora NOUN
@@ -1422,7 +1422,7 @@ va VERB
 a ADP
 ir VERB
 separado ADJ
-que CCONJ
+que SCONJ
 es VERB
 en ADP
 otro ADJ
@@ -1433,7 +1433,7 @@ pretty ADJ
 much ADJ
 yo PRON
 creo VERB
-que CCONJ
+que SCONJ
 todas PRON
 era VERB
 esto PRON
@@ -1466,7 +1466,7 @@ folder NOUN
 
 pero CCONJ
 but CCONJ
-if CCONJ
+if SCONJ
 it PRON
 's PART
 like CCONJ
@@ -1496,7 +1496,7 @@ ones PRON
 
 sí ADV
 únicamente ADV
-que CCONJ
+que SCONJ
 they PRON
 have VERB
 like CCONJ
@@ -1536,8 +1536,8 @@ finance NOUN
 
 se PRON
 hizo VERB
-cuando CCONJ
-cuando CCONJ
+cuando SCONJ
+cuando SCONJ
 se PRON
 arregló VERB
 el DET
@@ -1581,7 +1581,7 @@ somewhere ADV
 on ADP
 here ADV
 
-unless CCONJ
+unless SCONJ
 it PRON
 's PART
 pero CCONJ
@@ -1621,7 +1621,7 @@ diez NUM
 dólares NOUN
 
 man NOUN
-that CCONJ
+that PRON
 I PRON
 had VERB
 I PRON
@@ -1643,7 +1643,7 @@ Coach X
 
 pero CCONJ
 es VERB
-que CCONJ
+que SCONJ
 tú PRON
 sabes VERB
 no ADV
@@ -1655,7 +1655,7 @@ you PRON
 know VERB
 
 ah INTJ
-porque CCONJ
+porque SCONJ
 estaba VERB
 ahí ADV
 guardado VERB
@@ -1667,12 +1667,12 @@ Orlando PROPN
 yo PRON
 hace VERB
 años NOUN
-que CCONJ
+que SCONJ
 no ADV
 voy VERB
 a ADP
 Sawgrass PROPN
-because CCONJ
+because SCONJ
 it PRON
 's PART
 so ADV
@@ -1688,7 +1688,7 @@ for ADP
 lunch NOUN
 
 después ADV
-que CCONJ
+que SCONJ
 me PRON
 mudé VERB
 forget VERB
@@ -1716,11 +1716,11 @@ that PRON
 's PART
 the DET
 one PRON
-that CCONJ
+that SCONJ
 I PRON
 wear VERB
 for ADP
-like CCONJ
+like INTJ
 
 pero CCONJ
 you PRON
@@ -1735,7 +1735,7 @@ at ADP
 least ADJ
 I PRON
 find VERB
-que CCONJ
+que SCONJ
 in ADP
 my ADJ
 closet NOUN
@@ -1783,7 +1783,7 @@ esos PRON
 de ADP
 like CCONJ
 Tupperware PROPN
-that CCONJ
+that SCONJ
 has VERB
 two NUM
 drawers NOUN
@@ -1800,7 +1800,7 @@ one PRON
 tomorrow NOUN
 
 yo PRON
-cuando CCONJ
+cuando SCONJ
 la PRON
 cojo VERB
 con ADP
@@ -1834,7 +1834,7 @@ y CCONJ
 eso PRON
 ya ADV
 creo VERB
-que CCONJ
+que SCONJ
 estaba VERB
 aquí ADV
 yes ADV
@@ -1898,7 +1898,7 @@ was VERB
 three NUM
 of ADP
 them PRON
-porque CCONJ
+porque SCONJ
 era VERB
 él PRON
 el DET
@@ -1920,7 +1920,7 @@ mismo ADJ
 papel NOUN
 
 exactly ADV
-porque CCONJ
+porque SCONJ
 eso PRON
 es VERB
 lo DET
@@ -2024,7 +2024,7 @@ puso VERB
 allá ADV
 adentro ADV
 
-porque CCONJ
+porque SCONJ
 entonces ADV
 how ADV
 do VERB
@@ -2046,7 +2046,7 @@ we PRON
 know VERB
 that PRON
 
-porque CCONJ
+porque SCONJ
 supuestamente ADV
 nosotros PRON
 teníamos VERB
@@ -2124,15 +2124,15 @@ bye NOUN
 sí ADV
 rescission NOUN
 como CCONJ
-que CCONJ
+que SCONJ
 ya ADV
 está VERB
-que CCONJ
+que SCONJ
 esto PRON
 sabe VERB
-que CCONJ
-que CCONJ
-si CCONJ
+que SCONJ
+que SCONJ
+si sCONJ
 estaba VERB
 en ADP
 cancelación NOUN
@@ -2153,7 +2153,7 @@ thousand NUM
 and CCONJ
 four NUM
 Northwest X
-Franklin X
+Franklin PROPN
 Street X
 
 dice VERB
@@ -2162,7 +2162,7 @@ of ADP
 rescission NOUN
 no ADV
 
-that CCONJ
+that SCONJ
 deme VERB
 un DET
 segundito NOUN
@@ -2173,7 +2173,7 @@ account NOUN
 number ADJ
 
 dice VERB
-que CCONJ
+que SCONJ
 no ADV
 recibieron VERB
 el DET
@@ -2201,7 +2201,7 @@ señor NOUN
 Medina PRON
 
 y CCONJ
-si CCONJ
+si SCONJ
 es VERB
 usted PRON
 tiene VERB
@@ -2266,7 +2266,7 @@ sí ADV
 yeah ADV
 
 sí ADV
-porque CCONJ
+porque SCONJ
 yo PRON
 no ADV
 veía VERB
@@ -2323,7 +2323,7 @@ buscando VERB
 estaba VERB
 I PRON
 love VERB
-when CCONJ
+when SCONJ
 he PRON
 uses VERB
 his ADJ
@@ -2376,7 +2376,7 @@ Esmerelda PROPN
 wants VERB
 to ADP
 go VERB
-because CCONJ
+because SCONJ
 Nancy PROPN
 's PART
 gonna VERB
@@ -2434,11 +2434,11 @@ yo PRON
 sí ADV
 pero CCONJ
 es VERB
-que CCONJ
+que SCONJ
 yo PRON
 no ADV
 sabía VERB
-que CCONJ
+que SCONJ
 ella PRON
 estaba VERB
 you PRON
@@ -2465,7 +2465,7 @@ to PART
 you PRON
 know VERB
 
-si CCONJ
+si SCONJ
 a ADP
 mí PRON
 me PRON
@@ -2476,7 +2476,7 @@ first ADJ
 grade NOUN
 a ADP
 algo PRON
-que CCONJ
+que PRON
 yo PRON
 no ADV
 quiero VERB
@@ -2584,7 +2584,7 @@ entonces ADV
 la DET
 cosa NOUN
 pasó VERB
-que CCONJ
+que SCONJ
 ayer ADV
 durante ADP
 
@@ -2606,7 +2606,7 @@ a ADP
 decir VERB
 er INTJ
 no ADV
-que CCONJ
+que SCONJ
 uno PRON
 de ADP
 los DET
@@ -2669,16 +2669,16 @@ all ADJ
 the DET
 way NOUN
 
-porque CCONJ
+porque SCONJ
 dice VERB
-que CCONJ
+que SCONJ
 the DET
 person NOUN
-that CCONJ
+that SCONJ
 found VERB
 two NUM
 people NOUN
-that CCONJ
+that SCONJ
 found VERB
 
 you PRON
@@ -2719,7 +2719,7 @@ a DET
 Vietnam PROPN
 veteran NOUN
 
-porque CCONJ
+porque SCONJ
 dice VERB
 que SCONJ
 que SCONJ
@@ -2778,7 +2778,7 @@ she PRON
 estaba VERB
 recogiendo VERB
 como CCONJ
-si CCONJ
+si SCONJ
 no ADV
 fuera VERB
 nada PRON
@@ -2791,7 +2791,7 @@ ahora ADV
 la DET
 cosa NOUN
 es VERB
-que CCONJ
+que SCONJ
 in ADP
 fifth ADJ
 grade NOUN
@@ -2828,7 +2828,7 @@ a PREP
 el DET
 lado NOUN
 que PRON
-que CCONJ
+que PRON
 sean VERB
 bien ADV
 vigilantes ADJ
@@ -2907,7 +2907,7 @@ student NOUN
 er INTJ
 yo PRON
 sé VERB
-que CCONJ
+que SCONJ
 Emily PROPN
 really ADV
 wants VERB
@@ -2927,7 +2927,7 @@ muy ADV
 muy ADV
 hot_headed X
 
-cuando CCONJ
+cuando SCONJ
 estábamos VERB
 en ADP
 la DET
@@ -2981,7 +2981,7 @@ ya ADV
 had AUX
 done VERB
 everything PRON
-because CCONJ
+because SCONJ
 it PRON
 takes VERB
 you PRON
@@ -3008,7 +3008,7 @@ díselo VERB
 a ADP
 sister NOUN
 porque SCONJ
-si CCONJ
+si SCONJ
 él PRON
 le PRON
 gusta VERB
@@ -3073,7 +3073,7 @@ esta DET
 señora NOUN
 no ADV
 even ADJ
-though CCONJ
+though SCONJ
 that PRON
 's PART
 what DET
@@ -3121,7 +3121,7 @@ just ADV
 wanted VERB
 to ADP
 confirm VERB
-that CCONJ
+that SCONJ
 you PRON
 did VERB
 receive VERB
@@ -3130,7 +3130,7 @@ my ADJ
 me PRON
 dice VERB
 ella PRON
-que CCONJ
+que SCONJ
 trabaja VERB
 en ADP
 una DET
@@ -3154,7 +3154,7 @@ en ADP
 esa ADJ
 parte NOUN
 de ADP
-que CCONJ
+que SCONJ
 deja VERB
 los DET
 los DET
@@ -3192,7 +3192,7 @@ tú PRON
 sabes VERB
 así ADV
 como VERB
-cuando CCONJ
+cuando SCONJ
 como VERB
 una DET
 niña NOUN
@@ -3229,7 +3229,7 @@ with ADP
 the DET
 old ADJ
 computer NOUN
-that CCONJ
+that PRON
 we PRON
 have VERB
 
@@ -3286,14 +3286,14 @@ el DET
 payroll NOUN
 
 diciéndole VERB
-que CCONJ
+que SCONJ
 el DET
 sales NOUN
 office NOUN
 le PRON
 había VERB
 dicho VERB
-que CCONJ
+que SCONJ
 cruzara VERB
 la DET
 calle NOUN
@@ -3351,7 +3351,7 @@ over ADV
 it PRON
 
 dice VERB
-que CCONJ
+que SCONJ
 eh INTJ
 le PRON
 dieron VERB
@@ -3364,8 +3364,8 @@ intern NOUN
 
 dice VERB
 él PRON
-que CCONJ
-que CCONJ
+que PRON
+que PRON
 no ADV
 you PRON
 know VERB
@@ -3392,7 +3392,7 @@ figured VERB
 it PRON
 out ADV
 was VERB
-because CCONJ
+because SCONJ
 she PRON
 said VERB
 
@@ -3453,7 +3453,7 @@ hoy ADV
 con ADP
 cash NOUN
 
-si CCONJ
+si SCONJ
 no ADV
 es VERB
 cash NOUN
@@ -3466,7 +3466,7 @@ where DET
 we PRON
 eat VERB
 como CCONJ
-si CCONJ
+si SCONJ
 es VERB
 en ADP
 la DET
@@ -3537,13 +3537,13 @@ hotdog NOUN
 y CCONJ
 cómo INTJ
 es VERB
-que CCONJ
+que SCONJ
 tú PRON
 te PRON
 comiste VERB
 un DET
 hotdog NOUN
-si CCONJ
+si SCONJ
 yo PRON
 te PRON
 traje NOUN
@@ -3579,7 +3579,7 @@ y CCONJ
 mejor ADJ
 seguro ADJ
 
-que CCONJ
+que SCONJ
 el DET
 hotdog NOUN
 de PREP
@@ -3588,7 +3588,7 @@ de PREP
 el DET
 Seven PROPN
 Eleven PROPN
-que CCONJ
+que PRON
 ellos PRON
 van VERB
 y CCONJ
@@ -3614,7 +3614,7 @@ twenty NUM
 five NUM
 cents NOUN
 
-si CCONJ
+si SCONJ
 te PRON
 cobran VERB
 por ADP
@@ -3630,7 +3630,7 @@ tengo VERB
 que CCONJ
 comer VERB
 pan NOUN
-cuando CCONJ
+cuando SCONJ
 yo PRON
 como VERB
 hotdog NOUN
@@ -3642,7 +3642,7 @@ me PRON
 gusta VERB
 el DET
 pan NOUN
-cuando CCONJ
+cuando SCONJ
 ew INTJ
 hotdog NOUN
 
@@ -3654,7 +3654,7 @@ para ADP
 comerse VERB
 nada PRON
 más ADV
-que CCONJ
+que PRON
 el DET
 hotdog NOUN
 
@@ -3723,7 +3723,7 @@ go VERB
 two NUM
 times NOUN
 
-if CCONJ
+if SCONJ
 I PRON
 bring VERB
 her ADJ
@@ -3747,7 +3747,7 @@ que PRON
 es VERB
 you PRON
 know VERB
-que CCONJ
+que SCONJ
 me PRON
 frustran VERB
 
@@ -3826,7 +3826,7 @@ and CCONJ
 and CCONJ
 
 mira VERB
-cuando CCONJ
+cuando SCONJ
 los DET
 otros PRON
 van VERB
@@ -3859,7 +3859,7 @@ el DET
 carnival NOUN
 center NOUN
 
-que CCONJ
+que SCONJ
 hay VERB
 un DET
 como CCONJ
@@ -3941,7 +3941,7 @@ poner VERB
 conversación NOUN
 tal ADJ
 vez NOUN
-porque CCONJ
+porque SCONJ
 hello NOUN
 
 tengo VERB
@@ -4117,7 +4117,7 @@ el DET
 otro ADJ
 día NOUN
 
-pues CCONJ
+pues SCONJ
 hello NOUN
 
 Love_Sickness X
@@ -4135,7 +4135,7 @@ looks VERB
 good ADJ
 actually ADV
 
-que CCONJ
+que SCONJ
 eso PRON
 will VERB
 be VERB
@@ -4158,7 +4158,7 @@ haircut NOUN
 soon ADV
 
 verdad NOUN
-que CCONJ
+que SCONJ
 así ADV
 es VERB
 really ADV
@@ -4173,7 +4173,7 @@ en ADP
 un DET
 ratito NOUN
 para ADP
-que CCONJ
+que SCONJ
 me PRON
 hagas VERB
 el DET
@@ -4219,12 +4219,12 @@ eso PRON
 te PRON
 estoy VERB
 preguntando VERB
-que CCONJ
-si CCONJ
+que SCONJ
+si SCONJ
 compraste VERB
 un DET
 lighter NOUN
-porque CCONJ
+porque SCONJ
 no ADV
 lo PRON
 conozco VERB
@@ -4264,9 +4264,9 @@ un DET
 clemente ADJ
 primo ADJ
 
-violino X
+violino NOUN
 e CCONJ
-editorio X
+editorio NOUN
 a PREP
 el DET
 teatro NOUN
@@ -4281,7 +4281,7 @@ llaman VERB
 aquí ADV
 macaronic ADJ
 
-que CCONJ
+que SCONJ
 thereby ADV
 matching VERB
 the DET
@@ -4302,10 +4302,10 @@ mmhm INTJ
 
 varias ADJ
 composiciones NOUN
-según CCONJ
+según SCONJ
 los DET
 Cds X
-que CCONJ
+que SCONJ
 yo PRON
 tengo VERB
 
@@ -4332,10 +4332,10 @@ que CCONJ
 llamar VERB
 a ADP
 Lisa PROPN
-porque CCONJ
+porque SCONJ
 le PRON
 dije VERB
-que CCONJ
+que SCONJ
 el DET
 piano NOUN
 no ADV
@@ -4357,7 +4357,7 @@ debo VERB
 ser VERB
 lo DET
 último ADJ
-que CCONJ
+que PRON
 él PRON
 oye VERB
 por ADP
@@ -4376,11 +4376,11 @@ blog NOUN
 bueno INTJ
 blog NOUN
 es VERB
-cuando CCONJ
+cuando SCONJ
 ellos PRON
 escriben VERB
 para ADP
-que CCONJ
+que SCONJ
 ellos PRON
 escriben VERB
 
@@ -4406,7 +4406,7 @@ ellos PRON
 esa ADJ
 canción NOUN
 que PRON
-que CCONJ
+que PRON
 cantan VERB
 It's_Been X
 a ADP
@@ -4557,7 +4557,7 @@ do VERB
 n't PART
 know VERB
 how ADV
-like CCONJ
+like INTJ
 ya ADV
 several ADJ
 years NOUN
@@ -4568,7 +4568,7 @@ understand VERB
 see VERB
 you PRON
 know VERB
-if CCONJ
+if SCONJ
 you PRON
 do VERB
 n't PART
@@ -4597,7 +4597,7 @@ know VERB
 
 Fernando PROPN
 's PART
-like CCONJ
+like INTJ
 fed ADJ
 up ADV
 with ADP
@@ -4632,7 +4632,7 @@ day NOUN
 she PRON
 'll PART
 give VERB
-like CCONJ
+like INTJ
 you PRON
 know VERB
 money NOUN
@@ -4647,7 +4647,7 @@ todo PRON
 jodían VERB
 it PRON
 's PART
-like CCONJ
+like INTJ
 stupid ADJ
 Nicaraguans NOUN
 
@@ -4672,7 +4672,7 @@ fly VERB
 to ADP
 Nicaragua PROPN
 
-porque CCONJ
+porque SCONJ
 se PRON
 llama VERB
 Paige PROPN
@@ -4680,7 +4680,7 @@ the DET
 girl NOUN
 
 Lauren PROPN
-like CCONJ
+like INTJ
 I PRON
 'm PART
 ay INTJ
@@ -4693,7 +4693,7 @@ este DET
 tiempo NOUN
 she PRON
 had VERB
-like CCONJ
+like INTJ
 una DET
 cara NOUN
 que PRON
@@ -4712,7 +4712,7 @@ ella PRON
 la DET
 cosa NOUN
 es VERB
-que CCONJ
+que SCONJ
 that DET
 was VERB
 Thursday PROPN
@@ -4766,7 +4766,7 @@ dos NUM
 veces NOUN
 
 que SCONJ
-si CCONJ
+si SCONJ
 ya ADV
 te PRON
 lo PRON
@@ -4817,7 +4817,7 @@ with ADP
 
 she PRON
 has VERB
-like CCONJ
+like INTJ
 una DET
 mala ADJ
 fama NOUN
@@ -4847,7 +4847,7 @@ yo PRON
 no ADV
 la PRON
 desmentí VERB
-porque CCONJ
+porque SCONJ
 what PRON
 's PART
 my ADJ
@@ -5082,7 +5082,7 @@ pero CCONJ
 to ADP
 test VERB
 um INTJ
-if CCONJ
+if SCONJ
 like CCONJ
 jewelry NOUN
 has VERB
@@ -5135,12 +5135,12 @@ my ADJ
 goodness NOUN
 pero CCONJ
 es VERB
-que CCONJ
+que SCONJ
 son VERB
 tantas ADJ
 cosas NOUN
 
-porque CCONJ
+porque SCONJ
 no ADV
 encontré VERB
 parking NOUN
@@ -5175,9 +5175,9 @@ care VERB
 
 usually ADV
 hicieron VERB
-que CCONJ
+que SCONJ
 like VERB
-when CCONJ
+when SCONJ
 I PRON
 was VERB
 eating VERB
@@ -5222,7 +5222,7 @@ oh INTJ
 a DET
 black ADJ
 man NOUN
-as CCONJ
+as SCONJ
 a DET
 president NOUN
 would VERB
@@ -5420,8 +5420,8 @@ dios NOUN
 know VERB
 all ADJ
 of ADP
-that CCONJ
-because CCONJ
+that PRON
+because SCONJ
 in ADP
 my ADJ
 history NOUN
@@ -5442,7 +5442,7 @@ demasiado ADJ
 como CCONJ
 eh INTJ
 eh INTJ
-cuando CCONJ
+cuando SCONJ
 vimos VERB
 Rome PROPN
 
@@ -5484,7 +5484,7 @@ mi ADJ
 vista NOUN
 todo PRON
 
-porque CCONJ
+porque SCONJ
 es VERB
 cool VERB
 
@@ -5530,7 +5530,7 @@ Morocco PROPN
 is VERB
 cool ADJ
 
-if CCONJ
+if SCONJ
 for ADP
 example NOUN
 I PRON
@@ -5544,7 +5544,7 @@ you PRON
 going VERB
 to ADP
 Morocco PROPN
-si CCONJ
+si SCONJ
 estás VERB
 ahí ADV
 tú PRON
@@ -5553,7 +5553,7 @@ puedes VERB
 decir VERB
 
 es VERB
-que CCONJ
+que SCONJ
 por ADP
 eso PRON
 es VERB
@@ -5571,7 +5571,7 @@ dios NOUN
 ah INTJ
 mira VERB
 resulta VERB
-que CCONJ
+que PRON
 te PRON
 necesitan VERB
 en ADP
@@ -5580,7 +5580,7 @@ este ADJ
 fin NOUN
 de ADP
 semana NOUN
-porque CCONJ
+porque SCONJ
 una DET
 familia NOUN
 tan ADV
@@ -5589,7 +5589,7 @@ tan ADV
 tan ADV
 tan ADV
 
-si CCONJ
+si SCONJ
 un DET
 fin NOUN
 de ADP
@@ -5617,7 +5617,7 @@ God PROPN
 
 ah INTJ
 es VERB
-que CCONJ
+que SCONJ
 estamos VERB
 haciendo VERB
 un DET
@@ -5633,7 +5633,7 @@ it PRON
 like CCONJ
 
 es VERB
-que CCONJ
+que SCONJ
 de ADP
 eso PRON
 se PRON
@@ -5660,7 +5660,7 @@ de ADP
 forma NOUN
 diferente ADJ
 
-como CCONJ
+como SCONJ
 ves VERB
 este DET
 este DET
@@ -5732,7 +5732,7 @@ super ADJ
 cool ADJ
 
 después ADV
-cuando CCONJ
+cuando SCONJ
 llueve VERB
 se PRON
 pone VERB
@@ -5740,7 +5740,7 @@ muy ADV
 slippery ADJ
 
 y CCONJ
-si CCONJ
+si SCONJ
 también ADV
 sabes VERB
 lo DET
@@ -5807,19 +5807,19 @@ sea VERB
 tú PRON
 diseñar VERB
 algo PRON
-porque CCONJ
+porque SCONJ
 te PRON
 gusta VERB
 por ADP
 el DET
 aesthetically ADV
 
-like CCONJ
-porque CCONJ
+like INTJ
+porque SCONJ
 te PRON
 gusta VERB
 
-porque CCONJ
+porque SCONJ
 te PRON
 vi VERB
 yawning VERB
@@ -5855,12 +5855,12 @@ pero CCONJ
 ya ADV
 me PRON
 molestó VERB
-porque CCONJ
+porque SCONJ
 sentí VERB
-que CCONJ
+que SCONJ
 te PRON
 estabas VERB
-like CCONJ
+like INTJ
 pasando VERB
 
 ah INTJ
@@ -5911,7 +5911,7 @@ control NOUN
 
 Marta PROPN
 espérate VERB
-que CCONJ
+que SCONJ
 estoy VERB
 hablando VERB
 con ADP
@@ -5924,7 +5924,7 @@ no ADV
 le PRON
 gusta VERB
 eso PRON
-porque CCONJ
+porque SCONJ
 ella PRON
 es VERB
 la DET
@@ -5950,9 +5950,9 @@ they PRON
 they PRON
 're PART
 not ADV
-as CCONJ
+as SCONJ
 strong ADJ
-as CCONJ
+as SCONJ
 they PRON
 were VERB
 a DET
@@ -5962,7 +5962,7 @@ years NOUN
 ago ADV
 
 ah INTJ
-like CCONJ
+like INTJ
 ah INTJ
 in ADP
 the DET
@@ -6086,7 +6086,7 @@ sí ADV
 esto PRON
 tiene VERB
 cinnamon NOUN
-que CCONJ
+que SCONJ
 es VERB
 canela NOUN
 orange NOUN
@@ -6154,7 +6154,7 @@ giving VERB
 me PRON
 your ADJ
 your ADJ
-like CCONJ
+like INTJ
 thanks NOUN
 for ADP
 giving VERB
@@ -6221,7 +6221,7 @@ yeah ADV
 ah INTJ
 you PRON
 know VERB
-that CCONJ
+that SCONJ
 I PRON
 I PRON
 have VERB
@@ -6251,7 +6251,7 @@ ah INTJ
 this DET
 black ADJ
 guy NOUN
-that CCONJ
+that SCONJ
 it PRON
 was VERB
 doing VERB
@@ -6287,14 +6287,14 @@ I PRON
 I PRON
 'm PART
 more ADV
-than CCONJ
+than SCONJ
 happy ADJ
 to ADP
 give VERB
 blood NOUN
 
 entonces ADV
-cuando CCONJ
+cuando SCONJ
 me PRON
 miré VERB
 el DET
@@ -6314,7 +6314,7 @@ estoy VERB
 sangre NOUN
 sangre NOUN
 
-that CCONJ
+that SCONJ
 un DET
 un DET
 hombre NOUN
@@ -6341,7 +6341,7 @@ you PRON
 like VERB
 you PRON
 have VERB
-like CCONJ
+like INTJ
 you PRON
 have VERB
 felt VERB
@@ -6369,11 +6369,11 @@ was VERB
 bueno INTJ
 te PRON
 digo VERB
-que CCONJ
+que SCONJ
 yo PRON
 soy VERB
 brava ADJ
-porque CCONJ
+porque SCONJ
 yo PRON
 fui VERB
 la DET
@@ -6425,7 +6425,7 @@ bebé NOUN
 de ADP
 laboratorio NOUN
 
-because CCONJ
+because SCONJ
 me PRON
 gusta VERB
 el DET
@@ -6449,7 +6449,7 @@ about ADP
 some ADJ
 of ADP
 them PRON
-like CCONJ
+like INTJ
 er INTJ
 espiritismo NOUN
 
@@ -6463,9 +6463,9 @@ yo PRON
 sé VERB
 the DET
 New_Age X
-cuando CCONJ
+cuando SCONJ
 así ADV
-que CCONJ
+que SCONJ
 tú PRON
 sabes VERB
 
@@ -6539,7 +6539,7 @@ el DET
 a ADP
 la PRON
 meta NOUN
-que CCONJ
+que PRON
 es VERB
 la DET
 santidad NOUN
@@ -6569,7 +6569,7 @@ a DET
 chemical NOUN
 stuff NOUN
 
-like CCONJ
+like INTJ
 without ADP
 I PRON
 do VERB
@@ -6607,9 +6607,9 @@ estoy VERB
 de ADP
 acuerdo NOUN
 
-que CCONJ
+que SCONJ
 es VERB
-que CCONJ
+que SCONJ
 brother NOUN
 mira VERB
 
@@ -6629,7 +6629,7 @@ y CCONJ
 toda ADJ
 la DET
 noche NOUN
-pues CCONJ
+pues ADV
 jugando VERB
 board NOUN
 games NOUN
@@ -6641,23 +6641,23 @@ vos PRON
 vos PRON
 conocés VERB
 a ADP
-Landew X
-pues CCONJ
+Landew PROPN
+pues ADV
 el DET
 maje NOUN
 bajó VERB
 de ADP
-pues CCONJ
+pues ADV
 anda VERB
 aquí ADV
 de ADP
-pues CCONJ
+pues ADV
 en ADP
 un DET
 break NOUN
 
 viste VERB
-pues CCONJ
+pues ADV
 fuimos VERB
 a ADP
 el DET
@@ -6703,18 +6703,18 @@ school NOUN
 me PRON
 entendés VERB
 
-si CCONJ
-if CCONJ
+si SCONJ
+if SCONJ
 it PRON
 's PART
 good ADJ
 for ADP
 her ADJ
 
-like CCONJ
+like INTJ
 no ADV
 sé VERB
-pues CCONJ
+pues ADV
 como CCONJ
 que CCONJ
 como CCONJ
@@ -6738,17 +6738,17 @@ entendés VERB
 she PRON
 knows VERB
 de ADP
-que CCONJ
+que SCONJ
 I PRON
 'm PART
 gonna VERB
 be VERB
 here ADV
-whenever CCONJ
+whenever SCONJ
 she PRON
 needs ADV
 me PRON
-pues CCONJ
+pues ADV
 pero CCONJ
 
 pero CCONJ
@@ -6767,14 +6767,14 @@ algo PRON
 chill ADJ
 
 y CCONJ
-pues CCONJ
+pues ADV
 you PRON
 know VERB
 what PRON
 I PRON
 think VERB
 
-like CCONJ
+like INTJ
 para ADP
 sentirme VERB
 incómodo ADJ
@@ -6786,11 +6786,11 @@ entendés VERB
 o CCONJ
 sea VERB
 es VERB
-que CCONJ
+que SCONJ
 el DET
 no ADV
 sé VERB
-like CCONJ
+like ADV
 están VERB
 pasando VERB
 un DET
@@ -6802,22 +6802,22 @@ mi ADJ
 vida NOUN
 ahorita ADV
 
-pues CCONJ
+pues ADV
 sí ADV
 o CCONJ
 sea VERB
-like CCONJ
+like ADV
 creo VERB
-que CCONJ
+que SCONJ
 a ADP
 el DET
 final ADJ
 terminaré VERB
 quedándome VERB
-aunque CCONJ
+aunque SCONJ
 no ADV
 quiera VERB
-pues CCONJ
+pues ADV
 pero CCONJ
 idiay INTJ
 
@@ -6846,12 +6846,12 @@ en ADP
 Univisión PROPN
 me PRON
 entendés VERB
-like CCONJ
+like INTJ
 
 entonces ADV
 they PRON
 were VERB
-like CCONJ
+like ADV
 more ADJ
 available ADJ
 
@@ -6863,7 +6863,7 @@ nosotros PRON
 we PRON
 wanna VERB
 do VERB
-like CCONJ
+like ADV
 algo PRON
 bacanal ADJ
 me PRON
@@ -6871,7 +6871,7 @@ entendés VERB
 vamos VERB
 
 creo VERB
-que CCONJ
+que SCONJ
 we PRON
 are VERB
 gonna VERB
@@ -6887,14 +6887,14 @@ know VERB
 you PRON
 are VERB
 welcome ADJ
-pues CCONJ
+pues ADV
 
 and CCONJ
 I PRON
 'm PART
 like CCONJ
 fine ADJ
-pues CCONJ
+pues ADV
 
 sólo ADV
 viene VERB
@@ -6917,11 +6917,11 @@ que CCONJ
 de ADP
 a ADP
 verga NOUN
-pues CCONJ
+pues ADV
 y CCONJ
 y CCONJ
 
-pues CCONJ
+pues ADV
 mira VERB
 te PRON
 vas VERB
@@ -6932,7 +6932,7 @@ hacer VERB
 home NOUN
 school NOUN
 
-pues CCONJ
+pues ADV
 como CCONJ
 que CCONJ
 vos PRON
@@ -6941,13 +6941,13 @@ que CCONJ
 por ADP
 lo DET
 general ADJ
-cuando CCONJ
+cuando SCONJ
 hay VERB
 una DET
 persona NOUN
 que PRON
-que CCONJ
-que CCONJ
+que PRON
+que PRON
 no ADV
 habla VERB
 español ADJ
@@ -6957,7 +6957,7 @@ kind ADJ
 of ADP
 rude ADJ
 de ADP
-que CCONJ
+que SCONJ
 te PRON
 pongas VERB
 a ADP
@@ -6965,7 +6965,7 @@ hablar VERB
 en ADP
 en ADP
 español NOUN
-pues CCONJ
+pues ADV
 o CCONJ
 sea VERB
 
@@ -6989,29 +6989,29 @@ el DET
 maje NOUN
 me PRON
 dijo VERB
-que CCONJ
+que SCONJ
 trabajaba VERB
 para ADP
 para ADP
 no ADV
 sé VERB
-que CCONJ
+que SCONJ
 no ADV
 sé VERB
 qué DET
 compañía NOUN
-que PRON
+que SCONJ
 hace VERB
 research NOUN
 
-pues CCONJ
+pues ADV
 sí ADV
 de ADP
 hecho NOUN
 de ADP
 hecho NOUN
 no ADV
-pues CCONJ
+pues ADV
 we PRON
 we PRON
 've PART
@@ -7023,7 +7023,7 @@ poniendo VERB
 a ADP
 el DET
 día NOUN
-pues CCONJ
+pues ADV
 
 entonces ADV
 lo PRON
@@ -7050,7 +7050,7 @@ Richard PROPN
 Corso PROPN
 
 ideay X
-if CCONJ
+if SCONJ
 it PRON
 's PART
 not ADV
@@ -7061,7 +7061,7 @@ it PRON
 not ADV
 official ADJ
 así ADV
-que CCONJ
+que SCONJ
 déjame VERB
 revisar VERB
 
@@ -7080,7 +7080,7 @@ with ADP
 Eva PROPN
 Hinojosa PROPN
 así ADV
-que CCONJ
+que SCONJ
 siguen VERB
 jalando VERB
 los DET
@@ -7098,7 +7098,7 @@ paso NOUN
 de ADP
 hecho NOUN
 creo VERB
-que CCONJ
+que SCONJ
 tengo VERB
 una DET
 foto NOUN
@@ -7114,7 +7114,7 @@ profile NOUN
 funny ADJ
 ah INTJ
 sí ADV
-que CCONJ
+que SCONJ
 sí ADV
 es VERB
 cierto ADJ
@@ -7136,7 +7136,7 @@ o CCONJ
 sea VERB
 le PRON
 dije VERB
-que CCONJ
+que SCONJ
 el DET
 maje NOUN
 tal ADJ
@@ -7148,12 +7148,12 @@ para ADP
 para ADP
 para ADP
 summer NOUN
-pues CCONJ
+pues ADV
 
 me PRON
 dice VERB
-porque CCONJ
-si CCONJ
+porque SCONJ
+si SCONJ
 me PRON
 vengo VERB
 para ADP
@@ -7169,7 +7169,7 @@ dice VERB
 y CCONJ
 
 y CCONJ
-que CCONJ
+que SCONJ
 le PRON
 den VERB
 dos NUM
@@ -7180,12 +7180,12 @@ sea VERB
 no ADV
 sé VERB
 
-like CCONJ
+like INTJ
 a ADP
 mí PRON
 no ADV
 
-like CCONJ
+like INTJ
 últimamente ADV
 no ADV
 ha VERB
@@ -7232,7 +7232,7 @@ they PRON
 put VERB
 they PRON
 put VERB
-like CCONJ
+like ADV
 ah INTJ
 como CCONJ
 una DET
@@ -7242,7 +7242,7 @@ se PRON
 la PRON
 ponen VERB
 and CCONJ
-like CCONJ
+like INTJ
 
 ah INTJ
 it PRON
@@ -7252,15 +7252,15 @@ like CCONJ
 you PRON
 know VERB
 como CCONJ
-que CCONJ
+que SCONJ
 te PRON
 enfocan VERB
-que CCONJ
+que SCONJ
 se VERB
 se PRON
 fue VERB
 como CCONJ
-que CCONJ
+que SCONJ
 se PRON
 va VERB
 yendo VERB
@@ -7276,10 +7276,10 @@ there ADV
 is VERB
 a DET
 girl NOUN
-that CCONJ
+that SCONJ
 betrayed VERB
 him PRON
-que CCONJ
+que SCONJ
 se PRON
 hace VERB
 pasar VERB
@@ -7299,7 +7299,7 @@ puede VERB
 pasar VERB
 como CCONJ
 humano ADJ
-si CCONJ
+si SCONJ
 se PRON
 parece VERB
 como CCONJ
@@ -7307,13 +7307,13 @@ un DET
 zombie NOUN
 
 one PRON
-that CCONJ
+that SCONJ
 one PRON
 se PRON
 estaba VERB
 curando VERB
 
-cuando CCONJ
+cuando SCONJ
 se PRON
 la PRON
 va VERB
@@ -7362,7 +7362,7 @@ he PRON
 was VERB
 telling VERB
 me PRON
-que CCONJ
+que SCONJ
 quiere VERB
 grabar VERB
 el DET
@@ -7408,7 +7408,7 @@ Ando X
 
 you PRON
 know VERB
-like CCONJ
+like ADV
 el DET
 perfil NOUN
 
@@ -7464,7 +7464,7 @@ hay VERB
 una DET
 parte NOUN
 que PRON
-que CCONJ
+que PRON
 la DET
 la DET
 pesada ADJ
@@ -7512,7 +7512,7 @@ on ADP
 on ADP
 the DET
 
-Kensei X
+Kensei PROPN
 but CCONJ
 he PRON
 's PART
@@ -7521,13 +7521,13 @@ back ADV
 
 and CCONJ
 Nathan PROPN
-porque CCONJ
+porque SCONJ
 en ADP
 las DET
 en ADP
 la DET
 
-cuando CCONJ
+cuando SCONJ
 ellos PRON
 te PRON
 ponen VERB
@@ -7542,7 +7542,7 @@ months NOUN
 ago ADV
 tú PRON
 viste VERB
-que CCONJ
+que SCONJ
 Nathan PROPN
 se PRON
 ve VERB
@@ -7583,7 +7583,7 @@ curan VERB
 you PRON
 know VERB
 lo DET
-like CCONJ
+like INTJ
 
 mí PRON
 es VERB
@@ -7623,7 +7623,7 @@ there ADV
 
 yo PRON
 vi VERB
-que CCONJ
+que SCONJ
 el DET
 el DET
 this DET
@@ -7686,7 +7686,7 @@ they PRON
 got VERB
 they PRON
 got VERB
-like CCONJ
+like ADV
 thousand NUM
 thousand NUM
 movies NOUN
@@ -7696,14 +7696,14 @@ oye VERB
 
 wanna VERB
 see VERB
-si CCONJ
+si SCONJ
 ellos PRON
 se PRON
 tienen VERB
 como CCONJ
 perfume NOUN
 o CCONJ
-si CCONJ
+si SCONJ
 era VERB
 como CCONJ
 un DET
@@ -7720,7 +7720,7 @@ la DET
 
 más ADV
 vieja ADJ
-que CCONJ
+que SCONJ
 perfume NOUN
 yeah ADV
 
@@ -7747,7 +7747,7 @@ The_Golden_Age X
 and CCONJ
 he PRON
 's PART
-like CCONJ
+like ADV
 no ADV
 hagas VERB
 caso NOUN
@@ -7810,14 +7810,14 @@ adivina VERB
 el DET
 futuro NOUN
 
-that CCONJ
+that SCONJ
 ese ADJ
 documental NOUN
 estaba VERB
 duro ADJ
 duro ADJ
 
-pues CCONJ
+pues ADV
 sí ADV
 pero CCONJ
 like VERB
@@ -7842,7 +7842,7 @@ verga NOUN
 
 nada PRON
 de ADP
-que CCONJ
+que PRON
 te PRON
 vas VERB
 a ADP
@@ -7850,7 +7850,7 @@ quedar VERB
 durmiendo VERB
 conmigo ADP
 ni CCONJ
-aunque CCONJ
+aunque SCONJ
 te PRON
 quedes VERB
 conmigo ADP
@@ -7869,16 +7869,16 @@ pero CCONJ
 once ADV
 once ADV
 once ADV
-like CCONJ
-que CCONJ
-que CCONJ
+like ADV
+que SCONJ
+que SCONJ
 empezás VERB
 a ADP
 trabajar VERB
 es VERB
 como CCONJ
-que CCONJ
-aunque CCONJ
+que SCONJ
+aunque SCONJ
 de ADP
 o CCONJ
 sea VERB
@@ -7886,7 +7886,7 @@ dejás VERB
 de ADP
 trabajar VERB
 y CCONJ
-aunque CCONJ
+aunque SCONJ
 te PRON
 estén VERB
 pagando VERB
@@ -7894,18 +7894,18 @@ todo ADJ
 bróder NOUN
 es VERB
 como CCONJ
-que CCONJ
+que SCONJ
 no ADV
 sé VERB
 te PRON
 sentís VERB
 raro ADJ
-porque CCONJ
+porque SCONJ
 ya ADV
 estabas VERB
 acostumbrado VERB
 a ADP
-que CCONJ
+que PRON
 te PRON
 entraran VERB
 tus ADJ
@@ -7917,7 +7917,7 @@ tu ADJ
 madre NOUN
 yo PRON
 pensé VERB
-que CCONJ
+que SCONJ
 I PRON
 thought VERB
 you PRON
@@ -7972,7 +7972,7 @@ ahí ADV
 pero CCONJ
 ya ADV
 renuncié VERB
-like CCONJ
+like ADV
 el DET
 el DET
 sábado NOUN
@@ -8001,13 +8001,13 @@ para ADP
 ver VERB
 qué INTJ
 onda NOUN
-like CCONJ
+like INTJ
 
 por ADP
 por ADP
 el DET
 momento NOUN
-pues CCONJ
+pues ADV
 no ADV
 voy VERB
 a ADP
@@ -8015,23 +8015,23 @@ quedarme VERB
 sin ADP
 hacer VERB
 nada PRON
-porque CCONJ
+porque SCONJ
 esta ADJ
 semana NOUN
 que PRON
 viene VERB
 grabamos VERB
 así ADV
-que CCONJ
+que SCONJ
 voy VERB
 a ADP
 estar VERB
 trabajando VERB
-aunque CCONJ
+aunque SCONJ
 tengo VERB
 spring VERB
 break VERB
-pues CCONJ
+pues ADV
 no ADV
 no ADV
 voy VERB
@@ -8052,7 +8052,7 @@ ya ADV
 termino VERB
 vos PRON
 
-pues CCONJ
+pues ADV
 sí ADV
 ya ADV
 like CCONJ
@@ -8067,7 +8067,7 @@ el DET
 maje NOUN
 me PRON
 llamó VERB
-like CCONJ
+like INTJ
 iba VERB
 a ADP
 ir VERB
@@ -8079,7 +8079,7 @@ ir VERB
 quiero VERB
 ir VERB
 but CCONJ
-like CCONJ
+like ADV
 I PRON
 do VERB
 n't PART
@@ -8094,7 +8094,7 @@ maje NOUN
 de ADP
 la DET
 nada PRON
-like CCONJ
+like ADV
 he PRON
 never ADV
 calls VERB
@@ -8105,7 +8105,7 @@ casi ADV
 nunca ADV
 me PRON
 llama VERB
-like CCONJ
+like ADV
 de ADP
 repente ADV
 por ADP
@@ -8114,7 +8114,7 @@ chateamos VERB
 de ADP
 vez NOUN
 en ADP
-cuando CCONJ
+cuando SCONJ
 
 pero CCONJ
 like VERB
@@ -8129,7 +8129,7 @@ estado VERB
 hemos VERB
 estado VERB
 hablando VERB
-pues CCONJ
+pues ADV
 últimamente ADV
 
 y CCONJ
@@ -8167,7 +8167,7 @@ pelo VERB
 de ADP
 a ADP
 verga NOUN
-like CCONJ
+like ADV
 y CCONJ
 y CCONJ
 lloviendo VERB
@@ -8185,7 +8185,7 @@ me PRON
 vale VERB
 verga NOUN
 
-like CCONJ
+like INTJ
 es VERB
 bonito ADJ
 loco ADJ
@@ -8202,7 +8202,7 @@ a ADP
 verga NOUN
 es VERB
 de ADP
-que CCONJ
+que PRON
 like VERB
 a ADP
 nosotros PRON
@@ -8228,7 +8228,7 @@ los DET
 sábados NOUN
 por ADP
 ejemplo NOUN
-pues CCONJ
+pues ADV
 pero CCONJ
 
 pero CCONJ
@@ -8250,8 +8250,8 @@ música NOUN
 toda ADJ
 rara ADJ
 loco ADJ
-que CCONJ
-que CCONJ
+que SCONJ
+que SCONJ
 o CCONJ
 sea VERB
 bailarla VERB
@@ -8297,7 +8297,7 @@ sea VERB
 ahí ADV
 mismo ADJ
 adentro ADV
-pues CCONJ
+pues ADV
 
 mal NOUN
 que PRON
@@ -8324,7 +8324,7 @@ diez NUM
 la DET
 entrada NOUN
 y CCONJ
-pues CCONJ
+pues ADV
 el DET
 vuelto VERB
 el DET
@@ -8339,7 +8339,7 @@ algo PRON
 de ADP
 tomar VERB
 
-like CCONJ
+like INTJ
 o CCONJ
 sea VERB
 estamos VERB
@@ -8356,9 +8356,9 @@ lo PRON
 agarran VERB
 es VERB
 para ADP
-que CCONJ
+que SCONJ
 para ADP
-que CCONJ
+que SCONJ
 hacer VERB
 negocio NOUN
 con ADP
@@ -8421,12 +8421,12 @@ y CCONJ
 yo PRON
 bueno INTJ
 ok INTJ
-pues CCONJ
+pues ADV
 me PRON
 voy VERB
 a ADP
 ir VERB
-pues CCONJ
+pues ADV
 loco ADJ
 voy VERB
 a ADP
@@ -8445,7 +8445,7 @@ mi ADJ
 ID NOUN
 y CCONJ
 eso PRON
-pues CCONJ
+pues ADV
 para ADP
 
 entonces ADV
@@ -8459,7 +8459,7 @@ el DET
 ATM NOUN
 
 es VERB
-que CCONJ
+que SCONJ
 ahí ADV
 te PRON
 dice VERB
@@ -8471,7 +8471,7 @@ cuánto ADJ
 te PRON
 cobra VERB
 
-que CCONJ
+que SCONJ
 ahí ADV
 dice VERB
 esta ADJ
@@ -8492,17 +8492,17 @@ vez NOUN
 de ADP
 andar VERB
 comprando VERB
-like CCONJ
+like ADV
 los DET
 los DET
 tickets NOUN
 y CCONJ
 eso PRON
-porque CCONJ
+porque SCONJ
 hay VERB
 gente NOUN
-pues CCONJ
-que CCONJ
+pues ADV
+que SCONJ
 hace VERB
 la DET
 fila NOUN
@@ -8513,9 +8513,9 @@ tickets NOUN
 y CCONJ
 tickets NOUN
 
-porque CCONJ
+porque SCONJ
 yo PRON
-like CCONJ
+like ADV
 I PRON
 do VERB
 n't PART
@@ -8559,7 +8559,7 @@ aha INTJ
 es VERB
 mi ADJ
 meta NOUN
-like CCONJ
+like INTJ
 ése PRON
 es VERB
 mi ADJ
@@ -8582,7 +8582,7 @@ fíjate VERB
 
 y CCONJ
 ya ADV
-cuando CCONJ
+cuando SCONJ
 le PRON
 hacían VERB
 su ADJ
@@ -8635,8 +8635,8 @@ conversación NOUN
 como CCONJ
 para ADP
 decirle VERB
-ok X
-like CCONJ
+ok INTJ
+like INTJ
 I PRON
 'm PART
 talking VERB
@@ -8656,7 +8656,7 @@ of ADP
 them PRON
 entonces ADV
 
-que CCONJ
+que SCONJ
 te PRON
 vinistes VERB
 de ADP
@@ -8672,9 +8672,9 @@ una DET
 persona NOUN
 tan ADV
 tan ADV
-like CCONJ
-que CCONJ
-que CCONJ
+like ADV
+que SCONJ
+que SCONJ
 se PRON
 supera VERB
 se PRON
@@ -8689,8 +8689,8 @@ roommates NOUN
 me PRON
 entendés VERB
 para ADP
-que CCONJ
-like VERB
+que SCONJ
+like ADV
 saliera VERB
 cheaper ADJ
 me PRON
@@ -8705,17 +8705,17 @@ les PRON
 gustó VERB
 la DET
 idea NOUN
-pues CCONJ
+pues ADV
 
 y CCONJ
 entonces ADV
-like CCONJ
+like ADV
 los DET
 majes NOUN
 están VERB
 viviendo VERB
 juntos ADJ
-pues CCONJ
+pues ADV
 ahora ADV
 
 y CCONJ
@@ -8728,7 +8728,7 @@ eso PRON
 
 o CCONJ
 sea VERB
-porque CCONJ
+porque SCONJ
 Pedro PROPN
 y CCONJ
 yo PRON
@@ -8736,13 +8736,13 @@ nos PRON
 contamos VERB
 absolutamente ADV
 todo ADJ
-like CCONJ
+like ADV
 absolutely ADV
 everything PRON
 me PRON
 entendés VERB
 
-like CCONJ
+like INTJ
 cada ADJ
 detalle NOUN
 incluso ADV
@@ -8756,10 +8756,10 @@ vidas NOUN
 sexuales ADJ
 
 ok INTJ
-pues CCONJ
+pues ADV
 
-like CCONJ
-si CCONJ
+like INTJ
+si SCONJ
 me PRON
 lo PRON
 estás VERB
@@ -8772,7 +8772,7 @@ for ADP
 a DET
 reason NOUN
 
-like CCONJ
+like INTJ
 él PRON
 me PRON
 contaba VERB
@@ -8784,11 +8784,11 @@ me PRON
 entendés VERB
 
 es VERB
-que CCONJ
+que SCONJ
 mirá VERB
 maje NOUN
 es VERB
-que CCONJ
+que SCONJ
 es VERB
 su ADJ
 roommate NOUN
@@ -8807,7 +8807,7 @@ I PRON
 understand VERB
 me PRON
 entendés VERB
-porque CCONJ
+porque SCONJ
 me PRON
 lo PRON
 dijo VERB
@@ -8815,16 +8815,16 @@ dijo VERB
 and CCONJ
 I PRON
 understand VERB
-that CCONJ
+that SCONJ
 me PRON
 entendés VERB
 
-like CCONJ
+like INTJ
 Pedro PROPN
 sabe VERB
 de ADP
-que CCONJ
-cuando CCONJ
+que SCONJ
+cuando SCONJ
 nosotros PRON
 nos PRON
 decimos VERB
@@ -8847,7 +8847,7 @@ tan ADV
 tan ADV
 tan ADV
 mal ADJ
-like CCONJ
+like ADV
 he PRON
 did VERB
 n't PART
@@ -8865,13 +8865,13 @@ me PRON
 siento VERB
 todo PRON
 ahuevado VERB
-like CCONJ
+like ADV
 toda ADJ
 esta ADJ
 situación NOUN
 está VERB
 
-like CCONJ
+like INTJ
 por ADP
 ejemplo NOUN
 este ADJ
@@ -8885,7 +8885,7 @@ a ADP
 cenar VERB
 
 pero CCONJ
-like CCONJ
+like INTJ
 plan NOUN
 bróderes NOUN
 me PRON
@@ -8894,7 +8894,7 @@ entendés VERB
 and CCONJ
 I PRON
 really ADV
-like CCONJ
+like VERB
 him PRON
 me PRON
 entendés VERB

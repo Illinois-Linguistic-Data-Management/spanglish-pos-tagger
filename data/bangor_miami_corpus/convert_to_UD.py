@@ -60,15 +60,19 @@ def tokenize_UD(word: str, annotation: str, lang_id: str):
 
 def write_tokens_to_column_corpus(tokens: list, outFile):
     for token in tokens:
+        if token[1] == 'PUNCT':
+            continue
         outFile.write(token[0])
         outFile.write(' ')
         outFile.write(token[1])
         outFile.write('\n')
 
 with open ('bangor_miami_corpus/MB_herring.corpus', 'w') as outFile: # write to new file formatted in CoNLL-U
-    for filename in os.listdir('eval_data_original'):
+    for filename in os.listdir('bangor_miami_corpus'):
         print(filename)
         most_recent_speaker = None
+        if filename.split(".")[-1] != "tsv":
+            continue
         with open('bangor_miami_corpus/' + filename, 'r') as file:
                 headers = file.readline().split('\t')
                 print(headers)
