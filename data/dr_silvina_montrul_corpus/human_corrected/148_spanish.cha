@@ -30,10 +30,10 @@
 *PAR:	<RES> [e] . 89142_91048
 *PAR:	<la cap(erucita)> [//] la niña estaba [/] (.) <estaba (.) recogiendo
 	flores> [//] (.) recogió flores . 91048_110188
-%pos: la.DET caperucita.NOUN la.DET niña.NOUN estaba.VERB <.PUNCT estaba.AUX recogiendo.VERB flores.NOUN >.PUNCT recogió.VERB flores.NOUN
+%pos: la.DET caperucita.NOUN la.DET niña.NOUN estaba.AUX estaba.AUX recogiendo.VERB flores.NOUN recogió.VERB flores.NOUN
 *PAR:	<y el> [/] <y el lobo estaba> [//] (.) y el lobo se fue <a la> [//]
 	<a una> [/] a una casa . 110188_127754
-%pos: y.CCONJ el.DET y.CCONJ el.DET lobo.NOUN estaba.VERB y.CCONJ el.DET lobo.NOUN se.PRON fue.VERB a.ADP la.DET a.ADP una.DET a.ADP una.DET casa.NOUN
+%pos: y.CCONJ el.DET y.CCONJ el.DET lobo.NOUN estaba.AUX y.CCONJ el.DET lobo.NOUN se.PRON fue.VERB a.ADP la.DET a.ADP una.DET a.ADP una.DET casa.NOUN
 *PAR:	<listo> [e] . 127754_134619
 *PAR:	y en la casa estaba una fue una abuelita . 134619_145121
 %pos: y.CCONJ en.ADP la.DET casa.NOUN estaba.VERB una.DET fue.VERB una.DET abuelita.NOUN
@@ -43,7 +43,7 @@
 *PAR:	y luego, cuando la niña se fue <para la> [//] a la casa que el lobo
 	<se fue en> [//] estaba en, <el lo(bo)> [/] el lobo se estaba
 	pretendiendo como si era la abuela . 151463_174947
-%pos: y.CCONJ luego.ADV ,.PUNCT cuando.SCONJ la.DET niña.NOUN se.PRON fue.VERB para.ADP la.DET a.ADP la.DET casa.NOUN que.SCONJ el.DET lobo.NOUN se.PRON fue.VERB en.ADP estaba.VERB en.ADP ,.PUNCT el.DET lobo.NOUN el.DET lobo.NOUN se.PRON estaba.AUX pretendiendo.VERB como.ADV si.CCONJ era.VERB la.DET abuela.NOUN
+%pos: y.CCONJ luego.ADV ,.PUNCT cuando.SCONJ la.DET niña.NOUN se.PRON fue.VERB para.ADP la.DET a.ADP la.DET casa.NOUN que.PRON el.DET lobo.NOUN se.PRON fue.VERB en.ADP estaba.VERB en.ADP ,.PUNCT el.DET lobo.NOUN el.DET lobo.NOUN se.PRON estaba.AUX pretendiendo.VERB como.ADV si.CCONJ era.VERB la.DET abuela.NOUN
 *PAR:	y [/] y luego la niña ponió [: puso][*] las flores . 174947_181338
 %pos: y.CCONJ y.CCONJ luego.ADV la.DET niña.NOUN ponió.VERB las.DET flores.NOUN
 *PAR:	<listo> [e] . 181338_183448
@@ -54,7 +54,7 @@
 *PAR:	y la niña estaba muy <sorprendien(do)> [//] sorprendido
 	[: sorprendida][*] cuando vi [: vio][*] <a la pers(ona)> [///] a el
 	lobo en la cama . 190622_203435
-%pos: y.CCONJ la.DET niña.NOUN estaba.AUX muy.ADV sorprendiendo.VERB sorprendido.VERB cuando.SCONJ vi.VERB a.ADP la.DET persona.NOUN a.ADP el.DET lobo.NOUN en.ADP la.DET cama.NOUN
+%pos: y.CCONJ la.DET niña.NOUN estaba.AUX muy.ADV sorprendiendo.VERB sorprendido.ADJ cuando.SCONJ vi.VERB a.ADP la.DET persona.NOUN a.ADP el.DET lobo.NOUN en.ADP la.DET cama.NOUN
 *PAR:	<listo> [e] . 203435_206684
 *PAR:	y el lobo saltó de la cama . 206684_212403
 %pos: y.CCONJ el.DET lobo.NOUN saltó.VERB de.ADP la.DET cama.NOUN
@@ -88,7 +88,7 @@
 %pos: luego.ADV ,.PUNCT la.DET niña.NOUN tenía.VERB y.CCONJ luego.ADV ,.PUNCT iban.VERB a.ADP poner.VERB rocas.NOUN en.ADP el.DET estómago.NOUN del.ADP lobo.NOUN
 *PAR:	y [/] y <lo van> [//] lo iban a cortar para que él ten(ía) [///]
 	creía que todavía estaban adentro xxx . 302833_316146
-%pos: y.CCONJ y.CCONJ lo.PRON van.VERB lo.PRON iban.VERB a.ADP cortar.VERB para.ADP que.SCONJ él.PRON tenía.VERB creía.VERB que.SCONJ todavía.ADV estaban.VERB adentro.ADV xxx.PROPN
+%pos: y.CCONJ y.CCONJ lo.PRON van.VERB lo.PRON iban.VERB a.ADP cortar.VERB para.ADP que.SCONJ él.PRON tenía.VERB creía.VERB que.SCONJ todavía.ADV estaban.VERB adentro.ADV xxx.X
 *PAR:	pero, de verdad, solo son las rocas . 316146_319086
 %pos: pero.CCONJ ,.PUNCT de.ADP verdad.NOUN ,.PUNCT solo.ADV son.AUX las.DET rocas.NOUN
 *PAR:	<RES> [e] . 319086_323283
@@ -109,3 +109,4 @@
 %pos: y.CCONJ la.DET niña.NOUN se.PRON despidió.VERB
 @End
 @Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-24 20:18:22.980219
+@Comment: %pos tags were corrected by Ben Evanoff on 2023-06-25 16:41:42

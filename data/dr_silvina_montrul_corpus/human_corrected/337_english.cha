@@ -49,7 +49,7 @@
 *PAR:	grabbed (.) the granny out of her bed (...). 121812_125854
 %pos: grabbed.VERB the.DET granny.NOUN out.ADV of.ADP her.PRON bed.NOUN
 *PAR:	and +... 125854_126808
-%pos: and.CCONJ +.SYM
+%pos: and.CCONJ
 *PAR:	<next (...)> [e]. 126808_131169
 *PAR:	he ate the granny (...). 131169_133886
 %pos: he.PRON ate.VERB the.DET granny.NOUN
@@ -62,7 +62,7 @@
 *PAR:	<next (...)> [e]. 145992_147318
 *PAR:	<RES> [e]. 147318_150347
 *PAR:	so when the (.) little girl found out that that was a wolf (...) +... 150347_155955
-%pos: so.ADV when.ADV the.DET little.ADJ girl.NOUN found.VERB out.ADP that.CCONJ that.DET was.AUX a.DET wolf.NOUN +.SYM
+%pos: so.ADV when.ADV the.DET little.ADJ girl.NOUN found.VERB out.ADP that.CCONJ that.PRON was.AUX a.DET wolf.NOUN +.SYM
 *PAR:	(be)cause it had ears and (..) sharp claws (...). 155955_161652
 %pos: because.SCONJ it.PRON had.VERB ears.NOUN and.CCONJ sharp.ADJ claws.NOUN
 *PAR:	<next  (..)> [e]. 161652_162782
@@ -103,7 +103,7 @@
 *PAR:	<&=laughs and (.), next (..)> [e]. 227845_230920
 *PAR:	<RES> [e]. 230920_234856
 *PAR:	and then, once they [/] (..) they found rocks to put inside his stomach (...) +... 234856_240936
-%pos: and.CCONJ then.ADV ,.PUNCT once.ADV they.PRON they.PRON found.VERB rocks.NOUN to.PART put.VERB inside.ADP his.PRON stomach.NOUN +.SYM
+%pos: and.CCONJ then.ADV ,.PUNCT once.ADV they.PRON they.PRON found.VERB rocks.NOUN to.PART put.VERB inside.ADP his.PRON stomach.NOUN
 *PAR:	and then granny was going to sew him up (...). 240936_244597
 %pos: and.CCONJ then.ADV granny.NOUN was.AUX going.VERB to.PART sew.VERB him.PRON up.ADP
 *PAR:	<next (..)> [e]. 244597_246006
@@ -124,3 +124,4 @@
 %pos: and.CCONJ that.DET little.ADJ girl.NOUN knows.VERB not.PART to.PART talk.VERB to.ADP animals.NOUN or.CCONJ wolves.NOUN
 @End
 @Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on 2023-05-24 20:05:10.607855
+@Comment: %pos tags were corrected by Ben Evanoff on 2023-06-25 16:50:17
