@@ -27,9 +27,42 @@ The dataframes contain the following features:
 
 ### Word Frequencies
 
-These dataframes provide more detailed data on the lexical choices for each narrative,
-listing all of the words used as well as the number of times each of those words was used to tell the narrative.
-These dataframes contain the following features:
+These dataframes provide more detailed data on the lexical choices for each narrative.
+
+The header rows provide the following information:
 * word: The surface form of the word found in the narrative transcript.
-* category: The lexical category of the word.
-* participant_id: The rest of the columns correspond to a participant id, the value for that column describes how many times that participant used the word.
+* lexical_category: The lexical category of the word (noun, verb, adjective, etc).
+* word_type: "content" if the lexical category is one of ['NOUN', 'VERB', 'ADJ', 'ADV'], otherwise "functional"
+* language: The language ID of the individual word
+
+The rest of the rows have a participant ID on the left most column, and the following details are provided:
+* words: The number of times each word is used by the participant to tell a narrative
+* total_tokens
+* total_types
+* type_token_ratio
+* content_tokens
+* content_types
+* content_ttr
+* functional_content_tokens
+* functional_content_types
+* functional_content_ttr
+* english_total_tokens
+* english_total_types
+* english_type_token_ratio
+* english_content_tokens
+* english_content_types
+* english_content_ttr
+* english_functional_content_tokens
+* english_functional_content_types
+* english_functional_content_ttr
+* spanish_total_tokens
+* spanish_total_types
+* spanish_type_token_ratio
+* spanish_content_tokens
+* spanish_content_types
+* spanish_content_ttr
+* spanish_functional_content_tokens
+* spanish_functional_content_types
+* spanish_functional_content_ttr
+* target_lang_mattr
+* target_lang_mtld
