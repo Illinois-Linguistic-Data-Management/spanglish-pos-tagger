@@ -1,4 +1,4 @@
-from flair.data import Sentence
+#from flair.data import Sentence
 import re, os
 
 def get_cha_files_in_dir(directory):
