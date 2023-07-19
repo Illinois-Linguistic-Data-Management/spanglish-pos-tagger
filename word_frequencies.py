@@ -27,7 +27,7 @@ def get_data_from_file(cha_file, data, participants, texts):
             a) either [-eng] or [-spa] at the beginning of the line
             b) @s appended to the end of the word
         '''
-        return '[-eng]' in participant_line or '[-spa]' in participant_line or f'{word}@s' in participant_line
+        return '[- eng]' in participant_line or '[- spa]' in participant_line or f'{word}@s' in participant_line
     def enhanced_token_w_lang(participant_line, token, main_lang):
         '''
         Returns the input token with the language appended

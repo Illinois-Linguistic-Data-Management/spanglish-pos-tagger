@@ -61,7 +61,7 @@ class MainWidget(QtWidgets.QWidget):
              self.updates_text.setText("input and output files must be selected before predicting tags")
              return
         if not self.tagger_model:
-            self.tagger_model = SequenceTagger.load('./models/gui-model.pt')
+            self.tagger_model = SequenceTagger.load('benevanoff/spanglish-upos')
 
         with open(self.output_filename, 'w') as outFile:
             utterances = parse_utterances_from_cha(self.input_filename)
