@@ -8,7 +8,7 @@ import re
 import datetime
 from flair.data import Sentence
 from flair.models import SequenceTagger
-from utils.util import parse_utterances_from_cha, preprocess_sentence_from_cha, get_cha_files_in_dir
+from util import parse_utterances_from_cha, preprocess_sentence_from_cha, get_cha_files_in_dir
 
 def annotate_and_write_new_cha(input_filename, output_filename):
     tagger_model = SequenceTagger.load('./models/gui-model.pt')

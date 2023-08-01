@@ -139,10 +139,10 @@ def prediction_to_tags(sentence, predictions, idx2tag):
     print("predictions", predictions.shape)
     for i, prediction in enumerate(predictions):
         for j, logit in enumerate(prediction):
-            if logit >= 0:
+            if logit >= 0.5:
                 print(sentence[i], idx2tag[j])
             else:
-                print("logit <= 0")
+                print("logit < 0.5")
     return
 
 if __name__ == '__main__':

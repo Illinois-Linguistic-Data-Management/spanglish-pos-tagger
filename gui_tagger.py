@@ -1,7 +1,7 @@
 import re
 import sys
 import datetime
-from utils.util import parse_utterances_from_cha, preprocess_sentence_from_cha
+from util import parse_utterances_from_cha, preprocess_sentence_from_cha
 from flair.models import SequenceTagger
 from flair.data import Sentence
 from PySide6 import QtCore, QtWidgets, QtGui

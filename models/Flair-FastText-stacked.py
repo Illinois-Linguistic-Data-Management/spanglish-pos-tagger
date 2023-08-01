@@ -7,18 +7,8 @@ from flair.embeddings import StackedEmbeddings, WordEmbeddings, TransformerWordE
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 
-def sentence_to_tsv(sentence, path):
-    with open (path, 'w') as stream:
-        stream.write("word\t tag\n")
-        for token in sentence:
-            tag = token.get_label('upos')
-            stream.write(token.text)
-            stream.write("\t ")
-            stream.write(tag.value)
-            stream.write('\n')
-
 def evaluate(tagger):
-    evalset_dir = '/Users/ben/Documents/school/spanglish-tagger-new/data/dr_silvina_montrul_corpus/human_corrected'
+    evalset_dir = 'data/dr_silvina_montrul_corpus/evaluation_set'
     errors = 0
     examples = 0
     for file in os.listdir(evalset_dir):
