@@ -78,7 +78,7 @@ class MainWidget(QtWidgets.QWidget):
                         outStr += " " + token.text + "." + token.tag
                     outFile.write(outStr+'\n')
             # write a final comment in the output that it was produced by this tool
-            outFile.write("@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on " + str(datetime.datetime.now()))
+            outFile.write("@Comment: %pos tags were generated using the benevanoff/spanglish-upos model on " + str(datetime.datetime.now()))
                     
 
 class MainWindow(QtWidgets.QMainWindow):

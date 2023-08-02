@@ -12,6 +12,10 @@ This model uses Conditional Random Fields with contextualized text embeddings fr
 
 Transformers, introduced in [Viswani et al Attention is All You Need (2017)](https://arxiv.org/abs/1706.03762) are the current state of the art on most sequence to sequence and natural processing tasks as the positional encoding and scaled dot product attention mechanism in Transformers allows for the model to learn contextual relationships between words in a whole sentence just like recurrent neural networks, but Transformers can process each element in a sequence in parallel rather than serially leading to great computational cost benefits. Those computational cost savings have allowed Google to train on an absolutely huge dataset with many many parameters. The appeal of BERT over other Transformer based architectures such as [GPT (Generative Pretrained Transformer)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) is that BERT is a purely Transformer Encoder based model (opposed to Decoder or Encoder-Decoder) meaning that it uses both forward and backward context, in this case as the masked language modeling objective, to generate contextualized dense vector embeddings. The multilingual variant is particularly appealing for our task as both Spanish and English texts were included in the training set so it comes with knowledge of both languages "baked in". I hypothesize that by fine tuning on a dataset with explicit examples of code switching with English and Spanish then the model will be able to learn a relationship between English and Spanish words similar vain that relationships can be learned as demonstrated by Mikolov et al 2013 but within the specific context of part-of-speech tagging.
 
+#### Usage
+
+`python models/MBERT_pos_tagger.py`
+
 ### BiLSTM-CRF with Muse Projected Bilingual Word Embeddings and Naive Bayes Language ID
 
 Early bilingual POS tagging systems utilized various token level language identification techniques in combination with a multi-class classification technique. [Part of Speech Tagging for Code Switched Data 2016](https://arxiv.org/pdf/1909.13006.pdf), [Joint Part-of-Speech and Language ID Tagging for Code-Switched Data 2018](https://aclanthology.org/W18-3201/)
@@ -24,6 +28,10 @@ This is used to decide whether to use English or Spanish word embeddings. [Egnli
 The embeddings are used as input for a bidirectional LSTM network that uses conditional random fields for classification.
 
 The model was trained over a shuffled mix of a monolingual English corpus and a Spanish monolingual corpus from the [Universal Dependencies Treebank](https://github.com/UniversalDependencies) and the code switched [Bangor Miami Corpus](http://bangortalk.org.uk/speakers.php?c=miami) which contains code switched dialog from native spanish speakers living in the southern United States.
+
+#### Usage
+
+`python models/MUSE-BiLSTM-CRF.py`
 
 ## Prototype Models
 
@@ -43,6 +51,10 @@ For this model I chose a variant of the LSTM architecture as I hypothesize that 
 
 MacDonald, Pearlmutter & Seidenberg also discuss garden path sentences such as "the horse raced past the barn fell" in which the language processor is intially "tricked" or guided down the wrong path by expectations about structural frequencies and must re-evaluate the original parse after encountering some new information toward the end of the phrase. To address this challenge, I decided to use the bidirectional variant of the long short term memory network based on [Schuster and Paliwal's Bidirectional Recurrent Neural Networks (1997)](https://ieeexplore.ieee.org/document/650093) in which hidden states produced by evaluating the input starting from both directions is concatenated together in order to allow the network to evaluate earlier tokens with contextual knowledge of tokens appearing later in phrase.
 
+#### Usage
+
+`python models/BiLSTM-monolingual-stacked.py`
+
 ### BiLSTM-CRF FastText Stacked Monolingual
 
 The same as the previously mentioned model except the classification layer uses [Conditional Random Fields; Lafferty, McCallum, Pereira (2001)](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers).
@@ -50,12 +62,6 @@ The same as the previously mentioned model except the classification layer uses 
 #### Model Intuition
 
 CRFs were designed specifically to label sequence data, which is exactly the same sort of task as part of speech tagging as we take a series of tokens as input and a series labels as output. In a CRF, the neighboring tokens are used in calculating label scores and feature a global normalization function over the probabilities of *all* possible label sequences. This allows CRFs to "relax strong independence assumptions" made by most generative models such as Gaussian Descrimitive Analysis and Hidden Markov Models. This is especially important to the task of part-of-speech tagging as MacDonald et al highlights the role of syntactic contextual contraints in part of speech disambiguation, meaning the lexical classes of words previously seen in a sentence clearly influence syntactic parsing of words seen later on in a sentence. Combining the recurrent neural network architecture with conditional random fields by using the hidden states from a BiLSTM as features for a CRF allows the model to learn contextual relationships in two distinct different ways.
-
-### BERT-BETO Stacked RNN
-
-This model uses the contextualized pretrained embeddings from [BERT](https://arxiv.org/abs/1810.04805) and its spanish adaptation [BETO](https://github.com/dccuchile/beto) concatenated together.
-
-The embeddings are then passed through a RNN for classification. The performance turned out rather poor.
 
 ## Morhological Tagging
 

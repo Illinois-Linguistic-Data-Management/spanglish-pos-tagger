@@ -3,15 +3,14 @@ A script to annotate all .cha files in a given directory
 with part of speech tags
 """
 
-import os
-import re
+import os, sys, re
 import datetime
 from flair.data import Sentence
 from flair.models import SequenceTagger
 from util import parse_utterances_from_cha, preprocess_sentence_from_cha, get_cha_files_in_dir
 
 def annotate_and_write_new_cha(input_filename, output_filename):
-    tagger_model = SequenceTagger.load('./models/gui-model.pt')
+    tagger_model = SequenceTagger.load('benevanoff/spanglish-upos')
     with open(output_filename, 'w') as outFile:
         utterances = parse_utterances_from_cha(input_filename)
         for utterance in utterances:
@@ -27,12 +26,17 @@ def annotate_and_write_new_cha(input_filename, output_filename):
                     outStr += " " + token.text + "." + token.tag
                 outFile.write(outStr+'\n')
         # write a final comment in the output that it was produced by this tool
-        outFile.write("@Comment: %pos tags were generated using the Spanglish-MBERT-CRF-3-Epoch model on " + str(datetime.datetime.now()))
+        outFile.write("@Comment: %pos tags were generated using the benevanoff/spanglish-upos model on " + str(datetime.datetime.now()))
 
-all_cha_files = get_cha_files_in_dir(os.getcwd() + "/transcriptions")
-for cha_file in all_cha_files:
-    split_filename = cha_file.split("/")
-    output_file_parts = [re.sub(r'Transcriptions', 'Tagged Transcriptions', x) if "Transcriptions" in x else x for x in split_filename]
-    output_file = "/".join(output_file_parts)
-    print(output_file)
-    annotate_and_write_new_cha(cha_file, output_file)
+if __name__ == "__main__":
+    try:
+        corpus_dir = sys.argv[1]
+    except:
+        print("Usage: python corpus_tagger.py [corpus_dir]")
+    all_cha_files = get_cha_files_in_dir(os.getcwd() + "/transcriptions")
+    for cha_file in all_cha_files:
+        split_filename = cha_file.split("/")
+        output_file_parts = [re.sub(r'Transcriptions', 'Tagged Transcriptions', x) if "Transcriptions" in x else x for x in split_filename]
+        output_file = "/".join(output_file_parts)
+        print(output_file)
+        annotate_and_write_new_cha(cha_file, output_file)

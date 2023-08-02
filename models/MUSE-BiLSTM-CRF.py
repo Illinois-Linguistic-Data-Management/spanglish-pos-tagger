@@ -19,7 +19,7 @@ import io
 
 # this function is adapted from the example in the MUSE repo
 # https://github.com/facebookresearch/MUSE/blob/main/demo.ipynb
-def load_muse_vec(emb_path, nmax=50000):
+def load_muse_vec(emb_path):
     words = {}
     word_embeddings = {}
     
@@ -31,8 +31,6 @@ def load_muse_vec(emb_path, nmax=50000):
             assert word not in words, 'word found twice'
             words[word] = len(words)
             word_embeddings[word] = vect
-            if len(words) == nmax:
-                break
     return word_embeddings
 
 class SpanglishBilingualEmbeddings(MuseCrosslingualEmbeddings):
@@ -58,7 +56,7 @@ class SpanglishBilingualEmbeddings(MuseCrosslingualEmbeddings):
 
 def build_and_train_model():
     BM_corpus_columns = {0: 'text', 1: 'upos'}
-    BangorMiami_corpus = ColumnCorpus('./', BM_corpus_columns, train_file='BM_herring.corpus')
+    BangorMiami_corpus = ColumnCorpus('./', BM_corpus_columns, train_file='BM_herring_code_switching.corpus')
     # combine monolingual English and Spanish corpora with Bangor Miami
     corpus = MultiCorpus([
         UD_ENGLISH(in_memory=False),
@@ -81,5 +79,7 @@ def build_and_train_model():
     trainer.train('upos-spanglish-MUSE-BiLSTM-CRF',
                   embeddings_storage_mode='cpu',
                   train_with_dev=True,
-                  max_epochs=50)
+                  max_epochs=15)
 
+if __name__ == "__main__":
+    build_and_train_model()
