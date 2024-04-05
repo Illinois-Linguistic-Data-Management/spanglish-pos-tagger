@@ -8,21 +8,22 @@ from flair.trainers import ModelTrainer
 
 def build_and_train_model(use_CRF=True, use_whole_bm_herring=False):
     BM_corpus_columns = {0: 'text', 1: 'upos'}
-    if use_all_bm_herring:
+    if use_whole_bm_herring:
         BangorMiami_corpus = ColumnCorpus('data/bangor_miami_corpus', BM_corpus_columns, train_file='BM_herring.corpus')
     else:
         BangorMiami_corpus = ColumnCorpus('data/bangor_miami_corpus', BM_corpus_columns, train_file='BM_herring_code_switching.corpus')
     # combine monolingual English and Spanish corpora with Bangor Miami corpus
     corpus = MultiCorpus([
-        UD_ENGLISH(in_memory=False),
-        UD_SPANISH(in_memory=False),
-        BangorMiami_corpus
+        #UD_ENGLISH(in_memory=False),
+        #UD_SPANISH(in_memory=False),
+        BangorMiami_corpus,
+        ColumnCorpus('data/hurtado_corpus', BM_corpus_columns, train_file='hurtado.corpus')
     ])
     tag_dictionary = corpus.make_label_dictionary(label_type='upos')
 
     # initalize model
     tagger = SequenceTagger(hidden_size=256,
-                            embeddings=TransformerWordEmbeddings('bert-base-multilingual-cased', layers='-1', fine_tune=True, subtoken_pooling='all'),
+                            embeddings=TransformerWordEmbeddings('bert-base-multilingual-cased', layers='-1', fine_tune=True, subtoken_pooling='mean'),
                             tag_dictionary=tag_dictionary,
                             use_crf=use_CRF,
                             use_rnn=False,
@@ -30,10 +31,10 @@ def build_and_train_model(use_CRF=True, use_whole_bm_herring=False):
                             reproject_embeddings=False
                             )
     # train model
-    trainer = ModelTrainer(tagger, corpus, checkpoint=True)
+    trainer = ModelTrainer(tagger, corpus)
     trainer.train('multilingual-bert-code-switch',
-                  embeddings_storage_mode='gpu',
-                  train_with_dev=True,
+                  embeddings_storage_mode='cpu',
+                  train_with_dev=False,
                   max_epochs=10,
                   save_model_each_k_epochs=1,
                   write_weights=True,
@@ -47,5 +48,6 @@ if __name__ == "__main__":
     except:
         print("Usage: python models/MBERT_pos_tagger.py <use_CRF> <use_whole_bm_herring>")
         print("Ex: python models/MBERT_pos_tagger.py 1 0")
+        quit()
     
     build_and_train_model(use_CRF=use_CRF, use_whole_bm_herring=use_whole_bm_herring)

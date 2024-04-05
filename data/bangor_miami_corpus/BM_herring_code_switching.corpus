@@ -543,9 +543,9 @@ menos ADV
 que PRON
 estamos VERB
 recibiendo VERB
-de PREP
+de ADP
 el DET
-de PREP
+de ADP
 el DET
 income NOUN
 tax NOUN
@@ -1924,7 +1924,7 @@ porque SCONJ
 eso PRON
 es VERB
 lo DET
-de PREP
+de ADP
 el DET
 mensaje NOUN
 so ADV
@@ -2206,7 +2206,7 @@ es VERB
 usted PRON
 tiene VERB
 acceso NOUN
-a PREP
+a ADP
 el DET
 fax NOUN
 
@@ -2824,7 +2824,7 @@ a ADP
 las DET
 maestras NOUN
 de ADP
-a PREP
+a ADP
 el DET
 lado NOUN
 que PRON
@@ -3498,7 +3498,7 @@ fuiste VERB
 la DET
 que PRON
 hablaste VERB
-de PREP
+de ADP
 el DET
 restaurant NOUN
 
@@ -3582,9 +3582,9 @@ seguro ADJ
 que SCONJ
 el DET
 hotdog NOUN
-de PREP
+de ADP
 el DET
-de PREP
+de ADP
 el DET
 Seven PROPN
 Eleven PROPN
@@ -3598,7 +3598,7 @@ pero CCONJ
 por ADP
 la DET
 mitad NOUN
-de PREP
+de ADP
 el DET
 the DET
 hotdog NOUN
@@ -3970,7 +3970,7 @@ Pam PROPN
 y CCONJ
 la DET
 hermana NOUN
-de PREP
+de ADP
 el DET
 Majo PROPN
 
@@ -4267,7 +4267,7 @@ primo ADJ
 violino NOUN
 e CCONJ
 editorio NOUN
-a PREP
+a ADP
 el DET
 teatro NOUN
 de ADP
@@ -4347,7 +4347,7 @@ Lisa PROPN
 quedó VERB
 en ADP
 buscarle VERB
-a PREP
+a ADP
 el DET
 maestro ADJ
 
@@ -5389,7 +5389,7 @@ the DET
 top NOUN
 ones PROPN
 
-a PREP
+a ADP
 el DET
 frente NOUN
 de ADP
@@ -5761,7 +5761,7 @@ casa NOUN
 en ADP
 el DET
 bookstore NOUN
-a PREP
+a ADP
 el DET
 frente NOUN
 a ADP
@@ -6378,7 +6378,7 @@ yo PRON
 fui VERB
 la DET
 fotógrafa NOUN
-de PREP
+de ADP
 el DET
 el DET
 parto NOUN
@@ -6532,9 +6532,9 @@ en ADP
 la DET
 
 eh INTJ
-a PREP
+a ADP
 el DET
-a PREP
+a ADP
 el DET
 a ADP
 la PRON
@@ -7032,7 +7032,7 @@ en ADP
 speaker NOUN
 de ADP
 de ADP
-de PREP
+de ADP
 el DET
 teléfono NOUN
 de ADP
@@ -8289,7 +8289,7 @@ no ADV
 sé VERB
 un DET
 lounge NOUN
-a PREP
+a ADP
 el DET
 lado NOUN
 o CCONJ
@@ -8431,7 +8431,7 @@ loco ADJ
 voy VERB
 a ADP
 ir VERB
-a PREP
+a ADP
 el DET
 ATM NOUN
 
@@ -8539,7 +8539,7 @@ um INTJ
 la DET
 la DET
 cabeza NOUN
-de PREP
+de ADP
 el DET
 hombre NOUN
 es VERB
