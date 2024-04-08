@@ -1,4 +1,4 @@
-# Models
+#  Models
 
 ## Part of Speech Tagging
 
@@ -33,7 +33,6 @@ The model was trained over a shuffled mix of a monolingual English corpus and a 
 
 `python models/MUSE-BiLSTM-CRF.py`
 
-## Prototype Models
 
 ### BiLSTM FastText Stacked Monolingual
 

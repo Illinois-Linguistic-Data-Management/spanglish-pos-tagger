@@ -47,7 +47,7 @@ if __name__ == "__main__":
         use_whole_bm_herring = sys.argv[2] == "1"
     except:
         print("Usage: python models/MBERT_pos_tagger.py <use_CRF> <use_whole_bm_herring>")
-        print("Ex: python models/MBERT_pos_tagger.py 1 0")
+        print("Ex: python3 MBERT_pos_tagger.py 1 0")
         quit()
     
     build_and_train_model(use_CRF=use_CRF, use_whole_bm_herring=use_whole_bm_herring)

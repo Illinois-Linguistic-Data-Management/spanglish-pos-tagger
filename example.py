@@ -3,7 +3,7 @@ from flair.models import SequenceTagger
 
 spanglish_tagger = SequenceTagger.load('benevanoff/spanglish-upos')
 
-example_sentence = "Caperucita Roja put rocks en el estómago de la del perro."
+example_sentence = Sentence("Caperucita Roja put rocks en el estómago de la del perro.")
 
 spanglish_tagger.predict(example_sentence)
 
